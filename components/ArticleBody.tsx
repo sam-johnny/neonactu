@@ -52,7 +52,30 @@ export default function ArticleBody({ blocks }: { blocks: Block[] }) {
             return (
               <figure key={i}>
                 <img src={block.src} alt={block.alt} loading="lazy" />
-                {block.caption && <figcaption>{block.caption}</figcaption>}
+                {(block.caption || block.credit) && (
+                  <figcaption>
+                    {block.caption}
+                    {block.credit && <span className="credit">{block.credit}</span>}
+                  </figcaption>
+                )}
+              </figure>
+            );
+          case "youtube":
+            // Embed officiel YouTube (domaine nocookie), ratio 16/9 responsive.
+            // L'ID est validé au build dans lib/articles.ts.
+            return (
+              <figure key={i} className="video-embed">
+                <div className="video-frame">
+                  <iframe
+                    src={`https://www.youtube-nocookie.com/embed/${block.id}`}
+                    title={block.title}
+                    loading="lazy"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    referrerPolicy="strict-origin-when-cross-origin"
+                    allowFullScreen
+                  />
+                </div>
+                <figcaption>{block.title}</figcaption>
               </figure>
             );
           default:
