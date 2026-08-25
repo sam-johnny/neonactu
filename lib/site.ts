@@ -10,3 +10,9 @@ export const SITE = {
 };
 
 export const GTA_RELEASE_ISO = "2026-11-19T00:00:00Z";
+
+// Interrupteur publicité : tant que false, les emplacements AdSlot ne rendent
+// rien (aucun cadre « espace publicitaire » visible sur le site).
+// Passer à true une fois AdSense validé — et remplacer alors le placeholder
+// d'AdSlot par le snippet ins.adsbygoogle (+ script global dans app/layout.tsx).
+export const ADS_ENABLED = false;
