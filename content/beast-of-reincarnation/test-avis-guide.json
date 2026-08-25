@@ -7,8 +7,8 @@
   "date": "2026-08-26",
   "updatedAt": "2026-08-26",
   "readingTime": 8,
-  "cover": "/images/article-guide.svg",
-  "coverAlt": "Guide et test Beast of Reincarnation — illustration NeonActu",
+  "cover": "/images/beast-of-reincarnation-emma-koo.jpg",
+  "coverAlt": "Emma et Koo dans un monde post-apocalyptique — capture officielle Beast of Reincarnation",
   "keywords": [
     "Beast of Reincarnation test",
     "Beast of Reincarnation avis",
@@ -27,6 +27,13 @@
     {
       "type": "p",
       "text": "**Game Freak a surpris tout le monde.** Après des décennies consacrées presque exclusivement à Pokémon, le studio japonais s'est lancé dans un projet radicalement différent : **Beast of Reincarnation**. Disponible depuis le 4 août 2026, cet action-RPG nous plonge dans un Japon dévasté où Emma et son fidèle chien Koo tentent de survivre. Loin des créatures colorées et des arènes ensoleillées, voici un univers sombre, brutal et pourtant magnifiquement orchestré."
+    },
+    {
+      "type": "image",
+      "src": "/images/beast-of-reincarnation-screenshot.jpg",
+      "alt": "Emma affrontant un Malefact dans les ruines — capture officielle Beast of Reincarnation",
+      "caption": "Les combats contre les Malefacts sont intenses",
+      "credit": "© Game Freak / Fictions — capture officielle"
     },
     {
       "type": "h2",
