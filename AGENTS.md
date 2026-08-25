@@ -78,7 +78,7 @@ app/                    pages Next.js (App Router)
   icon.svg              favicon
 lib/games.ts            loader + validateur des jeux (type Game + getGame)
 lib/articles.ts         loader + validateur des articles — LE point d'entrée du contenu
-lib/site.ts             constantes SITE / GTA_RELEASE_ISO (sans Node, importable côté client)
+lib/site.ts             constantes SITE / GTA_RELEASE_ISO / ADS_ENABLED (sans Node, importable côté client)
 lib/validate.ts         validateurs partagés par les loaders (fail → build cassé)
 content/<jeu>/          un dossier par JEU : _jeu.json (définition) + <slug>.json (articles)
 components/             composants réutilisables (voir ci-dessous)
@@ -182,7 +182,7 @@ Exporte :
 | `Header.tsx` / `Footer.tsx` | serveur | navigation et pied de page — liens générés depuis `games` |
 | `ArticleCard.tsx` | serveur | carte article (grille accueil / hub / liés), URLs via `articleUrl()` |
 | `ArticleBody.tsx` | serveur | rend les `Block[]` en JSX ; supporte le `**gras**` inline via regex dans les `p` et `list` ; images avec légende et `credit` ; embeds YouTube (`youtube-nocookie`, 16/9 responsive) ; exporte aussi `Rich` (gras inline, utilisé par les intros des hubs) |
-| `AdSlot.tsx` | serveur | emplacements publicitaires (`leaderboard` 728×90, `rectangle` 300×250, `in-article`) — placeholder prêt pour AdSense |
+| `AdSlot.tsx` | serveur | emplacements publicitaires (`leaderboard` 728×90, `rectangle` 300×250, `in-article`) — ne rend rien tant que `ADS_ENABLED` est `false` (lib/site.ts) ; placeholder prêt pour AdSense une fois activé |
 | `Countdown.tsx` | **client** | compte à rebours vers `GTA_RELEASE_ISO` |
 | `ParticleField.tsx` | **client** | canvas de particules néon en fond du hero ; respecte `prefers-reduced-motion` |
 | `Marquee.tsx` | **client** | bandeau défilant |
@@ -218,4 +218,4 @@ Le site est optimisé pour le référencement ; **ne pas casser ces mécanismes*
 - `dangerouslySetInnerHTML` utilisé uniquement pour injecter les JSON-LD sérialisés depuis des données locales du dépôt — ne jamais l'étendre à des données externes
 - Les visuels `public/images/` sont versionnés (SVG) : tout nouvel article doit référencer un visuel existant ou venir avec le sien, sinon image cassée au build comme en prod. Les captures officielles (trailers, press kits) sont autorisées dans le corps des articles à condition de renseigner `credit` — ne jamais hotlinker ni reprendre d'images trouvées au hasard (droits d'auteur)
 - Dates de contenu en ISO (`date`, `updatedAt`) ; `formatDate` suppose `YYYY-MM-DD` et force midi UTC pour éviter les décalages de fuseau
-- Publicité : `AdSlot` est un placeholder ; activer AdSense = remplacer son contenu par le snippet `ins.adsbygoogle` et ajouter le script global dans `app/layout.tsx`
+- Publicité : `AdSlot` ne rend rien tant que `ADS_ENABLED` est `false` (lib/site.ts) — aucun cadre publicitaire visible en prod ; activer AdSense = passer le drapeau à `true`, remplacer le placeholder par le snippet `ins.adsbygoogle` et ajouter le script global dans `app/layout.tsx`
