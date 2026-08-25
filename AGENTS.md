@@ -128,7 +128,7 @@ Exporte le type `Game` (le `slug` y est injecté par le loader — **ne pas le m
 
 **Un fichier JSON par article : `content/<jeu>/<slug>.json`.** Le nom du fichier est le slug (sans le nom du jeu, déjà dans l'URL) ; le jeu est déduit du dossier. C'est le format à produire pour toute génération de contenu par IA — aucun code à modifier.
 
-Schéma d'un article (tous les champs sont **requis**, sauf `source`/`caption` dans les blocs) :
+Schéma d'un article (tous les champs sont **requis**, sauf `source`/`caption`/`credit` dans les blocs) :
 
 ```json
 {
@@ -150,11 +150,14 @@ Schéma d'un article (tous les champs sont **requis**, sauf `source`/`caption` d
     { "type": "h3", "text": "Sous-intertitre" },
     { "type": "list", "items": ["Puce 1", "Puce 2"] },
     { "type": "quote", "text": "Citation", "source": "Optionnel" },
-    { "type": "image", "src": "/images/x.jpg", "alt": "…", "caption": "Optionnel" }
+    { "type": "image", "src": "/images/x.jpg", "alt": "…", "caption": "Optionnel", "credit": "Optionnel" },
+    { "type": "youtube", "id": "VQRLujxTm3c", "title": "Titre exact de la vidéo" }
   ],
   "faq": [{ "q": "Question ?", "a": "Réponse." }]
 }
 ```
+
+**Blocs `image` et `youtube` — illustrer avec les visuels officiels.** Les covers restent les visuels SVG maison de `public/images/`, mais le corps d'un article peut s'appuyer sur les visuels officiels du jeu, comme le fait la presse JV : captures des trailers, press kits, images du store. Règles : fichier **copié dans `public/images/`** (jamais de hotlink), champ `credit` **toujours rempli** pour ces visuels (ex. « © Rockstar Games — Trailer 2 »), et usage strictement illustratif d'une actualité. Le bloc `youtube` intègre une vidéo officielle via son embed (domaine `youtube-nocookie.com`, chargement différé) — c'est le moyen le plus sûr d'ajouter un trailer : l'`id` est la suite de 11 caractères après `watch?v=` (validée au build) et le `title` doit être le titre exact de la vidéo (accessibilité). Préférer systématiquement l'embed YouTube à la copie d'une miniature.
 
 **Validation au build** (`lib/articles.ts` + `lib/games.ts`) : toute erreur (champ manquant, bloc de type inconnu, dossier sans `_jeu.json`, JSON invalide) **fait échouer `npm run build`** avec un message `[content] <fichier> : <erreur>`. Ne pas contourner cette validation.
 
@@ -164,7 +167,7 @@ Schéma d'un article (tous les champs sont **requis**, sauf `source`/`caption` d
 
 Exporte :
 
-- Les types `Block` (union discriminée : `p` | `h2` | `h3` | `list` | `quote` | `image`), `FaqItem`, `Article` (le `slug` et le `game` y sont injectés par le loader — **ne pas les mettre dans le JSON**)
+- Les types `Block` (union discriminée : `p` | `h2` | `h3` | `list` | `quote` | `image` | `youtube`), `FaqItem`, `Article` (le `slug` et le `game` y sont injectés par le loader — **ne pas les mettre dans le JSON**)
 - `SITE` : constantes globales (nom, URL `https://neonactu.fr`, tagline, description SEO)
 - `GTA_RELEASE_ISO = "2026-11-19T00:00:00Z"` : date de sortie utilisée par le compte à rebours
 - `articles: Article[]` : chargés depuis `content/` au build (Node `fs`, côté serveur uniquement)
@@ -178,7 +181,7 @@ Exporte :
 |---|---|---|
 | `Header.tsx` / `Footer.tsx` | serveur | navigation et pied de page — liens générés depuis `games` |
 | `ArticleCard.tsx` | serveur | carte article (grille accueil / hub / liés), URLs via `articleUrl()` |
-| `ArticleBody.tsx` | serveur | rend les `Block[]` en JSX ; supporte le `**gras**` inline via regex dans les `p` et `list` ; exporte aussi `Rich` (gras inline, utilisé par les intros des hubs) |
+| `ArticleBody.tsx` | serveur | rend les `Block[]` en JSX ; supporte le `**gras**` inline via regex dans les `p` et `list` ; images avec légende et `credit` ; embeds YouTube (`youtube-nocookie`, 16/9 responsive) ; exporte aussi `Rich` (gras inline, utilisé par les intros des hubs) |
 | `AdSlot.tsx` | serveur | emplacements publicitaires (`leaderboard` 728×90, `rectangle` 300×250, `in-article`) — placeholder prêt pour AdSense |
 | `Countdown.tsx` | **client** | compte à rebours vers `GTA_RELEASE_ISO` |
 | `ParticleField.tsx` | **client** | canvas de particules néon en fond du hero ; respecte `prefers-reduced-motion` |
@@ -213,6 +216,6 @@ Le site est optimisé pour le référencement ; **ne pas casser ces mécanismes*
 
 - Aucun secret, aucune variable d'environnement, aucune dépendance au-delà de next/react/react-dom (+ types et TypeScript en dev)
 - `dangerouslySetInnerHTML` utilisé uniquement pour injecter les JSON-LD sérialisés depuis des données locales du dépôt — ne jamais l'étendre à des données externes
-- Les visuels `public/images/` sont versionnés (SVG) : tout nouvel article doit référencer un visuel existant ou venir avec le sien, sinon image cassée au build comme en prod
+- Les visuels `public/images/` sont versionnés (SVG) : tout nouvel article doit référencer un visuel existant ou venir avec le sien, sinon image cassée au build comme en prod. Les captures officielles (trailers, press kits) sont autorisées dans le corps des articles à condition de renseigner `credit` — ne jamais hotlinker ni reprendre d'images trouvées au hasard (droits d'auteur)
 - Dates de contenu en ISO (`date`, `updatedAt`) ; `formatDate` suppose `YYYY-MM-DD` et force midi UTC pour éviter les décalages de fuseau
 - Publicité : `AdSlot` est un placeholder ; activer AdSense = remplacer son contenu par le snippet `ins.adsbygoogle` et ajouter le script global dans `app/layout.tsx`
