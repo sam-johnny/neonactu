@@ -7,8 +7,8 @@
   "date": "2026-08-26",
   "updatedAt": "2026-08-26",
   "readingTime": 7,
-  "cover": "/images/article-guide.svg",
-  "coverAlt": "Illustration guide néon — fuites et analyse GTA 6",
+  "cover": "/images/gta6-vice-beach.jpg",
+  "coverAlt": "Police de Vice Beach et vie nocturne sous les néons — capture officielle GTA 6",
   "keywords": [
     "GTA 6 leak",
     "GTA 6 gameplay leak",
@@ -28,6 +28,13 @@
     {
       "type": "p",
       "text": "**La fin d'août 2026 marquera les esprits des fans de Grand Theft Auto.** Alors que la communauté attendait déjà l'Extended Look annoncé pour le 27 août sur Netflix, une vague de **vidéos de gameplay leakées** a déferlé du 18 au 24 août, révélant des séquences inédites de GTA 6. Conduite, combat, exploration aérienne et même des lieux inattendus : voici ce que ces fuites nous apprennent sur le jeu, à seulement trois mois de sa sortie officielle."
+    },
+    {
+      "type": "image",
+      "src": "/images/gta6-vice-city.jpg",
+      "alt": "Jet privé survolant Vice City — capture officielle GTA 6",
+      "caption": "Vice City vue du ciel",
+      "credit": "© Rockstar Games — capture officielle"
     },
     {
       "type": "h2",
