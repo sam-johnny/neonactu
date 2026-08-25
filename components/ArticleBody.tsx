@@ -52,7 +52,28 @@ export default function ArticleBody({ blocks }: { blocks: Block[] }) {
             return (
               <figure key={i}>
                 <img src={block.src} alt={block.alt} loading="lazy" />
-                {block.caption && <figcaption>{block.caption}</figcaption>}
+                {(block.caption || block.credit) && (
+                  <figcaption>
+                    {block.caption}
+                    {block.credit && <span className="figure-credit">{block.credit}</span>}
+                  </figcaption>
+                )}
+              </figure>
+            );
+          case "youtube":
+            return (
+              <figure key={i} className="video-embed">
+                <div className="video-embed-frame">
+                  <iframe
+                    src={`https://www.youtube-nocookie.com/embed/${block.id}`}
+                    title={block.title}
+                    loading="lazy"
+                    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    referrerPolicy="strict-origin-when-cross-origin"
+                    allowFullScreen
+                  />
+                </div>
+                <figcaption>▶ {block.title} — vidéo officielle</figcaption>
               </figure>
             );
           default:

@@ -1003,6 +1003,35 @@ ul { list-style: none; }
   letter-spacing: 0.06em;
 }
 
+.prose figcaption .figure-credit {
+  display: block;
+  margin-top: 3px;
+  font-size: 10px;
+  opacity: 0.72;
+}
+
+/* Embed vidéo YouTube officielle (bloc « youtube ») */
+
+.prose .video-embed { margin: 40px 0; }
+
+.prose .video-embed-frame {
+  position: relative;
+  aspect-ratio: 16 / 9;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  overflow: hidden;
+  background: #05030c;
+  box-shadow: var(--shadow-card);
+}
+
+.prose .video-embed-frame iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
 /* ============ FAQ ============ */
 
 .faq { margin-top: 60px; max-width: 720px; }

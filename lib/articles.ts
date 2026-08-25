@@ -10,7 +10,8 @@ export type Block =
   | { type: "h3"; text: string }
   | { type: "list"; items: string[] }
   | { type: "quote"; text: string; source?: string }
-  | { type: "image"; src: string; alt: string; caption?: string };
+  | { type: "image"; src: string; alt: string; caption?: string; credit?: string }
+  | { type: "youtube"; id: string; title: string };
 
 export type FaqItem = { q: string; a: string };
 
@@ -71,10 +72,19 @@ function validateBlock(raw: unknown, file: string, index: number): Block {
       };
       const caption = optionalString(raw, "caption", where);
       if (caption !== undefined) image.caption = caption;
+      const credit = optionalString(raw, "credit", where);
+      if (credit !== undefined) image.credit = credit;
       return image;
     }
+    case "youtube": {
+      const id = requireString(raw, "id", where);
+      if (!/^[A-Za-z0-9_-]{11}$/.test(id)) {
+        fail(where, "l'« id » YouTube doit comporter 11 caractères (ex. « VQRLujxTm3c »)");
+      }
+      return { type: "youtube", id, title: requireString(raw, "title", where) };
+    }
     default:
-      fail(where, `type de bloc inconnu « ${String(raw.type)} » (attendu : p | h2 | h3 | list | quote | image)`);
+      fail(where, `type de bloc inconnu « ${String(raw.type)} » (attendu : p | h2 | h3 | list | quote | image | youtube)`);
   }
 }
 
