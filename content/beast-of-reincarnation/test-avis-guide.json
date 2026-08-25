@@ -1,0 +1,102 @@
+{
+  "shortTitle": "Test & avis",
+  "title": "Beast of Reincarnation : test, avis et guide du débutant — le nouveau Game Freak",
+  "description": "Test de Beast of Reincarnation, l'action-RPG post-apocalyptique de Game Freak. Gameplay, combats, univers et nos conseils pour bien débuter. Avis complet.",
+  "excerpt": "Game Freak s'affranchit de Pokémon avec Beast of Reincarnation, un action-RPG sombre dans un Japon post-apocalyptique. Notre test après une semaine de jeu.",
+  "category": "Test",
+  "date": "2026-08-26",
+  "updatedAt": "2026-08-26",
+  "readingTime": 8,
+  "cover": "/images/article-guide.svg",
+  "coverAlt": "Guide et test Beast of Reincarnation — illustration NeonActu",
+  "keywords": [
+    "Beast of Reincarnation test",
+    "Beast of Reincarnation avis",
+    "Beast of Reincarnation guide",
+    "Game Freak Beast of Reincarnation",
+    "action RPG 2026"
+  ],
+  "keyPoints": [
+    "Beast of Reincarnation est développé par Game Freak, créateurs de Pokémon.",
+    "L'action-RPG se déroule dans un Japon post-apocalyptique avec Emma et son chien Koo.",
+    "Les combats sont techniques et exigeants, loin des mécaniques accessibles de Pokémon.",
+    "Le jeu est sorti le 4 août 2026 sur PC, PS5 et Xbox Series X|S.",
+    "Les premiers avis sont globalement positifs, saluant l'ambition du studio."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "text": "**Game Freak a surpris tout le monde.** Après des décennies consacrées presque exclusivement à Pokémon, le studio japonais s'est lancé dans un projet radicalement différent : **Beast of Reincarnation**. Disponible depuis le 4 août 2026, cet action-RPG nous plonge dans un Japon dévasté où Emma et son fidèle chien Koo tentent de survivre. Loin des créatures colorées et des arènes ensoleillées, voici un univers sombre, brutal et pourtant magnifiquement orchestré."
+    },
+    {
+      "type": "h2",
+      "text": "Un univers post-apocalyptique soigné"
+    },
+    {
+      "type": "p",
+      "text": "L'une des premières forces de Beast of Reincarnation réside dans sa **direction artistique**. Le Japon post-catastrophe est rendu avec une précision rare : villes en ruines envahies par la végétation, sanctuaires traditionnels à demi effondrés, et une atmosphère permanente de mélancolie. La bande-son, mêlant instruments traditionnels japonais et ambiances électroniques sourdes, renforce cette immersion unique."
+    },
+    {
+      "type": "h2",
+      "text": "Des combats techniques et exigeants"
+    },
+    {
+      "type": "p",
+      "text": "Là où Pokémon privilégie l'accessibilité, Beast of Reincarnation **ne pardonne pas**. Les combats demandent de la précision, du timing et une gestion rigoureuse de ses ressources. Emma peut compter sur Koo pour distraire les ennemis, découvrir des objets cachés ou même participer aux affrontements. Cette synergie femme-chien constitue le cœur du gameplay."
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Système de parade et d'esquive** : inspiré des souls-like, avec une fenêtre de timing exigeante.",
+        "**Compétences de Koo** : pistage, récupération d'objets, attaque combinée.",
+        "**Craft et survie** : gestion des ressources, fabrication d'équipement et de consommables.",
+        "**Boss mémorables** : des créatures monstrueuses aux designs inspirés du folklore japonais."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Guide du débutant : nos 5 conseils"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Maîtrisez la parade dès le début** : elle est plus efficace que l'esquive et consomme moins d'endurance.",
+        "**Négligez pas Koo** : investissez dans ses compétences de pistage pour trouver des ressources rares.",
+        "**Explorez chaque zone** : les sanctuaires cachés contiennent des améliorations permanentes pour Emma.",
+        "**Gérez votre inventaire** : l'espace est limité, priorisez les matériaux de craft aux consommables basiques.",
+        "**Étudiez les patterns des boss** : chaque créature a des phases distinctes, la patience paie."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Notre avis après une semaine"
+    },
+    {
+      "type": "p",
+      "text": "Beast of Reincarnation n'est pas un jeu parfait. Quelques problèmes de caméra et une courbe de difficulté parfois brutale peuvent frustrer. Mais l'**ambition est palpable**. Game Freak prouve qu'il sait faire autre chose que Pokémon, et le fait avec brio. Pour les amateurs d'action-RPG exigeants et d'univers matures, c'est une découverte de l'été 2026 à ne pas manquer."
+    },
+    {
+      "type": "quote",
+      "text": "Un Japon post-apocalyptique où Emma et son chien Koo représentent le dernier espoir de l'humanité.",
+      "source": "Description officielle de Beast of Reincarnation"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Beast of Reincarnation, c'est quoi ?",
+      "a": "C'est un action-RPG développé par Game Freak dans un Japon post-apocalyptique. Le joueur incarne Emma accompagnée de son chien Koo dans des combats techniques et exigeants."
+    },
+    {
+      "q": "C'est les créateurs de Pokémon ?",
+      "a": "Oui, Beast of Reincarnation est développé par Game Freak, le même studio derrière la franchise Pokémon. C'est leur premier grand projet en dehors de l'univers Pokémon."
+    },
+    {
+      "q": "Sur quelles plateformes sort le jeu ?",
+      "a": "Le jeu est disponible sur PC, PlayStation 5 et Xbox Series X|S depuis le 4 août 2026."
+    },
+    {
+      "q": "Le jeu est-il difficile ?",
+      "a": "Oui, les combats sont exigeants et s'inspirent des souls-like. Une courbe d'apprentissage est nécessaire, mais le jeu récompense la patience et la maîtrise."
+    }
+  ]
+}
