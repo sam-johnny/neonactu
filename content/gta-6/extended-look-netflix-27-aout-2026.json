@@ -7,8 +7,8 @@
   "date": "2026-08-26",
   "updatedAt": "2026-08-26",
   "readingTime": 6,
-  "cover": "/images/hero.svg",
-  "coverAlt": "Coucher de soleil néon sur Vice City, ambiance GTA 6 — illustration NeonActu",
+  "cover": "/images/gta6-extended-look-cover.jpg",
+  "coverAlt": "Lucia et Jason préparant un braquage au coucher de soleil — artwork officiel GTA 6",
   "keywords": [
     "GTA 6 Extended Look",
     "GTA 6 Netflix",
@@ -28,6 +28,13 @@
     {
       "type": "p",
       "text": "**Rockstar Games vient de surprendre tout le monde.** Le studio californien a annoncé ce 6 août 2026 qu'un **'Extended Look'** de Grand Theft Auto VI sera diffusé en exclusivité sur **Netflix le 27 août 2026 à 19h UTC** (21h en France). Une première historique pour la franchise, qui n'avait jamais collaboré avec la plateforme de streaming pour révéler du gameplay."
+    },
+    {
+      "type": "image",
+      "src": "/images/gta6-vice-city.jpg",
+      "alt": "Jet privé survolant le panneau Vice City — capture officielle GTA 6",
+      "caption": "Vice City dans toute sa splendeur néon",
+      "credit": "© Rockstar Games — capture officielle"
     },
     {
       "type": "h2",
@@ -65,6 +72,13 @@
         "**Aperçu de la map** : Vice City et ses environs dans l'état de Leonida",
         "**Qualité visuelle PS5** : Rockstar a confirmé que le Trailer 2 tournait sur PS5"
       ]
+    },
+    {
+      "type": "image",
+      "src": "/images/gta6-vice-beach.jpg",
+      "alt": "Police de Vice Beach et vie nocturne sous les néons — capture officielle GTA 6",
+      "caption": "La vie nocturne de Vice City",
+      "credit": "© Rockstar Games — capture officielle"
     },
     {
       "type": "p",
