@@ -7,8 +7,8 @@
   "date": "2026-08-26",
   "updatedAt": "2026-08-26",
   "readingTime": 5,
-  "cover": "/images/article-guide.svg",
-  "coverAlt": "Calendrier des sorties jeux vidéo août 2026 — illustration NeonActu",
+  "cover": "/images/resonance-plague-tale-legacy.jpg",
+  "coverAlt": "Sophia sur l'île du Minotaure — capture officielle Resonance: A Plague Tale Legacy",
   "keywords": [
     "sorties jeux vidéo août 2026",
     "Mortal Shell 2",
@@ -28,6 +28,13 @@
     {
       "type": "p",
       "text": "**La dernière semaine d'août 2026 s'annonce explosive.** Après des mois d'attente, plusieurs titres très attendus débarquent en même temps, tandis que Rockstar prépare son événement Netflix pour GTA 6. Entre souls-like, stratégie tactique et action-RPG, il y en a pour tous les goûts. Voici le récapitulatif complet des sorties du 18 au 31 août 2026."
+    },
+    {
+      "type": "image",
+      "src": "/images/resonance-plague-tale-legacy.jpg",
+      "alt": "Sophia affrontant un ennemi sur l'île du Minotaure — capture officielle",
+      "caption": "Resonance: A Plague Tale Legacy sort le 27 août",
+      "credit": "© Asobo Studio / Focus Entertainment — capture officielle"
     },
     {
       "type": "h2",
