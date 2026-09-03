@@ -1,12 +1,7 @@
 import Link from "next/link";
 import ThemeToggle from "@/components/ThemeToggle";
+import GamesMenu from "@/components/GamesMenu";
 import { games } from "@/lib/games";
-
-const NAV = [
-  { href: "/", label: "Accueil" },
-  ...games.map((g) => ({ href: `/${g.slug}/`, label: g.shortName })),
-  { href: "/a-propos/", label: "À propos" },
-];
 
 export default function Header() {
   return (
@@ -16,7 +11,7 @@ export default function Header() {
         <span className="header-meta-sep" aria-hidden="true">/</span>
         <span>15 AOÛT 2026</span>
         <span className="header-meta-sep" aria-hidden="true">/</span>
-        <span>DOSSIERS GTA 6 × PALWORLD</span>
+        <span>{games.length} DOSSIERS EN LIGNE</span>
       </div>
       <div className="header-main container">
         <Link href="/" className="logo" aria-label="NeonActu — retour à l'accueil">
@@ -25,11 +20,15 @@ export default function Header() {
         </Link>
         <div className="header-actions">
           <nav className="main-nav" aria-label="Navigation principale">
-            {NAV.map((item) => (
-              <Link key={item.label} href={item.href}>
-                {item.label}
-              </Link>
-            ))}
+            <Link href="/">Accueil</Link>
+            <GamesMenu
+              games={games.map((g) => ({
+                slug: g.slug,
+                shortName: g.shortName,
+                tagline: g.tagline,
+              }))}
+            />
+            <Link href="/a-propos/">À propos</Link>
           </nav>
           <ThemeToggle />
         </div>
