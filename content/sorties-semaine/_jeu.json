@@ -1,0 +1,27 @@
+{
+  "name": "Sorties de la semaine",
+  "shortName": "Sorties",
+  "tagline": "Le calendrier des sorties jeux vidéo chaque semaine",
+  "description": "Ne manquez aucune sortie jeux vidéo avec notre calendrier hebdomadaire. PS5, Xbox Series, Switch, PC : tous les jeux à ne pas manquer, mis à jour chaque semaine.",
+  "intro": [
+    "Chaque semaine, des dizaines de jeux sortent sur toutes les plateformes. Entre les grosses licences AAA et les pépites indépendantes, il est facile de passer à côté de quelque chose d'important.",
+    "Notre calendrier des sorties récapitule **tous les jeux de la semaine** avec leurs dates, plateformes et nos recommandations. Un rendez-vous hebdomadaire pour ne rien louper."
+  ],
+  "cover": "/images/hero.svg",
+  "coverAlt": "Calendrier néon flottant avec des icônes de manettes et des dates brillantes sur fond sombre",
+  "keywords": [
+    "sorties jeux vidéo",
+    "calendrier jeux vidéo",
+    "nouveautés jeux vidéo",
+    "sorties PS5",
+    "sorties Xbox",
+    "sorties Switch"
+  ],
+  "releaseLabel": "Chaque semaine",
+  "platforms": ["PS5", "Xbox Series X|S", "Switch", "PC"],
+  "theme": {
+    "accent": "#00e5ff",
+    "accent2": "#80f8ff",
+    "accentSoft": "rgba(0, 229, 255, 0.14)"
+  }
+}
