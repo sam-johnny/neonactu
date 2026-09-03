@@ -7,8 +7,8 @@
   "date": "2026-08-10",
   "updatedAt": "2026-09-03",
   "readingTime": 8,
-  "cover": "/images/gta6-extended-look-cover.jpg",
-  "coverAlt": "Lucia et Jason devant un coucher de soleil sur Vice City — artwork officiel GTA 6",
+  "cover": "/images/gta6-key-art-lucia-jason.jpg",
+  "coverAlt": "Key art officiel de GTA 6 : Lucia et Jason armés devant la baie de Vice City",
   "keywords": [
     "GTA 6 date de sortie",
     "GTA 6 prix",
@@ -35,6 +35,13 @@
     {
       "type": "p",
       "text": "Après treize ans d'attente et deux reports, **Grand Theft Auto VI** a enfin une date gravée dans le marbre : le **19 novembre 2026**. Confirmée par Rockstar Games en novembre 2025 puis réaffirmée par Take-Two Interactive à chaque bilan financier depuis, elle est désormais soutenue par une campagne marketing qui s'intensifie semaine après semaine. Voici le point complet, à jour au 13 août 2026."
+    },
+    {
+      "type": "image",
+      "src": "/images/gta6-key-art-lucia-jason.jpg",
+      "alt": "Key art officiel de GTA 6 : Lucia et Jason armés devant la baie de Vice City",
+      "caption": "Le key art officiel de Grand Theft Auto VI",
+      "credit": "© Rockstar Games — artwork officiel"
     },
     {
       "type": "h2",

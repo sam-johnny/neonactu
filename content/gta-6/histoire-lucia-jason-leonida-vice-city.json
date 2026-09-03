@@ -7,8 +7,8 @@
   "date": "2026-08-05",
   "updatedAt": "2026-09-03",
   "readingTime": 7,
-  "cover": "/images/article-histoire.svg",
-  "coverAlt": "Deux silhouettes néon, une femme et un homme, face à un coucher de soleil rose sur Vice City — Lucia et Jason, les héros de GTA 6",
+  "cover": "/images/gta6-jason-lucia-artwork.jpg",
+  "coverAlt": "Artwork officiel : Jason et Lucia adossés à leur voiture à Vice City",
   "keywords": [
     "GTA 6 histoire",
     "GTA 6 Lucia",
@@ -35,6 +35,13 @@
     {
       "type": "p",
       "text": "Rockstar a beau distiller les informations au compte-goutte, le tableau est déjà saisissant. GTA 6 racontera l'histoire de **Jason Duval** et **Lucia Caminos**, deux amoureux qui, après un coup qui tourne mal, se retrouvent pris dans une conspiration criminelle à l'échelle d'un État — et n'ont plus que l'un l'autre pour s'en sortir. Un **Bonnie and Clyde des temps modernes**, dans la veine la plus cinématographique du studio."
+    },
+    {
+      "type": "image",
+      "src": "/images/gta6-jason-lucia-artwork.jpg",
+      "alt": "Artwork officiel : Jason et Lucia adossés à leur voiture à Vice City",
+      "caption": "Jason et Lucia, les deux protagonistes",
+      "credit": "© Rockstar Games — artwork officiel"
     },
     {
       "type": "h2",

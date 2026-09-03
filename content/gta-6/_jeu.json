@@ -7,8 +7,8 @@
     "Treize ans après GTA V, **Grand Theft Auto VI** est le jeu le plus attendu de la décennie. Sortie officielle : le **19 novembre 2026** sur **PlayStation 5** et **Xbox Series X|S**. Retour à Vice City, deux protagonistes (Lucia et Jason), et un état de Leonida entièrement à explorer.",
     "Ce dossier rassemble **toute l'actualité vérifiée de GTA 6** : date de sortie, prix et éditions en précommande, analyse des trailers, histoire et personnages, version PC et avenir du mode en ligne. Chaque annonce de Rockstar Games est décryptée et les pages sont mises à jour dès qu'une information officielle tombe."
   ],
-  "cover": "/images/hero.svg",
-  "coverAlt": "Coucher de soleil aux néons roses et oranges sur Vice City : soleil rétro découpé en bandes, skyline et palmiers en silhouette, reflet sur l'océan — l'ambiance de GTA 6",
+  "cover": "/images/gta6-key-art-lucia-jason.jpg",
+  "coverAlt": "Key art officiel de GTA 6 : Lucia et Jason armés devant la baie de Vice City",
   "keywords": [
     "GTA 6",
     "GTA VI",
@@ -19,7 +19,10 @@
   ],
   "releaseIso": "2026-11-19T00:00:00Z",
   "releaseLabel": "19 novembre 2026",
-  "platforms": ["PS5", "Xbox Series X|S"],
+  "platforms": [
+    "PS5",
+    "Xbox Series X|S"
+  ],
   "theme": {
     "accent": "#ff2e7a",
     "accent2": "#ffb35c",

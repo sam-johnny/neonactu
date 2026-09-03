@@ -7,8 +7,8 @@
   "date": "2026-08-02",
   "updatedAt": "2026-09-03",
   "readingTime": 6,
-  "cover": "/images/article-pc.svg",
-  "coverAlt": "Coucher de soleil turquoise sur une ville tropicale ; un écran de PC néon flotte au-dessus de la skyline, symbole de l'attente de GTA 6 sur PC",
+  "cover": "/images/gta6-screenshot-leonida-rue.jpg",
+  "coverAlt": "Rue animée de Leonida sous les fresques murales — capture officielle GTA 6",
   "keywords": [
     "GTA 6 PC",
     "GTA 6 version PC",
@@ -33,6 +33,13 @@
     {
       "type": "p",
       "text": "Si vous jouez sur PC, autant le dire franchement : **il va falloir s'armer de patience**. GTA 6 sortira le 19 novembre 2026 sur PS5 et Xbox Series X|S — et Rockstar n'a soufflé mot d'une quelconque version PC. Aucune date, aucune fenêtre, pas même une confirmation officielle. Mais l'histoire du studio donne de solides indications."
+    },
+    {
+      "type": "image",
+      "src": "/images/gta6-screenshot-leonida-rue.jpg",
+      "alt": "Rue animée de Leonida sous les fresques murales — capture officielle GTA 6",
+      "caption": "Les rues de Leonida, capturées en jeu",
+      "credit": "© Rockstar Games — capture officielle"
     },
     {
       "type": "h2",

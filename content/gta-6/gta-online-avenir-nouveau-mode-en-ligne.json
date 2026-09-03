@@ -7,8 +7,8 @@
   "date": "2026-07-28",
   "updatedAt": "2026-09-03",
   "readingTime": 6,
-  "cover": "/images/article-online.svg",
-  "coverAlt": "Nuit bleue néon sur une métropole tropicale ; une constellation de joueurs connectés brille au-dessus de la skyline, symbole du futur de GTA Online",
+  "cover": "/images/gta-online-los-santos-nuit.jpg",
+  "coverAlt": "Los Santos de nuit sous la pluie — artwork officiel GTA Online",
   "keywords": [
     "GTA Online 2",
     "GTA 6 online",
@@ -33,6 +33,13 @@
     {
       "type": "p",
       "text": "Il y a les sorties de jeux, et il y a le **19 novembre 2026**. Lorsque GTA 6 débarquera sur PS5 et Xbox Series, ce ne sera pas seulement la fin d'une attente de treize ans — GTA V est sorti en septembre 2013, soit une éternité à l'échelle du jeu vidéo. Ce sera aussi un **séisme économique** pour toute l'industrie, et un point d'interrogation géant sur l'avenir du jeu en ligne le plus rentable de l'histoire."
+    },
+    {
+      "type": "image",
+      "src": "/images/gta-online-los-santos-nuit.jpg",
+      "alt": "Los Santos de nuit sous la pluie — artwork officiel GTA Online",
+      "caption": "GTA Online : Los Santos aujourd'hui",
+      "credit": "© Rockstar Games — artwork officiel"
     },
     {
       "type": "h2",

@@ -7,8 +7,8 @@
   "date": "2026-08-08",
   "updatedAt": "2026-09-03",
   "readingTime": 6,
-  "cover": "/images/article-trailer.svg",
-  "coverAlt": "Soleil rétro magenta sur une ville tropicale ; un bouton lecture néon annonce l'arrivée imminente du trailer 3 de GTA 6",
+  "cover": "/images/gta6-trailer-fete-voiture.jpg",
+  "coverAlt": "Fête nocturne autour d'une voiture à Vice City — capture officielle du trailer de GTA 6",
   "keywords": [
     "GTA 6 trailer 3",
     "GTA 6 bande-annonce 3",
@@ -33,6 +33,13 @@
     {
       "type": "p",
       "text": "Rarement une conférence de résultats financiers aura autant fait trembler la communauté gaming. Le **7 août 2026**, Take-Two Interactive présentait ses chiffres trimestriels — le premier rendez-vous du genre depuis l'ouverture des précommandes de GTA 6 le 25 juin. Dans les jours précédents, des fans aux aguets affirmaient avoir repéré **trois mises à jour du site officiel du jeu en moins de 24 heures**. De quoi nourrir tous les espoirs."
+    },
+    {
+      "type": "image",
+      "src": "/images/gta6-trailer-fete-voiture.jpg",
+      "alt": "Fête nocturne autour d'une voiture à Vice City — capture officielle du trailer de GTA 6",
+      "caption": "Vice City la nuit, extraite du trailer",
+      "credit": "© Rockstar Games — capture officielle"
     },
     {
       "type": "h2",
