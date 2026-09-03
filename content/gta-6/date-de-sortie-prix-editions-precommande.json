@@ -5,10 +5,10 @@
   "excerpt": "Sortie confirmée au 19 novembre 2026, précommandes ouvertes depuis le 25 juin, deux éditions et toujours aucun prix officiel : on fait le point sur tout ce qu'il faut savoir avant d'acheter GTA 6.",
   "category": "Guide",
   "date": "2026-08-10",
-  "updatedAt": "2026-08-13",
+  "updatedAt": "2026-09-03",
   "readingTime": 8,
-  "cover": "/images/article-guide.svg",
-  "coverAlt": "Coucher de soleil orange et rose sur une ville tropicale ; un calendrier néon marque la date de sortie de GTA 6 au-dessus de la skyline",
+  "cover": "/images/gta6-extended-look-cover.jpg",
+  "coverAlt": "Lucia et Jason devant un coucher de soleil sur Vice City — artwork officiel GTA 6",
   "keywords": [
     "GTA 6 date de sortie",
     "GTA 6 prix",
@@ -25,6 +25,13 @@
     "Aucune version PS4, Xbox One ou PC n'est annoncée à ce jour."
   ],
   "blocks": [
+    {
+      "type": "image",
+      "src": "/images/gta6-vice-city.jpg",
+      "alt": "Vue panoramique de Vice City avec néons roses et skyline — capture officielle GTA 6",
+      "caption": "Vice City, le cœur de l'État de Leonida",
+      "credit": "© Rockstar Games — capture officielle"
+    },
     {
       "type": "p",
       "text": "Après treize ans d'attente et deux reports, **Grand Theft Auto VI** a enfin une date gravée dans le marbre : le **19 novembre 2026**. Confirmée par Rockstar Games en novembre 2025 puis réaffirmée par Take-Two Interactive à chaque bilan financier depuis, elle est désormais soutenue par une campagne marketing qui s'intensifie semaine après semaine. Voici le point complet, à jour au 13 août 2026."
