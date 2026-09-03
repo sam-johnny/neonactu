@@ -7,8 +7,8 @@
     "Phénomène de 2024 devenu un pilier du jeu de survie, **Palworld** a quitté l'accès anticipé le **10 juillet 2026** avec sa version **1.0**, disponible sur **PC, PS5, Xbox Series X|S, Xbox One et Mac** — et dans le Game Pass. Le « Pokémon avec des flingues » de Pocketpair a dépassé les **40 millions de joueurs** et n'a jamais cessé d'évoluer : Sakurajima, Feybreak, Home Sweet Home, puis le World Tree.",
     "Ce dossier rassemble **toute l'actualité vérifiée de Palworld** : le contenu de la 1.0, l'état du procès qui oppose Nintendo à Pocketpair, et nos guides pratiques — prise en main, meilleurs Pals de début de partie, élevage et Genetic Recombination. Les pages sont mises à jour dès qu'une information officielle tombe."
   ],
-  "cover": "/images/palworld-hero.svg",
-  "coverAlt": "Lever de soleil turquoise et doré sur un archipel tropical : une sphère de capture néon flotte au-dessus d'îles et de palmiers en silhouette — l'ambiance des îles Palpagos dans Palworld",
+  "cover": "/images/palworld-key-art-pals.jpg",
+  "coverAlt": "Key art officiel de Palworld réunissant ses Pals emblématiques",
   "keywords": [
     "Palworld",
     "Palworld 1.0",
@@ -19,7 +19,13 @@
     "Palworld meilleurs Pals"
   ],
   "releaseLabel": "1.0 — 10 juillet 2026",
-  "platforms": ["PC", "PS5", "Xbox Series X|S", "Xbox One", "Mac"],
+  "platforms": [
+    "PC",
+    "PS5",
+    "Xbox Series X|S",
+    "Xbox One",
+    "Mac"
+  ],
   "theme": {
     "accent": "#1fd6c2",
     "accent2": "#9df06a",

@@ -7,8 +7,8 @@
   "date": "2026-08-10",
   "updatedAt": "2026-08-15",
   "readingTime": 6,
-  "cover": "/images/article-palworld-pals.svg",
-  "coverAlt": "Empreinte de patte néon vert et turquoise flottant dans un ciel d'aube sur une plage des îles Palpagos — les meilleurs Pals de début de partie dans Palworld",
+  "cover": "/images/palworld-base-pals-travail.jpg",
+  "coverAlt": "Des Pals au travail sur une chaîne de production — capture de gameplay Palworld",
   "keywords": [
     "Palworld meilleurs Pals",
     "Palworld Pals début",
@@ -28,6 +28,13 @@
     {
       "type": "p",
       "text": "Les zones de départ des îles Palpagos regorgent de Pals « communs » que beaucoup de joueurs ignorent — à tort. Certains restent utiles des dizaines d'heures. Voici ceux à capturer **en priorité** dans vos premières sessions, que ce soit pour le combat, la base ou l'exploration."
+    },
+    {
+      "type": "image",
+      "src": "/images/palworld-base-pals-travail.jpg",
+      "alt": "Des Pals au travail sur une chaîne de production — capture de gameplay Palworld",
+      "caption": "Les Pals les plus utiles travaillent à la base",
+      "credit": "© Pocketpair — capture de gameplay"
     },
     {
       "type": "h2",

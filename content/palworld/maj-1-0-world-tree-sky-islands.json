@@ -7,8 +7,8 @@
   "date": "2026-08-14",
   "updatedAt": "2026-08-15",
   "readingTime": 7,
-  "cover": "/images/article-palworld-1-0.svg",
-  "coverAlt": "Arbre-monde gigantesque en silhouette néon turquoise devant un soleil cyan, au-dessus d'îles flottantes — le World Tree de Palworld 1.0",
+  "cover": "/images/palworld-maj-bataille-volcan.jpg",
+  "coverAlt": "Affrontement contre un Pal volcanique géant — image officielle Palworld",
   "keywords": [
     "Palworld 1.0",
     "Palworld mise à jour",
@@ -29,6 +29,13 @@
     {
       "type": "p",
       "text": "C'était l'une des sorties les plus attendues de l'été : **Palworld 1.0** est disponible depuis le **10 juillet 2026**, mettant fin à deux ans et demi d'accès anticipé commencé en janvier 2024. Annoncée au Summer Game Fest, la mise à jour est **gratuite** pour tous les possesseurs du jeu, disponible simultanément sur PC, PlayStation 5, Xbox Series X|S, Xbox One et Mac — et dans le Game Pass dès le premier jour. Pocketpair évoque **27 pages de notes de patch**, du jamais-vu pour le titre. Le studio célébrait au passage un cap : **40 millions de joueurs cumulés**, puis plus de **850 000 joueurs simultanés sur Steam** au lancement."
+    },
+    {
+      "type": "image",
+      "src": "/images/palworld-maj-bataille-volcan.jpg",
+      "alt": "Affrontement contre un Pal volcanique géant — image officielle Palworld",
+      "caption": "Les nouveaux Pals de la mise à jour",
+      "credit": "© Pocketpair — image officielle"
     },
     {
       "type": "h2",

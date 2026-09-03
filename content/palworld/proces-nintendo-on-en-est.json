@@ -7,8 +7,8 @@
   "date": "2026-08-12",
   "updatedAt": "2026-08-15",
   "readingTime": 6,
-  "cover": "/images/article-palworld-nintendo.svg",
-  "coverAlt": "Balance de la justice tracée en néon rouge et cyan sur un ciel d'orage indigo — le procès entre Nintendo et Pocketpair autour de Palworld",
+  "cover": "/images/palworld-key-art-pals.jpg",
+  "coverAlt": "Key art officiel de Palworld réunissant ses Pals emblématiques",
   "keywords": [
     "Palworld procès",
     "Nintendo Pocketpair",
@@ -28,6 +28,13 @@
     {
       "type": "p",
       "text": "C'est l'affaire juridique la plus suivie du jeu vidéo japonais : depuis **septembre 2024**, **Nintendo** et **The Pokémon Company** poursuivent **Pocketpair**, le studio de Palworld, devant la justice japonaise. Deux ans plus tard, le dossier entre dans sa dernière ligne droite — et il pourrait bien se terminer en pétard mouillé."
+    },
+    {
+      "type": "image",
+      "src": "/images/palworld-key-art-pals.jpg",
+      "alt": "Key art officiel de Palworld réunissant ses Pals emblématiques",
+      "caption": "Palworld, au cœur du litige avec Nintendo",
+      "credit": "© Pocketpair — image officielle"
     },
     {
       "type": "h2",

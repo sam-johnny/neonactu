@@ -7,8 +7,8 @@
   "date": "2026-08-15",
   "updatedAt": "2026-08-15",
   "readingTime": 9,
-  "cover": "/images/article-palworld-debuter.svg",
-  "coverAlt": "Aube verte et turquoise sur une plage tropicale ; une boussole néon flotte au-dessus des palmiers en silhouette, symbole du guide de démarrage de Palworld",
+  "cover": "/images/palworld-base-penking.jpg",
+  "coverAlt": "Un Penking qui mine de la pierre dans une base — capture de gameplay Palworld",
   "keywords": [
     "Palworld débuter",
     "Palworld astuces",
@@ -29,6 +29,13 @@
     {
       "type": "p",
       "text": "Avec la **version 1.0** sortie le 10 juillet 2026, jamais Palworld n'a été aussi accueillant pour les nouveaux joueurs : progression refondue, rubberbanding corrigé, carte presque doublée avec les **Sky Islands**. Mais le jeu reste un survival exigeant, et les premières heures conditionnent tout le reste. Voici nos **10 astuces** pour démarrer du bon pied dans les îles Palpagos."
+    },
+    {
+      "type": "image",
+      "src": "/images/palworld-base-penking.jpg",
+      "alt": "Un Penking qui mine de la pierre dans une base — capture de gameplay Palworld",
+      "caption": "Une base bien organisée, la clé du début de partie",
+      "credit": "© Pocketpair — capture de gameplay"
     },
     {
       "type": "h2",

@@ -7,8 +7,8 @@
   "date": "2026-08-11",
   "updatedAt": "2026-08-15",
   "readingTime": 8,
-  "cover": "/images/article-palworld-elevage.svg",
-  "coverAlt": "Œuf moucheté dessiné en néon rose et or devant un crépuscule chaud sur les îles Palpagos — l'élevage des Pals dans Palworld",
+  "cover": "/images/palworld-elevage-ranch.jpg",
+  "coverAlt": "Un ranch d'élevage avec deux Pals géants et un œuf — capture de gameplay Palworld",
   "keywords": [
     "Palworld élevage",
     "Palworld breeding",
@@ -28,6 +28,13 @@
     {
       "type": "p",
       "text": "Capturer un bon Pal, c'est bien. **Produire** exactement le Pal dont vous avez besoin, c'est mieux. Depuis toujours, l'élevage est la mécanique la plus puissante de Palworld pour les joueurs patients — et la **version 1.0** l'a transformée avec la **Genetic Recombination**. Voici comment tirer le maximum de votre ferme."
+    },
+    {
+      "type": "image",
+      "src": "/images/palworld-elevage-ranch.jpg",
+      "alt": "Un ranch d'élevage avec deux Pals géants et un œuf — capture de gameplay Palworld",
+      "caption": "Le ranch d'élevage et son œuf",
+      "credit": "© Pocketpair — capture de gameplay"
     },
     {
       "type": "h2",
