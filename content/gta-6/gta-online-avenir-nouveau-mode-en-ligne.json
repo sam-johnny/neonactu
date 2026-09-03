@@ -1,11 +1,11 @@
 {
-  "shortTitle": "L’après GTA Online",
+  "shortTitle": "L'après GTA Online",
   "title": "GTA 6 et l'après GTA Online : ce que le 19 novembre va changer pour des millions de joueurs",
   "description": "Que deviendra GTA Online quand GTA 6 sortira le 19 novembre 2026 ? Nouveau mode en ligne, économie record, fin d'une ère de 13 ans : analyse de ce que le lancement va changer pour l'industrie et les joueurs.",
   "excerpt": "Treize ans après GTA V et son Online devenu empire, le 19 novembre 2026 ne marquera pas seulement une sortie de jeu : c'est toute une économie du jeu vidéo qui bascule.",
   "category": "Analyse",
   "date": "2026-07-28",
-  "updatedAt": "2026-08-10",
+  "updatedAt": "2026-09-03",
   "readingTime": 6,
   "cover": "/images/article-online.svg",
   "coverAlt": "Nuit bleue néon sur une métropole tropicale ; une constellation de joueurs connectés brille au-dessus de la skyline, symbole du futur de GTA Online",
@@ -23,6 +23,13 @@
     "L'édition Ultimate de GTA 6 intègre déjà des « commerces et services » dans l'univers du jeu."
   ],
   "blocks": [
+    {
+      "type": "image",
+      "src": "/images/gta6-vice-beach.jpg",
+      "alt": "Vue nocturne de Vice Beach avec néons et vie nocturne — capture officielle GTA 6",
+      "caption": "Le futur de GTA Online se prépare à Vice City",
+      "credit": "© Rockstar Games — capture officielle"
+    },
     {
       "type": "p",
       "text": "Il y a les sorties de jeux, et il y a le **19 novembre 2026**. Lorsque GTA 6 débarquera sur PS5 et Xbox Series, ce ne sera pas seulement la fin d'une attente de treize ans — GTA V est sorti en septembre 2013, soit une éternité à l'échelle du jeu vidéo. Ce sera aussi un **séisme économique** pour toute l'industrie, et un point d'interrogation géant sur l'avenir du jeu en ligne le plus rentable de l'histoire."

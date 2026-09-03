@@ -25,6 +25,13 @@
   ],
   "blocks": [
     {
+      "type": "image",
+      "src": "/images/beast-of-reincarnation-screenshot.jpg",
+      "alt": "Emma combattant un Malefact dans les ruines d'un temple japonais — capture officielle Beast of Reincarnation",
+      "caption": "Les combats contre les Malefacts sont intenses",
+      "credit": "© Game Freak / Fictions — capture officielle"
+    },
+    {
       "type": "p",
       "text": "Quand **Game Freak** annonce un jeu sans le mot « Pokémon » sur la jaquette, l'événement mérite qu'on s'y arrête. Sorti le **4 août 2026**, **Beast of Reincarnation** est le pari le plus risqué de l'histoire du studio japonais. Premier AAA multiplateforme (PS5, Xbox Series, PC), premier jeu en photoréalisme, premier pas hors de l'ombre de Nintendo... Un mois après la sortie, il est temps de faire le bilan sans langue de bois."
     },
