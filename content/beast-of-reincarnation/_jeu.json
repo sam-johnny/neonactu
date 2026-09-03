@@ -7,8 +7,8 @@
     "**Beast of Reincarnation** est le nouveau projet ambitieux de **Game Freak**, le studio japonais derrière la franchise Pokémon. Disponible depuis le 4 août 2026 sur PC, PlayStation 5 et Xbox Series X|S, ce jeu s'éloigne radicalement des créatures colorées pour nous plonger dans un **Japon post-apocalyptique** où Emma et son chien Koo représentent le dernier espoir de l'humanité.",
     "Avec ses combats techniques, son univers sombre et sa direction artistique soignée, Beast of Reincarnation s'impose comme l'une des surprises de l'été 2026. Découvrez notre dossier complet : avis, test et guide pour bien débuter."
   ],
-  "cover": "/images/hero.svg",
-  "coverAlt": "Illustration post-apocalyptique japonaise — Beast of Reincarnation, ambiance sombre et mystérieuse",
+  "cover": "/images/beast-of-reincarnation-emma-koo.jpg",
+  "coverAlt": "Emma et Koo dans un monde post-apocalyptique — capture officielle Beast of Reincarnation",
   "keywords": [
     "Beast of Reincarnation",
     "Beast of Reincarnation test",
@@ -18,7 +18,11 @@
   ],
   "releaseIso": "2026-08-04T00:00:00Z",
   "releaseLabel": "4 août 2026",
-  "platforms": ["PC", "PS5", "Xbox Series X|S"],
+  "platforms": [
+    "PC",
+    "PS5",
+    "Xbox Series X|S"
+  ],
   "theme": {
     "accent": "#c41e3a",
     "accent2": "#ff6b6b",

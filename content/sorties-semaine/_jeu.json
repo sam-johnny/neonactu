@@ -7,8 +7,8 @@
     "Chaque semaine, des dizaines de jeux sortent sur toutes les plateformes. Entre les grosses licences AAA et les pépites indépendantes, il est facile de passer à côté de quelque chose d'important.",
     "Notre calendrier des sorties récapitule **tous les jeux de la semaine** avec leurs dates, plateformes et nos recommandations. Un rendez-vous hebdomadaire pour ne rien louper."
   ],
-  "cover": "/images/hero.svg",
-  "coverAlt": "Calendrier néon flottant avec des icônes de manettes et des dates brillantes sur fond sombre",
+  "cover": "/images/resonance-plague-tale-legacy.jpg",
+  "coverAlt": "Sophia sur l'île du Minotaure — capture officielle Resonance: A Plague Tale Legacy",
   "keywords": [
     "sorties jeux vidéo",
     "calendrier jeux vidéo",
@@ -18,7 +18,12 @@
     "sorties Switch"
   ],
   "releaseLabel": "Chaque semaine",
-  "platforms": ["PS5", "Xbox Series X|S", "Switch", "PC"],
+  "platforms": [
+    "PS5",
+    "Xbox Series X|S",
+    "Switch",
+    "PC"
+  ],
   "theme": {
     "accent": "#00e5ff",
     "accent2": "#80f8ff",
