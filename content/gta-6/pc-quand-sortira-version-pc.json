@@ -5,7 +5,7 @@
   "excerpt": "Consoles d'abord, PC ensuite : Rockstar ne déroge presque jamais à sa règle. Analyse de l'historique du studio pour estimer la fenêtre de sortie de GTA 6 sur PC.",
   "category": "Analyse",
   "date": "2026-08-02",
-  "updatedAt": "2026-08-11",
+  "updatedAt": "2026-09-03",
   "readingTime": 6,
   "cover": "/images/article-pc.svg",
   "coverAlt": "Coucher de soleil turquoise sur une ville tropicale ; un écran de PC néon flotte au-dessus de la skyline, symbole de l'attente de GTA 6 sur PC",
@@ -23,6 +23,13 @@
     "La stratégie de la « double vente » consoles puis PC est historiquement très rentable pour Take-Two."
   ],
   "blocks": [
+    {
+      "type": "image",
+      "src": "/images/gta6-vice-city.jpg",
+      "alt": "Vue nocturne de Vice City avec néons roses et bleus reflétés sur l'océan — capture officielle GTA 6",
+      "caption": "Vice City by night — bientôt sur PC ?",
+      "credit": "© Rockstar Games — capture officielle"
+    },
     {
       "type": "p",
       "text": "Si vous jouez sur PC, autant le dire franchement : **il va falloir s'armer de patience**. GTA 6 sortira le 19 novembre 2026 sur PS5 et Xbox Series X|S — et Rockstar n'a soufflé mot d'une quelconque version PC. Aucune date, aucune fenêtre, pas même une confirmation officielle. Mais l'histoire du studio donne de solides indications."

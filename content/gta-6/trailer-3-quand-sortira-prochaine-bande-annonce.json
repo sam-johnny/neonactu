@@ -5,7 +5,7 @@
   "excerpt": "Trois mises à jour du site officiel en 24 heures, une conférence financière ultra-surveillée et une campagne marketing « d'envergure » promise pour l'été : les indices s'accumulent autour du trailer 3 de GTA 6.",
   "category": "Actu",
   "date": "2026-08-08",
-  "updatedAt": "2026-08-13",
+  "updatedAt": "2026-09-03",
   "readingTime": 6,
   "cover": "/images/article-trailer.svg",
   "coverAlt": "Soleil rétro magenta sur une ville tropicale ; un bouton lecture néon annonce l'arrivée imminente du trailer 3 de GTA 6",
@@ -23,6 +23,13 @@
     "La chronologie la plus crédible : trailer 3 à l'été/automne, gameplay détaillé ensuite, trailer de lancement en novembre."
   ],
   "blocks": [
+    {
+      "type": "image",
+      "src": "/images/gta6-extended-look-cover.jpg",
+      "alt": "Lucia et Jason sur une moto devant un coucher de soleil à Vice City — artwork officiel GTA 6",
+      "caption": "La machine marketing de GTA 6 s'emballe",
+      "credit": "© Rockstar Games — artwork officiel"
+    },
     {
       "type": "p",
       "text": "Rarement une conférence de résultats financiers aura autant fait trembler la communauté gaming. Le **7 août 2026**, Take-Two Interactive présentait ses chiffres trimestriels — le premier rendez-vous du genre depuis l'ouverture des précommandes de GTA 6 le 25 juin. Dans les jours précédents, des fans aux aguets affirmaient avoir repéré **trois mises à jour du site officiel du jeu en moins de 24 heures**. De quoi nourrir tous les espoirs."

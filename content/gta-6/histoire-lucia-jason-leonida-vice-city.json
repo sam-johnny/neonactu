@@ -5,7 +5,7 @@
   "excerpt": "Première héroïne jouable de la saga moderne, duo de braqueurs amoureux, retour à Vice City agrandi à l'échelle d'un État entier : ce que l'on sait de l'histoire de GTA 6 tient déjà du mythe.",
   "category": "Dossier",
   "date": "2026-08-05",
-  "updatedAt": "2026-08-12",
+  "updatedAt": "2026-09-03",
   "readingTime": 7,
   "cover": "/images/article-histoire.svg",
   "coverAlt": "Deux silhouettes néon, une femme et un homme, face à un coucher de soleil rose sur Vice City — Lucia et Jason, les héros de GTA 6",
@@ -25,6 +25,13 @@
     "Rockstar a dévoilé 70 images officielles présentant les lieux et personnages de Leonida."
   ],
   "blocks": [
+    {
+      "type": "image",
+      "src": "/images/gta6-vice-beach.jpg",
+      "alt": "Plage de Vice City au crépuscule avec palmiers et néons — capture officielle GTA 6",
+      "caption": "La célèbre plage de Vice Beach",
+      "credit": "© Rockstar Games — capture officielle"
+    },
     {
       "type": "p",
       "text": "Rockstar a beau distiller les informations au compte-goutte, le tableau est déjà saisissant. GTA 6 racontera l'histoire de **Jason Duval** et **Lucia Caminos**, deux amoureux qui, après un coup qui tourne mal, se retrouvent pris dans une conspiration criminelle à l'échelle d'un État — et n'ont plus que l'un l'autre pour s'en sortir. Un **Bonnie and Clyde des temps modernes**, dans la veine la plus cinématographique du studio."
