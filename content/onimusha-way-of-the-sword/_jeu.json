@@ -1,0 +1,27 @@
+{
+  "name": "Onimusha: Way of the Sword",
+  "shortName": "Onimusha",
+  "tagline": "Preview, gameplay et date de sortie du retour de Capcom",
+  "description": "Onimusha: Way of the Sword marque le retour de la franchise samouraï de Capcom après 20 ans. Preview complète : gameplay, histoire, date de sortie et nos attentes.",
+  "intro": [
+    "Après plus de 20 ans d'absence, **Onimusha** revient sur le devant de la scène. Capcom, dans une forme olympique avec ses reboots de Resident Evil et Street Fighter, s'attaque à l'une de ses franchises les plus cultes des années 2000.",
+    **Onimusha: Way of the Sword** promet de moderniser le gameplay samouraï tout en conservant l'essence génobibi (démons) qui a fait le succès de la saga. Voici tout ce qu'il faut savoir avant le lancement."
+  ],
+  "cover": "/images/hero.svg",
+  "coverAlt": "Samouraï en armure traditionnelle japonaise brandissant une katana enflammée contre un démon cornu, fond de temple shintoïste au crépuscule",
+  "keywords": [
+    "Onimusha Way of the Sword",
+    "Onimusha 2026",
+    "Onimusha Capcom",
+    "Onimusha PS5",
+    "Onimusha gameplay"
+  ],
+  "releaseIso": "2026-09-04T00:00:00Z",
+  "releaseLabel": "4 septembre 2026",
+  "platforms": ["PS5", "Xbox Series X|S", "Switch 2", "PC"],
+  "theme": {
+    "accent": "#e63946",
+    "accent2": "#ff6b7a",
+    "accentSoft": "rgba(230, 57, 70, 0.14)"
+  }
+}
