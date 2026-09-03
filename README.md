@@ -1,6 +1,6 @@
 # NeonActu
 
-Site d'actualité jeux vidéo en français (**https://neonactu.fr**), construit avec **Next.js 15** (App Router, export statique). Organisé en cocon sémantique par jeu : chaque jeu a son dossier (page hub) regroupant news, guides et analyses. Dossiers en ligne : **GTA 6** (sortie, trailers, précommandes) et **Palworld** (version 1.0, World Tree, élevage, astuces).
+Site d'actualité jeux vidéo en français (**https://neonactu.fr**), construit avec **Next.js 15** (App Router, export statique). Organisé en cocon sémantique par jeu : chaque jeu a son dossier (page hub) regroupant news, guides et analyses. Dossiers en ligne : **GTA 6** (sortie, trailers, précommandes), **Palworld** (version 1.0, World Tree, élevage, astuces), **Onimusha: Way of the Sword**, **Beast of Reincarnation** et **Sorties de la semaine**.
 
 ## Stack
 
@@ -36,8 +36,9 @@ components/           Header, Footer, ThemeToggle, ArticleCard, Countdown,
                       Marquee, ParticleField, Reveal, AdSlot, ArticleBody
 content/<jeu>/        _jeu.json (définition du jeu) + <slug>.json (articles)
 lib/                  loaders et validateurs du contenu JSON
-public/images/        visuels SVG versionnés (scènes synthwave « Vice City »
-                      et « îles Palpagos », générées par scripts/generate-images*.py)
+public/images/        visuels officiels des éditeurs (copiés localement,
+                      crédit affiché) et illustrations SVG générées
+                      (scripts/generate-images*.py)
 ```
 
 ## Ajouter un article ou un jeu
@@ -62,4 +63,4 @@ Le composant `components/AdSlot.tsx` matérialise les emplacements (728×90, 300
 
 ---
 
-Site de fans, non affilié à Rockstar Games / Take-Two Interactive ni à Pocketpair.
+Site de fans, non affilié à Rockstar Games / Take-Two Interactive, Capcom, Game Freak ni Pocketpair.
