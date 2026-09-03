@@ -209,6 +209,95 @@ ul { list-style: none; }
   background: var(--accent-soft);
 }
 
+/* ---------- Menu déroulant « Jeux » (navbar scalable) ---------- */
+
+.games-menu { position: relative; }
+
+.games-menu-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  font: inherit;
+  letter-spacing: inherit;
+  text-transform: inherit;
+  color: var(--muted);
+  background: none;
+  border: 0;
+  padding: 8px 13px;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: color 0.25s var(--ease), background-color 0.25s var(--ease);
+}
+
+.games-menu-btn:hover,
+.games-menu-btn[aria-expanded="true"] {
+  color: var(--text);
+  background: var(--accent-soft);
+}
+
+.games-menu-chevron { transition: transform 0.25s var(--ease); }
+
+.games-menu-btn[aria-expanded="true"] .games-menu-chevron {
+  transform: rotate(180deg);
+}
+
+.games-menu-panel {
+  position: absolute;
+  top: calc(100% + 10px);
+  right: 0;
+  z-index: 60;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 300px;
+  padding: 10px;
+  background: var(--bg-card);
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-card);
+  animation: games-menu-in 0.22s var(--ease);
+}
+
+@keyframes games-menu-in {
+  from { opacity: 0; transform: translateY(-5px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.games-menu-caption {
+  padding: 4px 12px 8px;
+  font-size: 10px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+.games-menu-panel .games-menu-link {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 3px;
+  padding: 10px 12px;
+  border-radius: 12px;
+  transition: background-color 0.2s var(--ease);
+}
+
+.games-menu-panel .games-menu-link:hover { background: var(--accent-soft); }
+
+.games-menu-name {
+  color: var(--text);
+  font-size: 12px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.games-menu-tagline {
+  color: var(--muted);
+  font-size: 11px;
+  letter-spacing: 0.02em;
+  text-transform: none;
+  line-height: 1.45;
+}
+
 /* Bouton de bascule de thème */
 
 .theme-toggle {
@@ -1506,12 +1595,19 @@ ul { list-style: none; }
   .main-nav {
     gap: 2px;
     font-size: 11px;
-    overflow-x: auto;
+    overflow-x: visible;
     scrollbar-width: none;
     flex: 1;
   }
   .main-nav::-webkit-scrollbar { display: none; }
   .main-nav a { padding: 8px 9px; white-space: nowrap; }
+  .games-menu-btn { padding: 8px 9px; }
+  .games-menu-panel {
+    right: auto;
+    left: 0;
+    min-width: 0;
+    width: min(320px, calc(100vw - 24px));
+  }
   .section-note { display: none; }
   .articles-grid { gap: 18px; }
   .grid-item,
