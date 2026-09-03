@@ -7,8 +7,8 @@
   "date": "2026-09-03",
   "updatedAt": "2026-09-03",
   "readingTime": 7,
-  "cover": "/images/article-guide.svg",
-  "coverAlt": "Samouraï en position de combat avec une katana rougeoyante, temple japonais en arrière-plan, démon spectral émergeant des ténèbres",
+  "cover": "/images/onimusha-way-of-the-sword-artwork.jpg",
+  "coverAlt": "Miyamoto Musashi armé du gantelet Oni — key art officiel d'Onimusha: Way of the Sword",
   "keywords": [
     "Onimusha Way of the Sword preview",
     "Onimusha 2026 gameplay",
@@ -27,6 +27,13 @@
     {
       "type": "p",
       "text": "**Onimusha** est un nom qui résonne comme un souvenir lointain pour beaucoup de joueurs. Lancée en 2001 sur PlayStation 2, la série de Capcom a marqué son époque en mélangeant Japon féodal, démons et action tranchante. Après **20 ans d'absence** (le dernier épisode, Dawn of Dreams, date de 2006), la franchise revient avec **Way of the Sword**, un reboot qui doit prouver que le samouraï a encore sa place en 2026."
+    },
+    {
+      "type": "image",
+      "src": "/images/onimusha-musashi-gauntlet.jpg",
+      "alt": "Musashi active le pouvoir de son gantelet Oni dans une forêt brumeuse — capture officielle",
+      "caption": "Le gantelet Oni, cœur du gameplay",
+      "credit": "© Capcom — capture officielle"
     },
     {
       "type": "h2",
