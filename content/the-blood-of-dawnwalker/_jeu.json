@@ -1,0 +1,11 @@
+{
+  "title": "The Blood of Dawnwalker",
+  "description": "The Blood of Dawnwalker est un RPG d'action dark fantasy développé par Rebel Wolves, fondé par d'anciens membres de CD Projekt Red. Incarnez Coen, un hybride humain-vampire, dans un monde ouvert du XIVe siècle.",
+  "dev": "Rebel Wolves",
+  "publisher": "Bandai Namco Entertainment",
+  "releaseDate": "2026-09-03",
+  "platform": ["PC", "PS5", "Xbox Series X/S"],
+  "genres": ["RPG d'action", "Dark Fantasy", "Monde ouvert"],
+  "cover": "/images/the-blood-of-dawnwalker-cover.jpg",
+  "banner": "/images/the-blood-of-dawnwalker-banner.jpg"
+}
