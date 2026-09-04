@@ -1,13 +1,31 @@
 {
   "name": "The Blood of Dawnwalker",
   "shortName": "The Blood of Dawnwalker",
-  "title": "The Blood of Dawnwalker",
+  "tagline": "RPG dark fantasy des créateurs de The Witcher",
   "description": "The Blood of Dawnwalker est un RPG d'action dark fantasy développé par Rebel Wolves, fondé par d'anciens membres de CD Projekt Red. Incarnez Coen, un hybride humain-vampire, dans un monde ouvert du XIVe siècle.",
-  "dev": "Rebel Wolves",
-  "publisher": "Bandai Namco Entertainment",
-  "releaseDate": "2026-09-03",
-  "platform": ["PC", "PS5", "Xbox Series X/S"],
-  "genres": ["RPG d'action", "Dark Fantasy", "Monde ouvert"],
+  "intro": [
+    "**The Blood of Dawnwalker** est le premier projet de **Rebel Wolves**, un studio fondé par d'anciens membres clés de CD Projekt Red (créateurs de The Witcher 3). Ce RPG d'action en monde ouvert nous plonge dans un XIVe siècle sombre où vampires et humains s'affrontent.",
+    "Vous incarnez **Coen**, un hybride humain-vampire unique, capable d'évoluer entre les deux mondes. Avec son gameplay narratif profond et sa direction artistique soignée, The Blood of Dawnwalker s'annonce comme l'une des grosses surprises de 2026."
+  ],
   "cover": "/images/the-blood-of-dawnwalker-cover.jpg",
-  "banner": "/images/the-blood-of-dawnwalker-banner.jpg"
+  "coverAlt": "Coen, héros hybride de The Blood of Dawnwalker — key art officiel",
+  "keywords": [
+    "The Blood of Dawnwalker",
+    "Rebel Wolves",
+    "RPG dark fantasy",
+    "jeu vampire 2026",
+    "The Witcher like"
+  ],
+  "releaseIso": "2026-09-03T00:00:00Z",
+  "releaseLabel": "3 septembre 2026",
+  "platforms": [
+    "PC",
+    "PS5",
+    "Xbox Series X|S"
+  ],
+  "theme": {
+    "accent": "#8b0000",
+    "accent2": "#ff4444",
+    "accentSoft": "rgba(139, 0, 0, 0.14)"
+  }
 }
