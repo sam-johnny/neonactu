@@ -1369,8 +1369,8 @@ ul { list-style: none; }
 
 .reveal.armed {
   opacity: 0;
-  transform: translateY(30px);
-  transition: opacity 0.9s var(--ease), transform 0.9s var(--ease);
+  transform: translateY(15px);
+  transition: opacity 0.35s var(--ease), transform 0.35s var(--ease);
 }
 
 .reveal.armed.in { opacity: 1; transform: none; }
