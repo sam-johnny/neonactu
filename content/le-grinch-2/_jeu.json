@@ -1,0 +1,21 @@
+{
+  "name": "Le Grinch 2",
+  "shortName": "Le Grinch 2",
+  "slug": "le-grinch-2",
+  "tagline": "L'anti-héros vert revient pour voler Noël... et votre cœur",
+  "description": "Le Grinch 2 est une aventure plateforme 3D où le célèbre personnage de Dr. Seuss doit sauver Whoville tout en conservant son humour grinçant.",
+  "developer": "Dr. Seuss Enterprises",
+  "publisher": "Outright Games",
+  "releaseDate": "2026-09-18",
+  "platforms": ["PS5", "Xbox Series X/S", "Switch", "PC"],
+  "genres": ["Plateforme", "Aventure"],
+  "cover": "/images/le-grinch-2-cover.jpg",
+  "banner": "/images/le-grinch-2-banner.jpg",
+  "rating": "E",
+  "price": 39.99,
+  "website": "https://www.outrightgames.com/games/the-grinch-2",
+  "social": {
+    "twitter": "@TheGrinch",
+    "instagram": "@thegrinch"
+  }
+}

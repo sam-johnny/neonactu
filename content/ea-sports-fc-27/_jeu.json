@@ -1,0 +1,22 @@
+{
+  "name": "EA SPORTS FC 27",
+  "shortName": "FC 27",
+  "slug": "ea-sports-fc-27",
+  "tagline": "Le nouveau roi du football virtuel est arrivé",
+  "description": "EA SPORTS FC 27 est le dernier opus de la série footballistique d'EA Sports, avec un nouveau moteur graphique et des modes de jeu enrichis.",
+  "developer": "EA Vancouver",
+  "publisher": "Electronic Arts",
+  "releaseDate": "2026-09-25",
+  "platforms": ["PS5", "Xbox Series X/S", "Switch", "PC"],
+  "genres": ["Sport", "Simulation"],
+  "cover": "/images/ea-sports-fc-27-cover.jpg",
+  "banner": "/images/ea-sports-fc-27-banner.jpg",
+  "rating": "E",
+  "price": 69.99,
+  "website": "https://www.ea.com/games/ea-sports-fc/fc-27",
+  "social": {
+    "twitter": "@EASPORTSFC",
+    "instagram": "@easportsfc",
+    "youtube": "@EASPORTSFC"
+  }
+}

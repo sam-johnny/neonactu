@@ -1,0 +1,78 @@
+{
+  "shortTitle": "Dune Awakening preview",
+  "title": "Dune: Awakening : Le MMO de survie arrive enfin sur consoles",
+  "description": "Dune: Awakening sort le 22 septembre 2026 sur PS5 et Xbox Series. Le MMO de survie de Funcom débarque sur console après son succès sur PC.",
+  "excerpt": "Dune: Awakening, le MMO de survie de Funcom, arrive sur PS5 et Xbox Series le 22 septembre 2026. Découvrez ce qui attend les joueurs sur Arrakis.",
+  "category": "Preview",
+  "date": "2026-09-08",
+  "updatedAt": "2026-09-08",
+  "readingTime": 5,
+  "cover": "/images/dune-awakening-cover.jpg",
+  "coverAlt": "Dune: Awakening : paysage d'Arrakis",
+  "keywords": [
+    "Dune Awakening",
+    "Dune jeu vidéo",
+    "MMO survie",
+    "sortie septembre 2026",
+    "Funcom"
+  ],
+  "keyPoints": [
+    "Sortie sur PS5 et Xbox Series le 22 septembre 2026.",
+    "Déjà disponible sur PC depuis 2025.",
+    "MMO de survie en monde ouvert sur Arrakis.",
+    "Gestion de l'eau, craft et combat contre les vers.",
+    "Cross-play entre plateformes."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "text": "**Arrakis vous attend.** Après un an d'exclusivité PC, **Dune: Awakening** débarque enfin sur **PlayStation 5 et Xbox Series X|S** le 22 septembre 2026. Ce MMO de survie développé par **Funcom** promet de nous plonger comme jamais dans l'univers impitoyable de Frank Herbert."
+    },
+    {
+      "type": "h2",
+      "text": "Survivre sur Arrakis"
+    },
+    {
+      "type": "p",
+      "text": "Dune: Awakening n'est pas un simple jeu à licence. C'est un **MMO de survie** où chaque goutte d'eau compte. Les joueurs doivent gérer leurs ressources, crafter du matériel, et surtout survivre au climat hostile de la planète désert. Le sable n'est pas votre seul ennemi — les **vers des sables** rôdent, et les autres joueurs peuvent être encore plus dangereux."
+    },
+    {
+      "type": "h2",
+      "text": "Un univers fidèle et immersif"
+    },
+    {
+      "type": "p",
+      "text": "Funcom a travaillé avec les héritiers de Frank Herbert pour créer un monde authentique. Les **still-suits**, les **crysknives**, les **ornithoptères** — tout l'équipement emblématique de Dune est présent. Les joueurs peuvent rejoindre des **Grandes Maisons**, participer à la guerre des épices, et même influencer l'économie galactique."
+    },
+    {
+      "type": "h2",
+      "text": "L'expérience console"
+    },
+    {
+      "type": "p",
+      "text": "La version console bénéficie d'optimisations spécifiques : interface adaptée aux manettes, performances stabilisées, et **cross-play** avec les joueurs PC. Les serveurs seront partagés, permettant une communauté unifiée dès le jour 1."
+    },
+    {
+      "type": "p",
+      "text": "Pour les nouveaux joueurs, Funcom a prévu un **système de tutoriel complet** qui explique les mécaniques de survie complexes. Les vétérans du PC apprécieront les nouveaux contenus ajoutés pour célébrer le lancement console."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quelle est la date de sortie de Dune: Awakening sur console ?",
+      "a": "Dune: Awakening sort sur PS5 et Xbox Series X|S le 22 septembre 2026."
+    },
+    {
+      "q": "Le jeu est-il déjà sorti ailleurs ?",
+      "a": "Oui, le jeu est disponible sur PC depuis 2025."
+    },
+    {
+      "q": "Y a-t-il du cross-play ?",
+      "a": "Oui, le cross-play entre PC et consoles est prévu au lancement."
+    },
+    {
+      "q": "Faut-il connaître l'univers Dune pour jouer ?",
+      "a": "Non, le jeu est accessible aux nouveaux venus avec un tutoriel complet. Les fans de l'univers apprécieront les nombreux détails fidèles aux œuvres originales."
+    }
+  ]
+}

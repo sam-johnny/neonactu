@@ -1,0 +1,21 @@
+{
+  "name": "Dune: Awakening",
+  "shortName": "Dune: Awakening",
+  "slug": "dune-awakening",
+  "tagline": "Survivez sur Arrakis dans ce MMO de survie épique",
+  "description": "Dune: Awakening est un MMO de survie en monde ouvert développé par Funcom, plongeant les joueurs dans l'univers impitoyable de Frank Herbert.",
+  "developer": "Funcom",
+  "publisher": "Funcom",
+  "releaseDate": "2026-09-22",
+  "platforms": ["PS5", "Xbox Series X/S", "PC"],
+  "genres": ["MMO", "Survie", "Monde ouvert"],
+  "cover": "/images/dune-awakening-cover.jpg",
+  "banner": "/images/dune-awakening-banner.jpg",
+  "rating": "T",
+  "price": 59.99,
+  "website": "https://duneawakening.com",
+  "social": {
+    "twitter": "@DuneAwakening",
+    "discord": "https://discord.gg/duneawakening"
+  }
+}

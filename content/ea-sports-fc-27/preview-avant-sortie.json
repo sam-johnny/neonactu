@@ -1,0 +1,82 @@
+{
+  "shortTitle": "EA SPORTS FC 27 preview",
+  "title": "EA SPORTS FC 27 : Tout ce qu'il faut savoir sur le nouveau roi du foot",
+  "description": "EA SPORTS FC 27 sort le 25 septembre 2026 sur PC, PS5, Xbox et Switch. Découvrez les nouveautés, les licences et les modes de jeu du dernier né d'EA Sports.",
+  "excerpt": "EA SPORTS FC 27 arrive le 25 septembre 2026. Nouveau moteur, licences mises à jour, modes Ultimate Team et Carrière : on fait le point complet.",
+  "category": "Preview",
+  "date": "2026-09-08",
+  "updatedAt": "2026-09-08",
+  "readingTime": 6,
+  "cover": "/images/ea-sports-fc-27-cover.jpg",
+  "coverAlt": "EA SPORTS FC 27 : cover officielle",
+  "keywords": [
+    "EA SPORTS FC 27",
+    "FC 27",
+    "FIFA 27",
+    "football jeu vidéo",
+    "sortie septembre 2026"
+  ],
+  "keyPoints": [
+    "Sortie le 25 septembre 2026 sur PC, PS5, Xbox Series et Switch.",
+    "Nouveau moteur graphique avec animations améliorées.",
+    "Licences UEFA, Premier League, La Liga et plus.",
+    "Ultimate Team et Mode Carrière enrichis.",
+    "Intelligence artificielle plus réactive."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "text": "**Le roi du foot virtuel est de retour.** Le 25 septembre 2026, **EA SPORTS FC 27** débarque sur toutes les plateformes pour une nouvelle saison. Après le divorce avec FIFA, EA Sports continue de bâtir son empire footballistique avec un épisode qui promet des améliorations substantielles."
+    },
+    {
+      "type": "h2",
+      "text": "Un moteur repensé"
+    },
+    {
+      "type": "p",
+      "text": "EA Sports annonce un **nouveau moteur graphique** qui repousse les limites du réalisme. Les animations des joueurs sont plus fluides, les collisions plus naturelles, et les visages des stars du football sont reproduits avec une fidélité impressionnante. Le système de mouvement **HyperMotion V3** capture encore plus de données pour des matchs authentiques."
+    },
+    {
+      "type": "h2",
+      "text": "Licences et contenu"
+    },
+    {
+      "type": "p",
+      "text": "FC 27 conserve les licences majeures : UEFA Champions League, Premier League, La Liga, Bundesliga, Serie A et Ligue 1. De nouveaux stades sont ajoutés, et la Women's Super League est intégrée dès le lancement. Les équipes nationales féminines bénéficient d'un traitement égal aux équipes masculines pour la première fois."
+    },
+    {
+      "type": "h2",
+      "text": "Ultimate Team et Carrière"
+    },
+    {
+      "type": "p",
+      "text": "**Ultimate Team** revient avec de nouvelles mécaniques de chimie et des événements saisonniers enrichis. Le **Mode Carrière** propose une gestion plus profonde des clubs, avec un système de scouting revu et des négociations de transfert plus réalistes. Le mode **Pro Clubs** ajoute des personnalisations de stade et des tactiques d'équipe avancées."
+    },
+    {
+      "type": "h2",
+      "text": "Intelligence artificielle améliorée"
+    },
+    {
+      "type": "p",
+      "text": "L'IA des coéquipiers et adversaires a été complètement retravaillée. Les joueurs contrôlés par la machine prennent de meilleures décisions, s'adaptent aux tactiques adverses, et offrent un défi plus corsé même en difficulté moyenne."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quelle est la date de sortie d'EA SPORTS FC 27 ?",
+      "a": "EA SPORTS FC 27 sort le 25 septembre 2026 sur PC, PlayStation 5, Xbox Series X|S et Nintendo Switch."
+    },
+    {
+      "q": "Le jeu s'appelle-t-il encore FIFA ?",
+      "a": "Non, depuis FC 24, EA Sports a perdu la licence FIFA. La série s'appelle désormais EA SPORTS FC."
+    },
+    {
+      "q": "Quelles sont les nouveautés principales ?",
+      "a": "Nouveau moteur graphique, HyperMotion V3, IA améliorée, nouvelles licences, et modes Ultimate Team et Carrière enrichis."
+    },
+    {
+      "q": "Y a-t-il du cross-play ?",
+      "a": "Oui, le cross-play est disponible entre plateformes de la même génération."
+    }
+  ]
+}
