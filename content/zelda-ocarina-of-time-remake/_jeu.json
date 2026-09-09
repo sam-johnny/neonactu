@@ -16,7 +16,11 @@
   "modes": ["Solo"],
   "cover": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/thelegendofzeldaocarinaoftime/16x9_NSwitch2_TTLoZOcarinaOfTime_image1600w.jpg",
   "banner": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/thelegendofzeldaocarinaoftime/16x9_NSwitch2_TTLoZOcarinaOfTime_image1600w.jpg",
-  "theme": "fantasy",
+  "theme": {
+    "accent": "#2e7d32",
+    "accent2": "#ffc107",
+    "accentSoft": "rgba(46, 125, 50, 0.14)"
+  },
   "engine": "Unreal Engine 5 (non confirmé)",
   "pegi": 12,
   "esrb": "E10+",
