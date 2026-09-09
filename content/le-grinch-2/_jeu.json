@@ -1,21 +1,32 @@
 {
   "name": "Le Grinch 2",
   "shortName": "Le Grinch 2",
-  "slug": "le-grinch-2",
   "tagline": "L'anti-héros vert revient pour voler Noël... et votre cœur",
   "description": "Le Grinch 2 est une aventure plateforme 3D où le célèbre personnage de Dr. Seuss doit sauver Whoville tout en conservant son humour grinçant.",
-  "developer": "Dr. Seuss Enterprises",
-  "publisher": "Outright Games",
-  "releaseDate": "2026-09-18",
-  "platforms": ["PS5", "Xbox Series X/S", "Switch", "PC"],
-  "genres": ["Plateforme", "Aventure"],
-  "cover": "https://images.nintendolife.com/8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e/le-grinch-2-cover.jpg",
-  "banner": "https://images.nintendolife.com/8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e/le-grinch-2-banner.jpg",
-  "rating": "E",
-  "price": 39.99,
-  "website": "https://www.outrightgames.com/games/the-grinch-2",
-  "social": {
-    "twitter": "@TheGrinch",
-    "instagram": "@thegrinch"
+  "intro": [
+    "**Le Grinch 2 : Saving Christmas** est la suite attendue de l'aventure familiale d'Outright Games et Casual Brothers. Prévu pour le **18 septembre 2026** sur PS5, Xbox Series X|S, Switch et PC, ce jeu de plateforme 3D invite les joueurs à incarner à nouveau le célèbre anti-héros vert.",
+    "Ce dossier rassemble **toute l'actualité du Grinch 2** : date de sortie, gameplay, nouveautés et nos premières impressions."
+  ],
+  "cover": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0618%2F90e076bfj00tgtwpk0006d00046002ep.jpg&thumbnail=660x2147483647&quality=80&type=jpg",
+  "coverAlt": "Le Grinch et Max dans une aventure hivernale — capture officielle",
+  "keywords": [
+    "Le Grinch 2",
+    "The Grinch 2",
+    "Grinch Saving Christmas",
+    "Outright Games",
+    "jeu famille 2026"
+  ],
+  "releaseIso": "2026-09-18T00:00:00Z",
+  "releaseLabel": "18 septembre 2026",
+  "platforms": [
+    "PS5",
+    "Xbox Series X|S",
+    "Switch",
+    "PC"
+  ],
+  "theme": {
+    "accent": "#2d5016",
+    "accent2": "#e63946",
+    "accentSoft": "rgba(45, 80, 22, 0.14)"
   }
 }
