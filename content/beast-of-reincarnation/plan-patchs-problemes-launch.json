@@ -1,0 +1,132 @@
+{
+  "shortTitle": "Beast : les patchs post-lancement",
+  "title": "Beast of Reincarnation : Game Freak face aux problèmes de launch, le plan de patchs dévoilé",
+  "description": "Un mois après sa sortie, Beast of Reincarnation peine à convaincre. Game Freak détaille son plan de patchs pour corriger les problèmes de performance et de design qui plombent l'expérience.",
+  "excerpt": "Game Freak répond aux critiques après un launch difficile. Voici le plan de patchs pour Beast of Reincarnation : performances, caméra, texte, et plus.",
+  "category": "News",
+  "date": "2026-09-09",
+  "updatedAt": "2026-09-09",
+  "readingTime": 5,
+  "cover": "/images/beast-of-reincarnation-screenshot.jpg",
+  "coverAlt": "Beast of Reincarnation — Emma et Koo dans un combat intense",
+  "keywords": [
+    "Beast of Reincarnation patch",
+    "Beast of Reincarnation update",
+    "Game Freak patch",
+    "Beast of Reincarnation problèmes",
+    "Beast of Reincarnation performance"
+  ],
+  "keyPoints": [
+    "Game Freak a dévoilé un plan de patchs en 3 vagues après un launch difficile.",
+    "Patch 1.07 déjà disponible : correction du texte trop petit et de la caméra.",
+    "Steam : 53% d'avis positifs, principalement à cause des performances.",
+    "Même les RTX 5090 peinent à maintenir 60 FPS.",
+    "Le studio promet des mises à jour 'massives' pour les mois à venir."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "text": "**Un mois après sa sortie, Beast of Reincarnation est toujours dans la tourmente.** Le premier AAA de Game Freak hors Pokémon, lancé le 4 août 2026, peine à convaincre joueurs et critiques. Avec **53% d'avis positifs sur Steam** et un **Metacritic de 73**, le studio fait face à une réalité difficile : sortir de l'ombre de Pokémon n'est pas chose aisée. Mais Game Freak ne baisse pas les bras."
+    },
+    {
+      "type": "h2",
+      "text": "Le patch 1.07 : première réponse"
+    },
+    {
+      "type": "p",
+      "text": "Game Freak a déployé le **patch 1.07** début septembre, apportant des corrections immédiates aux problèmes les plus signalés par la communauté :"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Taille du texte** : option pour agrandir les sous-titres et l'interface",
+        "**Caméra** : amélioration du comportement et réduction des mouvements brusques",
+        "**Pacing** : ajustement de la vitesse des cinématiques et des transitions",
+        "**Stabilité** : corrections de crashs sur PC et consoles"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Ce patch est la première étape d'un plan plus ambitieux. Le studio a promis des **mises à jour massives** pour les prochaines semaines, incluant des optimisations de performance majeures."
+    },
+    {
+      "type": "h2",
+      "text": "Le cauchemar des performances"
+    },
+    {
+      "type": "p",
+      "text": "Le problème numéro un reste **l'optimisation**. Sur PC, même les configurations haut de gamme — RTX 5090, 32 Go de VRAM — rapportent des baisses de FPS sous les 60. L'Unreal Engine 5, pourtant puissant, semble mal maîtrisé par Game Freak."
+    },
+    {
+      "type": "quote",
+      "text": "Du flou, du bloom, des couleurs délavées qui donnent envie de vomir, des problèmes de performance qui font tomber les FPS sous les 60.",
+      "source": "Avis Steam, configuration RTX 5090"
+    },
+    {
+      "type": "p",
+      "text": "Un autre joueur comparait même : **'Dragon's Dogma 2 était mieux optimisé que ça au lancement.'** Des propos sévères qui illustrent la frustration de la communauté PC."
+    },
+    {
+      "type": "h2",
+      "text": "Les critiques : un combat brillant, un monde terne"
+    },
+    {
+      "type": "p",
+      "text": "Si les performances sont le point noir, les critiques soulignent aussi des problèmes de design. Le monde ouvert est qualifié de **'répétitif'** et **'dénué d'âme'** par plusieurs publications. Les cutscenes interminables — jusqu'à 10 minutes — brisent le rythme. Et l'absence de quêtes annexes significatives rend l'exploration peu gratifiante."
+    },
+    {
+      "type": "p",
+      "text": "Pourtant, **le système de combat est unanimement salué**. Inspiré de Sekiro et NieR: Automata, il offre une fluidité et une profondeur rares. Koo, le compagnon lupin, est devenu la mascotte adorée de la communauté — **'Koo is best boi'** est devenu un meme."
+    },
+    {
+      "type": "h2",
+      "text": "Le plan de Game Freak : 3 vagues de patchs"
+    },
+    {
+      "type": "p",
+      "text": "Game Freak a détaillé sa feuille de route en trois vagues :"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Vague 1 (septembre)** : patchs de stabilité et corrections d'interface (texte, caméra)",
+        "**Vague 2 (octobre)** : optimisation majeure PC, amélioration du pacing, nouvelles options d'accessibilité",
+        "**Vague 3 (novembre–décembre)** : contenu additionnel, améliorations du monde ouvert, nouvelles quêtes"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Le studio a également confirmé travailler sur une **version PS5 Pro optimisée**, qui pourrait résoudre certains problèmes de performance sur console."
+    },
+    {
+      "type": "h2",
+      "text": "Peut-on encore sauver Beast of Reincarnation ?"
+    },
+    {
+      "type": "p",
+      "text": "L'histoire du jeu vidéo est parsemée de jeux qui ont surmonté des débuts difficiles. **Cyberpunk 2077**, **No Man's Sky**, **Final Fantasy XIV** — tous ont connu des launches catastrophiques avant de devenir des références. Beast of Reincarnation a le potentiel pour en faire partie, à condition que Game Freak tienne ses promesses."
+    },
+    {
+      "type": "p",
+      "text": "Le jeu est disponible sur **Xbox Game Pass**, ce qui permet aux joueurs curieux de l'essayer sans risque financier. Et pour ceux qui patientent, les soldes d'automne pourraient offrir une version bien plus aboutie à prix réduit."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quels sont les principaux problèmes de Beast of Reincarnation ?",
+      "a": "Problèmes de performance sur PC (même sur RTX 5090), monde ouvert répétitif, caméra mal calibrée, texte trop petit, et cutscenes trop longues."
+    },
+    {
+      "q": "Quand arriveront les prochains patchs ?",
+      "a": "Game Freak a annoncé 3 vagues : septembre (stabilité), octobre (optimisation PC), et novembre-décembre (contenu additionnel)."
+    },
+    {
+      "q": "Le jeu vaut-il le coup sur console ?",
+      "a": "Les versions PS5 et Xbox Series X|S sont plus stables que PC, mais souffrent encore de quelques problèmes. Le Game Pass est le meilleur moyen de l'essayer."
+    },
+    {
+      "q": "Game Freak va-t-il abandonner le jeu ?",
+      "a": "Non. Le studio a confirmé un soutien à long terme avec des mises à jour massives prévues sur plusieurs mois."
+    }
+  ]
+}
