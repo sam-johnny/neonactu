@@ -13,7 +13,7 @@
   "releaseDate": "2026",
   "releaseIso": "2026-11-20",
   "releaseLabel": "20 novembre 2026 (estimation)",
-  "platform": ["Nintendo Switch 2"],
+  "platforms": ["Nintendo Switch 2"],
   "genres": ["Action-aventure", "Action-RPG"],
   "modes": ["Solo"],
   "cover": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/thelegendofzeldaocarinaoftime/16x9_NSwitch2_TTLoZOcarinaOfTime_image1600w.jpg",
