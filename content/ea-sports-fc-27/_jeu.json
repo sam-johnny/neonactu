@@ -1,22 +1,33 @@
 {
   "name": "EA SPORTS FC 27",
   "shortName": "FC 27",
-  "slug": "ea-sports-fc-27",
   "tagline": "Le nouveau roi du football virtuel est arrivé",
   "description": "EA SPORTS FC 27 est le dernier opus de la série footballistique d'EA Sports, avec un nouveau moteur graphique et des modes de jeu enrichis.",
-  "developer": "EA Vancouver",
-  "publisher": "Electronic Arts",
-  "releaseDate": "2026-09-25",
-  "platforms": ["PS5", "Xbox Series X/S", "Switch", "PC"],
-  "genres": ["Sport", "Simulation"],
-  "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1308/fc27-cover-art.jpg?$1600px$",
-  "banner": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1308/fc27-banner.jpg?$1600px$",
-  "rating": "E",
-  "price": 69.99,
-  "website": "https://www.ea.com/games/ea-sports-fc/fc-27",
-  "social": {
-    "twitter": "@EASPORTSFC",
-    "instagram": "@easportsfc",
-    "youtube": "@EASPORTSFC"
+  "intro": [
+    "**EA SPORTS FC 27** arrive le **25 septembre 2026** sur PS5, Xbox Series X|S, Switch et PC. Avec Kylian Mbappé en couverture, le jeu promet des améliorations significatives sur le gameplay, le moteur de dribble et l'IA des gardiens.",
+    "Ce dossier rassemble **toute l'actualité d'EA SPORTS FC 27** : date de sortie, nouveautés gameplay, modes de jeu (Ultimate Team, Carrière, Clubs) et nos guides pratiques."
+  ],
+  "cover": "https://i.gadgets360cdn.com/products/large/ssf390f1ffc3aad9710f5824b30868278e97213d381920x1080-1920x1080-1785917133148.jpg",
+  "coverAlt": "Screenshot officiel d'EA SPORTS FC 27 — action sur le terrain",
+  "keywords": [
+    "EA SPORTS FC 27",
+    "FC 27",
+    "FIFA 27",
+    "football 2026",
+    "EA Sports FC",
+    "FC 27 date de sortie"
+  ],
+  "releaseIso": "2026-09-25T00:00:00Z",
+  "releaseLabel": "25 septembre 2026",
+  "platforms": [
+    "PS5",
+    "Xbox Series X|S",
+    "Switch",
+    "PC"
+  ],
+  "theme": {
+    "accent": "#1a5f2a",
+    "accent2": "#2ecc71",
+    "accentSoft": "rgba(26, 95, 42, 0.14)"
   }
 }
