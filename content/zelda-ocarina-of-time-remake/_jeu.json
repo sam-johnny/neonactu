@@ -1,0 +1,34 @@
+{
+  "title": "The Legend of Zelda: Ocarina of Time",
+  "description": "Le remake du jeu culte de 1998, renaissance sur Nintendo Switch 2 en 2026 pour le 40ème anniversaire de la saga Zelda.",
+  "intro": [
+    "Le jeu vidéo le mieux noté de tous les temps revient.",
+    "Après 28 ans, Ocarina of Time se réincarne sur Nintendo Switch 2.",
+    "Un remake complet qui marque les 40 ans de la saga Legend of Zelda."
+  ],
+  "developer": "Nintendo EPD / Grezzo (non confirmé)",
+  "publisher": "Nintendo",
+  "releaseDate": "2026",
+  "releaseIso": "2026-11-20",
+  "releaseLabel": "20 novembre 2026 (estimation)",
+  "platform": ["Nintendo Switch 2"],
+  "genres": ["Action-aventure", "Action-RPG"],
+  "modes": ["Solo"],
+  "cover": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/thelegendofzeldaocarinaoftime/16x9_NSwitch2_TTLoZOcarinaOfTime_image1600w.jpg",
+  "banner": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/thelegendofzeldaocarinaoftime/16x9_NSwitch2_TTLoZOcarinaOfTime_image1600w.jpg",
+  "theme": "fantasy",
+  "engine": "Unreal Engine 5 (non confirmé)",
+  "pegi": 12,
+  "esrb": "E10+",
+  "languages": ["Anglais", "Japonais", "Français", "Allemand", "Espagnol", "Italien"],
+  "officialSite": "https://www.nintendo.com/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/",
+  "social": {
+    "twitter": "https://x.com/NintendoAmerica",
+    "youtube": "https://www.youtube.com/@Nintendo",
+    "reddit": "https://www.reddit.com/r/zelda/"
+  },
+  "related": [
+    { "title": "The Legend of Zelda: Tears of the Kingdom", "slug": "zelda-tears-of-the-kingdom" },
+    { "title": "The Legend of Zelda: Breath of the Wild", "slug": "zelda-breath-of-the-wild" }
+  ]
+}
