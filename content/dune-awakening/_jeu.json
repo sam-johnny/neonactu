@@ -1,25 +1,32 @@
 {
   "name": "Dune: Awakening",
   "shortName": "Dune: Awakening",
-  "slug": "dune-awakening",
   "tagline": "Survivez sur Arrakis dans ce MMO de survie épique",
   "description": "Dune: Awakening est un MMO de survie en monde ouvert développé par Funcom, plongeant les joueurs dans l'univers impitoyable de Frank Herbert.",
   "intro": [
-    "**Dune: Awakening** est un MMO de survie en monde ouvert développé par **Funcom**, qui plonge les joueurs dans l'univers impitoyable de Frank Herbert. Sur la planète désertique d'**Arrakis**, chaque instant est une lutte pour la survie contre le climme, les ennemis et les vers des sables.",
+    "**Dune: Awakening** est un MMO de survie en monde ouvert développé par **Funcom**, qui plonge les joueurs dans l'univers impitoyable de Frank Herbert. Sur la planète désertique d'**Arrakis**, chaque instant est une lutte pour la survie contre le climat, les ennemis et les vers des sables.",
     "Ce dossier rassemble **toute l'actualité de Dune: Awakening** : gameplay, beta, crafting, base-building et guides pour survivre sur Arrakis."
   ],
-  "developer": "Funcom",
-  "publisher": "Funcom",
-  "releaseDate": "2026-09-22",
-  "platforms": ["PS5", "Xbox Series X/S", "PC"],
-  "genres": ["MMO", "Survie", "Monde ouvert"],
   "cover": "https://assetsio.gnwcdn.com/dune-awakening-key-art.jpg?width=1920&height=1080&fit=bounds&quality=85&format=jpg&auto=webp",
-  "banner": "https://assetsio.gnwcdn.com/dune-awakening-banner.jpg?width=1920&height=1080&fit=bounds&quality=85&format=jpg&auto=webp",
-  "rating": "T",
-  "price": 59.99,
-  "website": "https://duneawakening.com",
-  "social": {
-    "twitter": "@DuneAwakening",
-    "discord": "https://discord.gg/duneawakening"
+  "coverAlt": "Key art officiel de Dune: Awakening — Arrakis et ses vers des sables",
+  "keywords": [
+    "Dune Awakening",
+    "Dune Awakening gameplay",
+    "Funcom",
+    "MMO survie",
+    "Arrakis",
+    "Dune jeu 2026"
+  ],
+  "releaseIso": "2026-09-22T00:00:00Z",
+  "releaseLabel": "22 septembre 2026",
+  "platforms": [
+    "PS5",
+    "Xbox Series X|S",
+    "PC"
+  ],
+  "theme": {
+    "accent": "#d4a843",
+    "accent2": "#f4c430",
+    "accentSoft": "rgba(212, 168, 67, 0.14)"
   }
 }
