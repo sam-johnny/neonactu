@@ -1,0 +1,141 @@
+{
+  "shortTitle": "BoR : un mois après, où en est le jeu ?",
+  "title": "Beast of Reincarnation : un mois après, Game Freak tient-il ses promesses ?",
+  "description": "Sorti le 4 août 2026, Beast of Reincarnation a connu un lancement difficile. Un mois plus tard, Game Freak a sorti plusieurs patchs et présenté ses excuses. Bilan de la situation : le jeu s'est-il amélioré ?",
+  "excerpt": "Beast of Reincarnation fête son premier mois. Entre patchs 1.0.6 et 1.0.7, excuses publiques de Game Freak et avis des joueurs qui évoluent, où en est vraiment le premier action-RPG post-Pokémon du studio ?",
+  "category": "Test",
+  "date": "2026-09-13",
+  "updatedAt": "2026-09-13",
+  "readingTime": 6,
+  "cover": "/images/beast-of-reincarnation-cover.jpg",
+  "coverAlt": "Emma et Koo dans Beast of Reincarnation",
+  "keywords": ["Beast of Reincarnation", "Game Freak", "test", "avis", "patch", "mise à jour", "un mois après"],
+  "keyPoints": [
+    "Beast of Reincarnation est sorti le 4 août 2026 avec des avis 'Mitigés' sur Steam.",
+    "Game Freak a sorti les patchs 1.0.6 et 1.0.7 avec des corrections majeures.",
+    "Le studio a présenté ses excuses publiques le 13 août 2026.",
+    "Les avis Steam sont passés de 53% à 67% positifs en un mois.",
+    "Le jeu reste disponible day-one dans le Xbox Game Pass."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "text": "**Beast of Reincarnation fête aujourd'hui son premier mois d'existence.** Sorti le 4 août 2026 sur PlayStation 5, Xbox Series X|S et PC, le premier vrai action-RPG de Game Freak (hors Pokémon) a connu un départ tumultueux. Avis mitigés, critiques sur la caméra, problèmes de pacing narratif, texte illisible... Le studio japonais a dû faire face à une tempête de retours négatifs. Mais un mois plus tard, **où en est-on vraiment ?**"
+    },
+    {
+      "type": "h2",
+      "text": "Le lancement : entre espoir et déception"
+    },
+    {
+      "type": "p",
+      "text": "Le 4 août 2026, Beast of Reincarnation débarquait avec une hype considérable. Game Freak, les créateurs de Pokémon, s'attaquaient à leur premier action-RPG post-apocalyptique. Les attentes étaient immenses. Et pourtant, dès les premières heures, les problèmes sont apparus : une caméra capricieuse en combat, des cinématiques verrouillées à 24fps par défaut, un texte microscopique sur écran TV, et un pacing narratif qui s'essoufflait."
+    },
+    {
+      "type": "p",
+      "text": "Sur Steam, les avis ont rapidement plongé vers **53% positifs** — la note rouge 'Mitigée'. Pour un studio de la renommée de Game Freak, c'était un choc. Les joueurs attendaient un chef-d'œuvre. Ils ont trouvé un jeu ambitieux mais mal poli."
+    },
+    {
+      "type": "h2",
+      "text": "La réponse de Game Freak : excuses et patchs"
+    },
+    {
+      "type": "p",
+      "text": "Face à la tempête, Game Freak a réagi avec une rapidité surprenante. Le **5 août**, soit le lendemain de la sortie, le studio annonçait déjà une série de mises à jour continues. Le **13 août**, les excuses publiques sont tombées : **'Nous nous excusons de ne pas avoir fourni une expérience suffisamment agréable.'**"
+    },
+    {
+      "type": "p",
+      "text": "Ce n'est pas rien. Un studio japonais de cette stature, s'excuser publiquement et reconnaître ses torts, c'est rare. Mais les mots ne suffisent pas. Heureusement, Game Freak a aussi livré des actes."
+    },
+    {
+      "type": "h2",
+      "text": "Patch 1.0.6 et 1.0.7 : le gros nettoyage"
+    },
+    {
+      "type": "p",
+      "text": "Deux patchs majeurs sont sortis en l'espace de deux semaines. Voici ce qui a été corrigé :"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Caméra** : ajustements en exploration et en combat (encore des améliorations à venir)",
+        "**Cinématiques** : le mode Performance (60fps) est désormais le défaut, plus le 24fps imposé",
+        "**Texte** : taille de police augmentée dans tout le jeu",
+        "**Pacing narratif** : les dialogues d'affinité répétitifs sont limités à une fois par jour",
+        "**Équilibrage** : ajustements de difficulté pour les boss sur tous les niveaux",
+        "**Bugs** : mapping des boutons, V-Sync, upscaling qui se réinitialisait, icônes de boutons"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Le patch 1.0.7, sorti le 9 août, a aussi ajouté le support **DLSS 4.5** et **FSR 4.0** pour les joueurs PC — une bonne nouvelle pour les performances."
+    },
+    {
+      "type": "h2",
+      "text": "Les avis évoluent : de 53% à 67% positifs"
+    },
+    {
+      "type": "p",
+      "text": "Le plus intéressant, c'est l'évolution des avis des joueurs. En un mois, la note Steam est passée de **53% à 67% positifs**. Ce n'est pas encore la gloire, mais c'est une nette amélioration. Les commentaires récents soulignent que le jeu est 'nettement mieux' depuis les patchs, même si des problèmes persistent."
+    },
+    {
+      "type": "p",
+      "text": "Sur Metacritic, les notes restent stables autour de **72/100** (PS5) et **68/100** (PC), mais les avis utilisateurs montrent une tendance à la hausse. Les joueurs Xbox, via le Game Pass, semblent légèrement plus indulgents — peut-être parce que le jeu leur a coûté 0$ en plus de leur abonnement."
+    },
+    {
+      "type": "h2",
+      "text": "Ce qui reste à corriger"
+    },
+    {
+      "type": "p",
+      "text": "Malgré les efforts de Game Freak, plusieurs problèmes subsistent :"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**La caméra** reste perfectible en combat contre les grands boss",
+        "**Le pacing narratif** global n'est pas encore complètement résolu",
+        "**Quelques bugs visuels** persistent sur certaines configurations PC",
+        "**L'IA companion (Koo)** peut parfois se comporter de manière erratique",
+        "**Le système de craft** manque de clarté dans ses explications"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Game Freak a promis que **d'autres patchs sont en préparation**. La route est encore longue, mais la direction est la bonne."
+    },
+    {
+      "type": "h2",
+      "text": "Verdict : un mois après, ça va mieux"
+    },
+    {
+      "type": "p",
+      "text": "Beast of Reincarnation n'est pas devenu un chef-d'œuvre en un mois. Mais il est devenu **jouable, puis agréable**. La réactivité de Game Freak est impressionnante : excuses publiques, patchs rapides, communication transparente. C'est exactement ce qu'on attend d'un studio de cette taille."
+    },
+    {
+      "type": "p",
+      "text": "Pour les joueurs qui hésitaient à se lancer, le message est clair : **le jeu vaut désormais le détour**, surtout si vous êtes abonnés au Xbox Game Pass où il est inclus day-one. Pour ceux qui l'avaient abandonné après quelques heures, il est peut-être temps de donner une seconde chance à Emma et Koo."
+    },
+    {
+      "type": "p",
+      "text": "**Beast of Reincarnation** est disponible sur PlayStation 5, Xbox Series X|S et PC. Inclus day-one dans le Xbox Game Pass."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Le jeu s'est-il vraiment amélioré depuis le lancement ?",
+      "a": "Oui. Les patchs 1.0.6 et 1.0.7 ont corrigé de nombreux problèmes (caméra, texte, cinématiques, équilibrage). Les avis Steam sont passés de 53% à 67% positifs."
+    },
+    {
+      "q": "Quels sont les problèmes qui persistent ?",
+      "a": "La caméra reste perfectible contre les gros boss, le pacing narratif n'est pas complètement résolu, et quelques bugs PC subsistent."
+    },
+    {
+      "q": "Vaut-il le coup sur Xbox Game Pass ?",
+      "a": "Absolument. Le jeu est inclus day-one dans le Game Pass, ce qui en fait une proposition très intéressante pour tester sans risque."
+    },
+    {
+      "q": "D'autres mises à jour sont-elles prévues ?",
+      "a": "Oui, Game Freak a confirmé que plusieurs patchs supplémentaires sont en préparation pour les semaines et mois à venir."
+    }
+  ]
+}
