@@ -1,0 +1,123 @@
+{
+  "shortTitle": "Windows 11 casse vos jeux",
+  "title": "Windows 11 : le patch KB5121003 fait planter vos jeux — voici le fix officiel",
+  "description": "La mise à jour Windows 11 KB5121003 (11 août 2026) provoque des crashs sur ARC Raiders, THE FINALS et Marvel Tōkon. Microsoft a identifié le coupable (inpoutx64.sys) et publié un workaround. Voici comment récupérer vos jeux.",
+  "excerpt": "Le Patch Tuesday d'août 2026 a un effet de bord catastrophique : ARC Raiders, THE FINALS et Marvel Tōkon plantent en pleine session. Microsoft confirme le bug et publie un fix. On vous explique tout.",
+  "category": "News",
+  "date": "2026-09-15",
+  "updatedAt": "2026-09-15",
+  "readingTime": 8,
+  "cover": "https://cdn.mos.cms.futurecdn.net/cfRFGsMSVs36ZLNFgKUbaU-2560-80.jpg",
+  "coverAlt": "Windows 11 — écran de mise à jour KB5121003 provoquant des crashs de jeux",
+  "keywords": [
+    "Windows 11 KB5121003",
+    "Windows 11 bug jeux",
+    "ARC Raiders crash",
+    "THE FINALS crash",
+    "inpoutx64.sys",
+    "fix Windows 11"
+  ],
+  "keyPoints": [
+    "La mise à jour KB5121003 (11 août 2026) provoque des crashs sur ARC Raiders, THE FINALS et Marvel Tōkon.",
+    "Le coupable identifié : le driver inpoutx64.sys, installé par des logiciels RGB (Razer, Corsair, etc.)",
+    "Microsoft a publié un workaround registre officiel.",
+    "Embark Studios propose aussi une solution via Command Prompt.",
+    "Windows 11 24H2 et 25H2 sont affectés — 26H1 est épargné."
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "text": "**Vos jeux plantent depuis mi-août ? Ce n'est pas un hasard.** La mise à jour Windows 11 **KB5121003**, déployée le 11 août 2026 dans le cadre du Patch Tuesday, provoque des crashs majeurs sur plusieurs jeux populaires. Microsoft a confirmé le problème et identifié le coupable."
+    },
+    {
+      "type": "h2",
+      "text": "Quels jeux sont touchés ?"
+    },
+    {
+      "type": "p",
+      "text": "Trois jeux sont officiellement confirmés comme affectés :\n\n- **ARC Raiders** (Embark Studios) — freezes, crash to desktop, redémarrages intempestifs\n- **THE FINALS** (Embark Studios) — crashs, erreur `EXCEPTION_ACCESS_VIOLATION`\n- **Marvel Tōkon: Fighting Souls** — jeu non réactif, fermeture sans préavis"
+    },
+    {
+      "type": "p",
+      "text": "Les symptômes varient : jeu gelé, fermeture silencieuse, erreur `EXCEPTION_ACCESS_VIOLATION`, message **« Hang detected on GameThread »**, voire redémarrage complet du PC."
+    },
+    {
+      "type": "h2",
+      "text": "Le coupable : inpoutx64.sys"
+    },
+    {
+      "type": "p",
+      "text": "Après investigation conjointe de Microsoft et d'Embark Studios, le responsable a été identifié : **le driver `inpoutx64.sys`**. Ce pilote de bas niveau, installé par des logiciels de contrôle matériel et de **RGB lighting** (Razer, Corsair, OpenRGB, etc.), entre en conflit avec les changements apportés par KB5121003."
+    },
+    {
+      "type": "p",
+      "text": "Versions affectées : **Windows 11 24H2** (build 26100.9168) et **25H2** (build 26200.9168). La version **26H1** est épargnée. Windows 10 n'est pas concerné."
+    },
+    {
+      "type": "h2",
+      "text": "Le fix officiel Microsoft (workaround registre)"
+    },
+    {
+      "type": "p",
+      "text": "Microsoft a publié un workaround officiel consistant à **désactiver le driver via le registre** :\n\n1. Ouvrez le registre Windows (`regedit`)\n2. Naviguez vers `HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\inpoutx64`\n3. Double-cliquez sur la valeur **Start** et entrez **4**\n4. Redémarrez votre PC"
+    },
+    {
+      "type": "callout",
+      "text": "⚠️ **Attention** : désactiver ce driver peut affecter les fonctionnalités RGB de vos périphériques (claviers, ventilateurs, LED). Si vous rencontrez des problèmes, restaurez la valeur précédente du registre."
+    },
+    {
+      "type": "h2",
+      "text": "Le workaround Embark Studios (Command Prompt)"
+    },
+    {
+      "type": "p",
+      "text": "Pour les joueurs d'ARC Raiders et THE FINALS, Embark Studios propose une solution plus radicale en **Command Prompt (administrateur)** :\n\n```\nsc stop inpoutx64\nsc delete inpoutx64\n```\n\nPuis supprimez manuellement le fichier `inpoutx64.sys` dans `C:\\Windows\\System32\\drivers`."
+    },
+    {
+      "type": "callout",
+      "text": "💡 **N'installez JAMAIS de logiciel RGB inconnu** — et vérifiez toujours si le fabricant de vos périphériques (Corsair, Razer, ASUS, MSI) propose une version mise à jour de son utilitaire avant de supprimer le driver."
+    },
+    {
+      "type": "h2",
+      "text": "Ne désinstallez PAS KB5121003"
+    },
+    {
+      "type": "p",
+      "text": "Vous pourriez être tenté de désinstaller la mise à jour pour tout résoudre. **Résistez.** KB5121003 corrige **plus de 400 vulnérabilités de sécurité**. La désinstaller, c'est laisser votre PC exposé à des failles critiques. Microsoft travaille sur un correctif officiel qui bloquera la version problématique du driver."
+    },
+    {
+      "type": "h2",
+      "text": "Quand arrive le vrai fix ?"
+    },
+    {
+      "type": "p",
+      "text": "Microsoft a confirmé travailler sur un correctif permanent, livré via **Windows Update**, qui bloquera le chargement de la version incompatible de `inpoutx64.sys` sans intervention de l'utilisateur. Les fabricants de logiciels RGB (Corsair, ASUS, MSI, Aquacomputer) publient aussi des versions mises à jour de leurs utilitaires avec un driver corrigé. En attendant, le workaround registre reste la solution la plus sûre."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quelle mise à jour Windows 11 cause les crashs de jeux ?",
+      "a": "La mise à jour KB5121003, déployée le 11 août 2026, provoque des crashs sur ARC Raiders, THE FINALS et Marvel Tōkon: Fighting Souls."
+    },
+    {
+      "q": "Pourquoi mes jeux plantent-ils depuis la mise à jour d'août ?",
+      "a": "La mise à jour entre en conflit avec le driver inpoutx64.sys, un pilote de bas niveau installé par des logiciels RGB (Razer, Corsair, OpenRGB, etc.)."
+    },
+    {
+      "q": "Comment réparer les crashs de jeux sur Windows 11 ?",
+      "a": "Microsoft propose de désactiver le driver inpoutx64 via le registre (valeur Start = 4). Embark Studios suggère de supprimer le driver via Command Prompt."
+    },
+    {
+      "q": "Dois-je désinstaller KB5121003 ?",
+      "a": "Non. Cette mise à jour corrige plus de 400 failles de sécurité. Le workaround registre est préférable."
+    },
+    {
+      "q": "Quelles versions de Windows 11 sont affectées ?",
+      "a": "Windows 11 24H2 (build 26100.9168) et 25H2 (build 26200.9168). Windows 11 26H1 et Windows 10 ne sont pas concernés."
+    },
+    {
+      "q": "Le fix va-t-il casser mon RGB ?",
+      "a": "Désactiver inpoutx64.sys peut affecter le contrôle RGB de vos périphériques. Restaurez la valeur du registre si nécessaire, ou attendez une mise à jour du logiciel de votre fabricant."
+    }
+  ]
+}

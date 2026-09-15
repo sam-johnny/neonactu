@@ -1,0 +1,30 @@
+{
+  "name": "Windows 11",
+  "shortName": "Windows 11",
+  "tagline": "L'OS de Microsoft au cœur de l'actualité gaming : updates, drivers, et performances",
+  "description": "Toute l'actualité Windows 11 pour les gamers : mises à jour problématiques, correctifs, drivers, optimisations gaming et solutions aux bugs qui impactent vos jeux.",
+  "intro": [
+    "**Windows 11** est le système d'exploitation de Microsoft, utilisé par des centaines de millions de gamers à travers le monde. Chaque mise à jour mensuelle peut transformer — pour le meilleur ou pour le pire — l'expérience de jeu.",
+    "Ce dossier rassemble **toute l'actualité Windows 11 liée au gaming** : patchs problématiques, correctifs de sécurité, conflits de drivers, optimisations performance et guides de dépannage pour garder votre PC stable."
+  ],
+  "cover": "https://cdn.mos.cms.futurecdn.net/cfRFGsMSVs36ZLNFgKUbaU-2560-80.jpg",
+  "coverAlt": "Windows 11 — interface gaming et mise à jour KB5121003",
+  "keywords": [
+    "Windows 11",
+    "Windows 11 gaming",
+    "KB5121003",
+    "patch Windows 11",
+    "bugs Windows 11",
+    "optimisation Windows 11"
+  ],
+  "releaseIso": "2021-10-05T00:00:00Z",
+  "releaseLabel": "5 octobre 2021",
+  "platforms": [
+    "PC"
+  ],
+  "theme": {
+    "accent": "#0078d4",
+    "accent2":="#106ebe",
+    "accentSoft": "rgba(0, 120, 212, 0.14)"
+  }
+}
