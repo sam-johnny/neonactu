@@ -24,7 +24,7 @@
   ],
   "theme": {
     "accent": "#0078d4",
-    "accent2":="#106ebe",
+    "accent2": "#106ebe",
     "accentSoft": "rgba(0, 120, 212, 0.14)"
   }
 }
