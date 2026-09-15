@@ -62,7 +62,7 @@
       "text": "Microsoft a publié un workaround officiel consistant à **désactiver le driver via le registre** :\n\n1. Ouvrez le registre Windows (`regedit`)\n2. Naviguez vers `HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\inpoutx64`\n3. Double-cliquez sur la valeur **Start** et entrez **4**\n4. Redémarrez votre PC"
     },
     {
-      "type": "callout",
+      "type": "quote",
       "text": "⚠️ **Attention** : désactiver ce driver peut affecter les fonctionnalités RGB de vos périphériques (claviers, ventilateurs, LED). Si vous rencontrez des problèmes, restaurez la valeur précédente du registre."
     },
     {
@@ -74,7 +74,7 @@
       "text": "Pour les joueurs d'ARC Raiders et THE FINALS, Embark Studios propose une solution plus radicale en **Command Prompt (administrateur)** :\n\n```\nsc stop inpoutx64\nsc delete inpoutx64\n```\n\nPuis supprimez manuellement le fichier `inpoutx64.sys` dans `C:\\Windows\\System32\\drivers`."
     },
     {
-      "type": "callout",
+      "type": "quote",
       "text": "💡 **N'installez JAMAIS de logiciel RGB inconnu** — et vérifiez toujours si le fabricant de vos périphériques (Corsair, Razer, ASUS, MSI) propose une version mise à jour de son utilitaire avant de supprimer le driver."
     },
     {
