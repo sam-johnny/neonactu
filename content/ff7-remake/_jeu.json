@@ -1,0 +1,36 @@
+{
+  "name": "Final Fantasy VII Remake",
+  "shortName": "FF7 Remake",
+  "tagline": "La trilogie qui redonne vie à la légende de Final Fantasy VII",
+  "description": "Final Fantasy VII Remake est la trilogie de Square Enix qui réimagine le RPG culte de 1997. Après Remake (2020) et Rebirth (2024), la conclusion, Final Fantasy VII Revelation, arrive le 8 avril 2027.",
+  "intro": [
+    "**Final Fantasy VII Remake** est l'une des ambitions les plus folles du jeu vidéo moderne : réimaginer **Final Fantasy VII**, le RPG culte de 1997, en une trilogie épique développée par **Square Enix**. Après **Remake** (2020), qui revisitait Midgar, et **Rebirth** (2024), qui ouvrait le monde, la saga touche à sa fin avec **Final Fantasy VII Revelation**, attendu le **8 avril 2027**.",
+    "Ce dossier rassemble **toute l'actualité de la trilogie FF7 Remake** : annonces, trailers, gameplay, dates de sortie et analyses autour du dernier chapitre de l'histoire de Cloud Strife et de Sephiroth, qui conclura la saga pendant l'année du 30e anniversaire du jeu original."
+  ],
+  "cover": "/images/ff7-revelation-key-art.jpg",
+  "coverAlt": "Key art officiel de Final Fantasy VII Revelation © Square Enix — illustration officielle",
+  "keywords": [
+    "FF7 Remake",
+    "FF7 Revelation",
+    "Final Fantasy VII",
+    "Square Enix",
+    "Cloud Strife",
+    "Sephiroth",
+    "RPG",
+    "sortie avril 2027"
+  ],
+  "releaseIso": "2027-04-08T00:00:00Z",
+  "releaseLabel": "8 avril 2027 (Revelation)",
+  "platforms": [
+    "PS4",
+    "PS5",
+    "Xbox Series X|S",
+    "Nintendo Switch 2",
+    "PC"
+  ],
+  "theme": {
+    "accent": "#3ec6e0",
+    "accent2": "#7c5cff",
+    "accentSoft": "rgba(62, 198, 224, 0.14)"
+  }
+}
