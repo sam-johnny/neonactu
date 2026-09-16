@@ -3,7 +3,7 @@
 
 export const SITE = {
   name: "NeonActu",
-  url: "https://neonactu.fr",
+  url: "https://www.neonactu.fr",
   tagline: "L'actualité jeux vidéo, sans le bruit",
   description:
     "NeonActu : actualités, guides et analyses sur les jeux vidéo qui comptent. Dossiers spéciaux GTA 6 (date de sortie, trailers, précommandes) et Palworld (version 1.0, World Tree, élevage, meilleurs Pals) — infos vérifiées et mises à jour.",
