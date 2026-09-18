@@ -250,6 +250,8 @@ ul { list-style: none; }
   flex-direction: column;
   gap: 2px;
   min-width: 300px;
+  max-height: min(70vh, 560px);
+  overflow-y: auto;
   padding: 10px;
   background: var(--bg-card);
   border: 1px solid var(--line-strong);
@@ -296,6 +298,7 @@ ul { list-style: none; }
   letter-spacing: 0.02em;
   text-transform: none;
   line-height: 1.45;
+  overflow-wrap: break-word;
 }
 
 /* Bouton de bascule de thème */
@@ -1598,15 +1601,19 @@ ul { list-style: none; }
     overflow-x: visible;
     scrollbar-width: none;
     flex: 1;
+    position: relative;
   }
   .main-nav::-webkit-scrollbar { display: none; }
   .main-nav a { padding: 8px 9px; white-space: nowrap; }
   .games-menu-btn { padding: 8px 9px; }
+  /* Panneau ancré à la nav (pas au bouton) : pleine largeur visible,
+     jamais de débordement d'écran, scroll vertical si la liste grandit */
   .games-menu-panel {
-    right: auto;
     left: 0;
+    right: 0;
     min-width: 0;
-    width: min(320px, calc(100vw - 24px));
+    width: auto;
+    max-height: min(60vh, 440px);
   }
   .section-note { display: none; }
   .articles-grid { gap: 18px; }
