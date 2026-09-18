@@ -1,0 +1,21 @@
+{
+  "name": "Physint",
+  "shortName": "Physint",
+  "tagline": "The Next Cold War Begins",
+  "description": "Physint est le prochain jeu d'action-espionnage de Hideo Kojima et Kojima Productions, publié par Xbox après l'abandon du projet par PlayStation. Bill Skarsgård, Charlee Fraser, Don Lee et Minami Hamabe composent le casting révélé au TGS 2026.",
+  "intro": [
+    "**Physint** est le prochain jeu de **Hideo Kojima** et de son studio **Kojima Productions**, annoncé comme un retour aux sources du créateur de *Metal Gear* : l'action-espionnage, la guerre froide et le cinéma. Le projet a basculé de PlayStation vers **Xbox** en 2026, et son casting se dévoile enfin.",
+    "Ce dossier rassemble **toute l'actualité de Physint** : révélations au Tokyo Game Show, casting, fenêtre de sortie et analyses autour de ce qui s'annonce comme le successeur spirituel de *Metal Gear Solid*."
+  ],
+  "cover": "/images/physint-key-art.jpg",
+  "coverAlt": "Visuel officiel de Physint dévoilé au Xbox TGS 2026 Broadcast — © Kojima Productions / Xbox Game Studios",
+  "keywords": ["Physint", "Hideo Kojima", "Kojima Productions", "Bill Skarsgård", "Xbox", "action-espionnage", "Metal Gear"],
+  "releaseIso": "2028-12-31",
+  "releaseLabel": "À confirmer",
+  "platforms": ["Xbox Series X|S", "PC"],
+  "theme": {
+    "accent": "#4a90d9",
+    "accent2": "#d94545",
+    "accentSoft": "rgba(74, 144, 217, 0.14)"
+  }
+}
