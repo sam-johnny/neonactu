@@ -32,10 +32,12 @@ export default function Home() {
             <span className="hero-title-bottom">NEON</span>
           </h1>
           <p className="hero-sub">
-            Nouveautés jeux vidéo, guides et analyses. En ce moment :
-            dossier complet sur <strong>GTA 6</strong> — sortie, trailers,
-            précommandes — et tout <strong>Palworld</strong> : version 1.0,
-            World Tree, élevage et astuces.
+            News vérifiées, guides et analyses — zéro clicbait. En ce moment :
+            le compte à rebours de <strong>GTA 6</strong> (19 novembre 2026),
+            le lancement de <strong>EA SPORTS FC 27</strong>, le casting de{" "}
+            <strong>PHYSINT</strong> dévoilé par Kojima et <strong>FF7
+            Revelation</strong> jouable au TGS. Chaque jeu qui compte a son
+            dossier.
           </p>
           <div className="hero-cta">
             <Link href={articleUrl(featured)} className="btn btn-primary">
@@ -144,13 +146,13 @@ export default function Home() {
             <div className="follow-box">
               <p className="follow-kicker">Restez branché</p>
               <h2 className="follow-title">
-                Le trailer 3 droppe ?
+                Une annonce droppe ?
                 <br />
-                Vous le saurez en premier.
+                Vous la saurez en premier.
               </h2>
               <p className="follow-text">
-                Ajoutez NeonActu à vos favoris : chaque annonce Rockstar ou
-                Pocketpair est décryptée dans l'heure.
+                Ajoutez NeonActu à vos favoris : chaque annonce Rockstar, EA,
+                Square Enix ou Kojima Productions est décryptée dans l'heure.
               </p>
             </div>
           </Reveal>
