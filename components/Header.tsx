@@ -1,6 +1,7 @@
 import Link from "next/link";
 import ThemeToggle from "@/components/ThemeToggle";
 import GamesMenu from "@/components/GamesMenu";
+import MobileMenu from "@/components/MobileMenu";
 import { games } from "@/lib/games";
 
 export default function Header() {
@@ -31,6 +32,13 @@ export default function Header() {
             <Link href="/a-propos/">À propos</Link>
           </nav>
           <ThemeToggle />
+          <MobileMenu
+            games={games.map((g) => ({
+              slug: g.slug,
+              shortName: g.shortName,
+              tagline: g.tagline,
+            }))}
+          />
         </div>
       </div>
     </header>
