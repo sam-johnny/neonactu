@@ -1,0 +1,21 @@
+{
+  "name": "Dragon's Dogma 2",
+  "shortName": "Dragon's Dogma 2",
+  "tagline": "L'action-RPG de Capcom, enrichi par l'extension Dark Arisen",
+  "description": "Dragon's Dogma 2 est l'action-RPG de Capcom sorti en 2024, qui s'offre une extension majeure, Dark Arisen, le 9 octobre 2026 avec une nouvelle région et son arrivée sur Switch 2.",
+  "intro": [
+    "**Dragon's Dogma 2** est l'action-RPG en monde ouvert de **Capcom**, sorti en mars 2024 et salué pour son système de Pions et sa liberté d'approche, malgré une performance technique perfectible corrigée depuis.",
+    "Le jeu revient au premier plan en octobre 2026 avec **Dark Arisen**, une extension majeure ajoutant la région de Norgan, et une arrivée sur **Nintendo Switch 2**."
+  ],
+  "cover": "/images/dragons-dogma-2-key-art.png",
+  "coverAlt": "Key art officiel de Dragon's Dogma 2",
+  "keywords": ["Dragon's Dogma 2", "Capcom", "Dark Arisen", "action-RPG", "Switch 2"],
+  "releaseIso": "2024-03-22",
+  "releaseLabel": "22 mars 2024",
+  "platforms": ["PS5", "Xbox Series X|S", "Switch 2", "PC"],
+  "theme": {
+    "accent": "#b98a2f",
+    "accent2": "#7a4d1e",
+    "accentSoft": "rgba(185, 138, 47, 0.18)"
+  }
+}

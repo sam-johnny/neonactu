@@ -1,0 +1,21 @@
+{
+  "name": "Monster Hunter Wilds",
+  "shortName": "MH Wilds",
+  "tagline": "La chasse de Capcom entre dans une nouvelle ère",
+  "description": "Monster Hunter Wilds est le Monster Hunter nouvelle génération de Capcom, disponible sur PS5, Xbox Series et PC, avec une version Switch 2 en décembre 2026 et une grande extension, Ascendance, en 2027.",
+  "intro": [
+    "**Monster Hunter Wilds** est l'épisode nouvelle génération de la saga de chasse de **Capcom**, sorti en février 2025 sur PS5, Xbox Series et PC et salué comme un tournant pour la licence.",
+    "Le jeu continue de s'étoffer : une version native **Switch 2** arrive en décembre 2026 avec cross-play, et l'extension **Ascendance** est annoncée pour 2027 avec le retour de Teostra."
+  ],
+  "cover": "/images/monster-hunter-wilds-key-art.jpg",
+  "coverAlt": "Key art officiel de Monster Hunter Wilds",
+  "keywords": ["Monster Hunter Wilds", "Capcom", "Ascendance", "Teostra", "Switch 2", "cross-play"],
+  "releaseIso": "2025-02-28",
+  "releaseLabel": "28 février 2025",
+  "platforms": ["PS5", "Xbox Series X|S", "Switch 2", "PC"],
+  "theme": {
+    "accent": "#5a9e4b",
+    "accent2": "#d98a2b",
+    "accentSoft": "rgba(90, 158, 75, 0.18)"
+  }
+}

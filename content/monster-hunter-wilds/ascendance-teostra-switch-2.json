@@ -1,0 +1,84 @@
+{
+  "shortTitle": "MH Wilds: Ascendance détaillée",
+  "title": "Monster Hunter Wilds: Ascendance — Teostra confirmé, mécanique Boost Bracer et version Switch 2 en décembre",
+  "description": "Capcom détaille Monster Hunter Wilds: Ascendance, sa grande extension de 2027 : retour de Teostra, nouvelles mécaniques Boost et zone Skybound Eyrie. Et le jeu de base arrive sur Switch 2 le 4 décembre 2026 avec cross-play.",
+  "excerpt": "Teostra fait son retour, la mécanique Boost Action change la donne et Monster Hunter Wilds débarque en version native sur Switch 2 le 4 décembre avec cross-play : le Capcom Spotlight a été chargé pour les chasseurs.",
+  "category": "News",
+  "date": "2026-09-19",
+  "updatedAt": "2026-09-19",
+  "readingTime": 7,
+  "cover": "/images/monster-hunter-wilds-key-art.jpg",
+  "coverAlt": "Key art officiel de Monster Hunter Wilds",
+  "keywords": ["Monster Hunter Wilds", "Ascendance", "Teostra", "Capcom", "Switch 2", "cross-play"],
+  "keyPoints": [
+    "L'extension Ascendance arrive en 2027 sur PS5, Xbox Series, Switch 2 et PC",
+    "Teostra confirmé avec de nouvelles attaques dans l'Oilwell Basin",
+    "Nouvelle mécanique Boost Action / Boost Bracer et zone Skybound Eyrie",
+    "Monster Hunter Wilds sort en version native sur Switch 2 le 4 décembre 2026, avec cross-play"
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Les chasseurs français ont été gâtés au **Capcom Spotlight** du TGS 2026 : le studio a levé le voile sur **Monster Hunter Wilds: Ascendance**, sa grande extension attendue en 2027, avec une annonce de plus — le jeu de base arrive en version native sur **Nintendo Switch 2 le 4 décembre 2026**."
+    },
+    {
+      "type": "h2",
+      "text": "Teostra de retour, plus dangereux que jamais"
+    },
+    {
+      "type": "p",
+      "text": "La star du showcase, c'est lui : **Teostra**, le dragon ancien du feu, fait son grand retour dans Wilds avec de **nouvelles attreuses attaques** dans l'Oilwell Basin. Il sera accompagné d'un nouveau monstre, **Araketa**, variante de boss inédite, et d'une nouvelle zone : **Skybound Eyrie**, un archipel d'îles flottantes à explorer grâce aux courants ascendants et au Seikret."
+    },
+    {
+      "type": "h2",
+      "text": "Boost Actions et Boost Bracer"
+    },
+    {
+      "type": "p",
+      "text": "Ascendance introduit la mécanique **Boost Action**, adossée à un nouvel équipement, le **Boost Bracer**, qui modifie le rythme des combats. Le niveau de difficulté « Master Rank » fera évidemment partie du package, avec une histoire inédite qui se déroule quelques années après le jeu de base, autour de la « grande dragonne » et du bastion de Madoi — avec le retour de Nada."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Extension Ascendance : 2027 (PS5, Xbox Series, Switch 2, PC)",
+        "Teostra de retour + nouveau monstre Araketa + zone Skybound Eyrie",
+        "Swap d'armes possible à cheval, sans retour à la monture",
+        "Changement d'équipement hors de la tente et refonte du personnage désormais gratuite"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Monster Hunter Wilds arrive sur Switch 2 le 4 décembre"
+    },
+    {
+      "type": "p",
+      "text": "Grosse nouvelle pour les joueurs Nintendo : **Monster Hunter Wilds** sortira en version native sur **Switch 2 le 4 décembre 2026**, avec le cross-play entre toutes les plateformes — PS5, Xbox Series, PC et Switch 2. Capcom ajoute en prime des améliorations de qualité de vie attendues par la communauté : changement d'arme sans désactiver le Seikret, équipement modifiable directement à la réserve et **refonte gratuite de l'apparence du personnage** (finis les tickets payants)."
+    },
+    {
+      "type": "quote",
+      "text": "Entre Teostra, le Boost Bracer et une vraie version Switch 2 avec cross-play, Capcom aligne exactement ce que la communauté Wilds réclamait depuis des mois.",
+      "cite": "La rédaction"
+    },
+    {
+      "type": "image",
+      "src": "/images/monster-hunter-wilds-key-art.jpg",
+      "alt": "Un chasseur affronte un monstre dans les terres sauvages de Monster Hunter Wilds",
+      "caption": "Monster Hunter Wilds s'offre une extension majeure et une version Switch 2 avec cross-play.",
+      "credit": "© Capcom — visuel officiel"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quand sort l'extension Ascendance de Monster Hunter Wilds ?",
+      "a": "L'extension est annoncée pour 2027 sur PS5, Xbox Series, Switch 2 et PC. Une fenêtre précise n'a pas encore été communiquée."
+    },
+    {
+      "q": "Quand sort Monster Hunter Wilds sur Switch 2 ?",
+      "a": "La version native Switch 2 sort le 4 décembre 2026, avec le cross-play entre toutes les plateformes."
+    },
+    {
+      "q": "Quelles nouveautés apporte Ascendance ?",
+      "a": "Le retour de Teostra avec de nouvelles attaques, le nouveau monstre Araketa, la zone Skybound Eyrie, la mécanique Boost Action avec le Boost Bracer et le rang Master Rank."
+    }
+  ]
+}

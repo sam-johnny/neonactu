@@ -1,0 +1,21 @@
+{
+  "name": "Call of Duty: Modern Warfare 4",
+  "shortName": "MW4",
+  "tagline": "La Task Force 141 au bord de la rupture",
+  "description": "Call of Duty: Modern Warfare 4 arrive le 23 octobre 2026 sur PS5, Xbox Series, Switch 2 et PC, avec une campagne inédite menée par Mads Mikkelsen en antagoniste.",
+  "intro": [
+    "**Call of Duty: Modern Warfare 4** est le nouvel épisode de la saga phare d'**Activision**, attendu le **23 octobre 2026** sur PS5, Xbox Series, Switch 2 et PC.",
+    "Après les événements de Modern Warfare 3, la Task Force 141 est dissoute et le capitaine Price est traqué par ses anciens frères d'armes. **Mads Mikkelsen** prête ses traits au nouvel antagoniste, The Archer."
+  ],
+  "cover": "/images/call-of-duty-mw4-key-art.webp",
+  "coverAlt": "Key art officiel de Call of Duty: Modern Warfare 4",
+  "keywords": ["Call of Duty", "Modern Warfare 4", "CoD MW4", "Activision", "Mads Mikkelsen"],
+  "releaseIso": "2026-10-23",
+  "releaseLabel": "23 octobre 2026",
+  "platforms": ["PS5", "Xbox Series X|S", "Switch 2", "PC"],
+  "theme": {
+    "accent": "#9aa26b",
+    "accent2": "#4c5540",
+    "accentSoft": "rgba(154, 162, 107, 0.16)"
+  }
+}
