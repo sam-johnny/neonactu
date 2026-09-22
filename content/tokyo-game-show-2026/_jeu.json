@@ -1,0 +1,21 @@
+{
+  "name": "Tokyo Game Show 2026",
+  "shortName": "TGS 2026",
+  "tagline": "La 30e édition du plus grand salon japonais du jeu vidéo, écourtée par un typhon historique",
+  "description": "Tokyo Game Show 2026 : annulation inédite du dernier jour à cause du typhon Dujuan, records d'exposants et récapitulatif complet des annonces du salon.",
+  "intro": [
+    "Le **Tokyo Game Show 2026** devait fêter son 30e anniversaire en grande pompe avec une édition inédite en cinq jours. C'était sans compter sur le **typhon Dujuan (n°25)**, qui a contraint l'organisateur CESA à annuler le dernier jour public — une première dans l'histoire du salon.",
+    "Même écourté, le TGS 2026 reste un événement historique : record d'exposants, démos jouables de **FF7 Revelation** et **Monster Hunter Wilds: Ascendance**, et remise des Japan Game Awards. Ce dossier rassemble tout ce qu'il faut retenir de la semaine japonaise."
+  ],
+  "cover": "/images/tgs-2026-key-visual.png",
+  "coverAlt": "Tokyo Game Show 2026 — visuel officiel du 30e anniversaire © CESA",
+  "keywords": ["Tokyo Game Show 2026", "TGS 2026", "salon jeu vidéo", "Makuhari Messe", "CESA", "annulation typhon"],
+  "releaseIso": "2026-09-17",
+  "releaseLabel": "17 – 21 septembre 2026 (jour 5 annulé)",
+  "platforms": ["Multi"],
+  "theme": {
+    "accent": "#e6007e",
+    "accent2": "#00a0e9",
+    "accentSoft": "rgba(230, 0, 126, 0.15)"
+  }
+}
