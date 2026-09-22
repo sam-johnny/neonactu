@@ -1,0 +1,21 @@
+{
+  "name": "Control Resonant",
+  "shortName": "Control Resonant",
+  "tagline": "La suite explosive de Control, signée Remedy",
+  "description": "Control Resonant est l'action-RPG de Remedy Entertainment, suite directe de Control (2019). Sortie le 24 septembre 2026 sur PS5, Xbox Series et PC.",
+  "intro": [
+    "**Control Resonant** est la suite du culte **Control** (2019), développée par **Remedy Entertainment** et auto-éditée par le studio finlandais. Attendu le **24 septembre 2026** sur PS5, Xbox Series et PC, le jeu déplace le curseur vers l'action pure, entre hack-and-slash et exploration d'un Manhattan ouvert.",
+    "Après **Alan Wake 2** et **FBC: Firebreak**, Remedy revient au sein du Federal Bureau of Control avec un nouvel opus dont les tests viennent de tomber : **84/100 sur Metacritic**, avec des éloges pour son combat, ses visuels et sa bande-son."
+  ],
+  "cover": "/images/control-resonant-key-art.jpg",
+  "coverAlt": "Key art officiel de Control Resonant : héros face à une architecture brutaliste du Federal Bureau of Control",
+  "keywords": ["Control Resonant", "Remedy", "Control 2", "action-RPG", "FBC", "Metacritic", "test", "PS5", "PC"],
+  "releaseIso": "2026-09-24",
+  "releaseLabel": "24 septembre 2026",
+  "platforms": ["PS5", "Xbox Series X|S", "PC"],
+  "theme": {
+    "accent": "#d93a2b",
+    "accent2": "#f2a33c",
+    "accentSoft": "rgba(217, 58, 43, 0.15)"
+  }
+}

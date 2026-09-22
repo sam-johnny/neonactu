@@ -1,0 +1,90 @@
+{
+  "shortTitle": "Insomniac nie l'IA dans Wolverine",
+  "title": "Marvel's Wolverine : Insomniac nie toute utilisation d'IA après la découverte d'un panneau de toilettes bizarre",
+  "description": "Un panneau de toilettes déformé dans Marvel's Wolverine a déclenché des accusations d'IA générative. Insomniac répond : aucune IA, juste un bug de mapping UV — un correctif est en préparation.",
+  "excerpt": "Un panneau de toilettes déformé a mis le feu aux réseaux : des joueurs y ont vu une texture générée par IA. Insomniac dément formellement et explique — c'est un bug de mapping UV, et un fix arrive.",
+  "category": "News",
+  "date": "2026-09-22",
+  "cover": "/images/marvels-wolverine-key-art.jpg",
+  "coverAlt": "Key art officiel de Marvel's Wolverine sur PS5",
+  "keywords": [
+    "Marvel's Wolverine",
+    "Insomniac",
+    "IA générative",
+    "GenAI",
+    "PS5",
+    "polémique",
+    "bug"
+  ],
+  "readingTime": 4,
+  "keyPoints": [
+    "Un panneau de toilettes à l'artwork déformé a été repéré par des joueurs et partagé massivement sur les réseaux",
+    "De nombreux fans y ont vu un asset généré par IA, relançant le débat sur la GenAI dans les jeux AAA",
+    "Insomniac répond officiellement : « il n'y a aucun asset généré par IA » dans Marvel's Wolverine",
+    "La cause identifiée : un bug de mapping UV qui déforme la texture — un correctif est en préparation",
+    "Le jeu, sorti le 15 septembre sur PS5, a dépassé 1,9 million de copies écoulées"
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Un panneau de toilettes. C'est tout ce qu'il a fallu pour relancer l'un des débats les plus inflammables du jeu vidéo. Depuis le 18 septembre, des captures d'écran d'un **panneau de signalétique déformé** dans les toilettes d'un niveau de **Marvel's Wolverine** font le tour de Reddit et des réseaux — avec, pour beaucoup de joueurs, une évidence : ça ressemble à du contenu **généré par IA**."
+    },
+    {
+      "type": "h2",
+      "text": "Insomniac dément formellement"
+    },
+    {
+      "type": "p",
+      "text": "Le studio a répondu sans ambiguïté. Interrogé sur la polémique, **Insomniac Games** affirme qu'**il n'y a aucun asset généré par IA dans Marvel's Wolverine**. L'apparence étrange du panneau s'expliquerait par un **bug de mapping UV** — la texture étant mal projetée sur le modèle 3D — et **un correctif est déjà en préparation**."
+    },
+    {
+      "type": "quote",
+      "text": "There are no AI-generated assets in the game. The reason it looks weird is because of a UV map bug — a fix is now in the works.",
+      "author": "Insomniac Games (via GameSpot, 18 septembre 2026)"
+    },
+    {
+      "type": "h2",
+      "text": "Pourquoi la polémique a pris si vite"
+    },
+    {
+      "type": "p",
+      "text": "Le contexte y est pour beaucoup : le débat sur la **GenAI dans le développement AAA** n'a jamais été aussi vif, et les joueurs scrutent chaque texture suspecte. Sur un jeu aussi exposé que Wolverine — **1,9 million de copies écoulées en une semaine**, selon les estimations — chaque détail devient un scrutoir. La preuve : où d'autres studios auraient laissé passer, Insomniac a répondu en moins de 24 heures, preuve que la pression communautaire fonctionne dans les deux sens."
+    },
+    {
+      "type": "image",
+      "src": "/images/marvels-wolverine-key-art.jpg",
+      "alt": "Key art officiel de Marvel's Wolverine sur PS5",
+      "caption": "Marvel's Wolverine est sorti le 15 septembre 2026 exclusivement sur PS5.",
+      "credit": "© Insomniac Games / Marvel — visuel officiel"
+    },
+    {
+      "type": "h2",
+      "text": "Ce qu'il faut retenir"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Insomniac confirme : aucun asset IA générative dans Marvel's Wolverine",
+        "La cause : un bug de mapping UV déformant la texture du panneau",
+        "Un correctif est en préparation, sans date annoncée",
+        "La polémique illustre la défiance grandissante des joueurs envers la GenAI",
+        "Wolverine reste un carton commercial : 1,9M de copies en une semaine"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Insomniac a-t-il utilisé de l'IA dans Marvel's Wolverine ?",
+      "a": "Non, selon le studio. Insomniac a démenti toute utilisation d'assets générés par IA après la découverte d'un panneau de toilettes déformé, attribuant l'anomalie à un bug de mapping UV. Un correctif est en préparation."
+    },
+    {
+      "q": "Qu'est-ce que le bug de mapping UV du panneau ?",
+      "a": "Le mapping UV est la technique qui projette une texture 2D sur un modèle 3D. Un bug dans cette projection peut déformer l'image rendue, donnant un rendu « fondu » ou illisible — exactement ce que les joueurs ont observé sur le panneau de toilettes."
+    },
+    {
+      "q": "Quand sort le correctif du panneau ?",
+      "a": "Insomniac confirme qu'un correctif est en préparation, sans communiquer de date précise à ce stade."
+    }
+  ],
+  "updatedAt": "2026-09-22T21:30:00+08:00"
+}
