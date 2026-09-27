@@ -1,0 +1,32 @@
+{
+  "name": "Resident Evil Requiem",
+  "shortName": "RE Requiem",
+  "tagline": "Le recordman de la saga signé Capcom",
+  "description": "Toute l'actualité de Resident Evil Requiem : ventes, records de la saga, répartition par plateforme, DLC et suites annoncées par Capcom pour le survival horror le plus rentable de la série.",
+  "intro": [
+    "**Resident Evil Requiem**, neuvième épisode principal de la saga de Capcom sorti le **27 février 2026**, est devenu le jeu le plus vendu de l'histoire de la série : plus de **8,5 millions de copies** et plus de **500 millions de dollars** de revenus estimés.",
+    "Ce dossier rassemble **l'actualité du phénomène Requiem** : paliers de ventes, répartition PS5/Steam/Xbox, contenus post-lancement et ce que Capcom prépare pour la suite de sa licence phare."
+  ],
+  "cover": "/images/resident-evil-requiem-sales.jpg",
+  "coverAlt": "Visuel officiel de Resident Evil Requiem, le recordman des ventes de la saga Capcom",
+  "keywords": [
+    "Resident Evil Requiem",
+    "Resident Evil 9",
+    "Capcom",
+    "RE Requiem ventes",
+    "survival horror",
+    "Resident Evil"
+  ],
+  "releaseIso": "2026-02-27",
+  "releaseLabel": "27 février 2026",
+  "platforms": [
+    "PS5",
+    "Xbox Series X|S",
+    "PC"
+  ],
+  "theme": {
+    "accent": "#c0392b",
+    "accent2": "#2c3e50",
+    "accentSoft": "rgba(192, 57, 43, 0.14)"
+  }
+}

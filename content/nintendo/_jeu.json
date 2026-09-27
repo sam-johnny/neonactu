@@ -1,0 +1,31 @@
+{
+  "name": "Nintendo",
+  "shortName": "Nintendo",
+  "tagline": "Business, consoles et batailles juridiques du géant japonais",
+  "description": "Toute l'actualité Nintendo : ventes de la Switch 2, procès contre la piraterie, politique anti-émulation et décisions business du constructeur japonais.",
+  "intro": [
+    "**Nintendo** est le constructeur le plus rentable de l'histoire du jeu vidéo, et aussi le plus agressif sur le plan juridique. De la Switch 2 aux procès historiques contre la piraterie, chaque mouvement du géant de Kyoto fait jurisprudence.",
+    "Ce dossier suit **l'actualité business et judiciaire de Nintendo** : jugements contre les acteurs de la piraterie, protection de ses IP, ventes hardware et les coups de pression qui secouent la scène du rétrogaming."
+  ],
+  "cover": "/images/nintendo-archbox-verdict.jpg",
+  "coverAlt": "Nintendo, constructeur victorieux d'un jugement de 4,5 millions de dollars contre un modérateur Reddit pirate",
+  "keywords": [
+    "Nintendo",
+    "Nintendo procès",
+    "piratage Nintendo Switch",
+    "Switch 2",
+    "Nintendo Switch pirates",
+    "émulation"
+  ],
+  "releaseIso": "2025-06-05",
+  "releaseLabel": "5 juin 2025 (Switch 2)",
+  "platforms": [
+    "Switch 2",
+    "Switch"
+  ],
+  "theme": {
+    "accent": "#e60012",
+    "accent2": "#ffffff",
+    "accentSoft": "rgba(230, 0, 18, 0.14)"
+  }
+}

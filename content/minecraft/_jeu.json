@@ -1,0 +1,35 @@
+{
+  "name": "Minecraft",
+  "shortName": "Minecraft",
+  "tagline": "The Sift, nouvelles dimensions et actualité du jeu le plus vendu au monde",
+  "description": "Toute l'actualité de Minecraft : la dimension The Sift, les game drops, Minecraft Dungeons II, les mises à jour Java et Bedrock et les projets autour du jeu le plus vendu de l'histoire.",
+  "intro": [
+    "**Minecraft** est le jeu le plus vendu de l'histoire : plus de **425 millions d'exemplaires** et environ **300 000 nouveaux joueurs chaque jour**, vingt-trois ans après sa sortie. Mojang Studios continue de le faire vivre avec des game drops réguliers et des annonces qui font trembler la planète.",
+    "Ce dossier rassemble **toute l'actualité de Minecraft** : la première nouvelle dimension en quatorze ans, **The Sift**, les mises à jour Java et Bedrock, *Minecraft Dungeons II* et les projets transmedia comme le parc d'attractions Minecraft World."
+  ],
+  "cover": "/images/minecraft-live-sift-2026.jpg",
+  "coverAlt": "Visuel officiel du Minecraft Live de septembre 2026 dédié à la dimension The Sift",
+  "keywords": [
+    "Minecraft",
+    "Minecraft The Sift",
+    "Minecraft dimension",
+    "Minecraft Dungeons II",
+    "Minecraft update",
+    "Mojang"
+  ],
+  "releaseIso": "2011-11-18",
+  "releaseLabel": "18 novembre 2011",
+  "platforms": [
+    "PC",
+    "PS5",
+    "Xbox Series X|S",
+    "Switch",
+    "Switch 2",
+    "Mobile"
+  ],
+  "theme": {
+    "accent": "#44bd32",
+    "accent2": "#8a6d3b",
+    "accentSoft": "rgba(68, 189, 50, 0.14)"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Halo",
+  "shortName": "Halo",
+  "tagline": "Le futur de la franchise mythique confié à Activision",
+  "description": "Toute l'actualité de Halo : la fin du développement chez Halo Studios, la passation à Activision, les projets annulés et l'avenir du Master Chief après la réorganisation de Xbox.",
+  "intro": [
+    "**Halo** est la franchise qui a construit la première Xbox, mais son développement vient d'être totalement bouleversé. Après des années de difficultés, Microsoft a retiré le prochain épisode à **Halo Studios** (ex-343 Industries) pour le confier à **Activision**, dans le cadre du grand \"reset\" de Xbox.",
+    "Ce dossier suit **l'après-coup de cette décision historique** : ce qui a été annulé, ce qu'Activision prépare, le sort des équipes restantes et les réactions des fans de la saga du Master Chief."
+  ],
+  "cover": "/images/halo-activision-reboot.jpg",
+  "coverAlt": "Master Chief, emblème de la franchise Halo, désormais développée par Activision",
+  "keywords": [
+    "Halo",
+    "Halo Activision",
+    "Halo Studios",
+    "Master Chief",
+    "Xbox",
+    "Halo reboot"
+  ],
+  "releaseIso": "2026-07-01",
+  "releaseLabel": "juillet 2026 (Halo: Campaign Evolved)",
+  "platforms": [
+    "Xbox Series X|S",
+    "PC",
+    "PS5"
+  ],
+  "theme": {
+    "accent": "#3fae2a",
+    "accent2": "#4a90c4",
+    "accentSoft": "rgba(63, 174, 42, 0.14)"
+  }
+}

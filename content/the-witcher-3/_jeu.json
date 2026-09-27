@@ -1,0 +1,33 @@
+{
+  "name": "The Witcher 3: Wild Hunt",
+  "shortName": "The Witcher 3",
+  "tagline": "Le remastered gratuit qui modernise un chef-d'œuvre",
+  "description": "Toute l'actualité de The Witcher 3 : le remastered gratuit du 29 septembre 2026, sa taille de téléchargement, les améliorations graphiques et l'actualité de la saga de CD Projekt RED.",
+  "intro": [
+    "**The Witcher 3: Wild Hunt** est l'un des RPG les plus acclamés de l'histoire, et il se refait une jeunesse : le **29 septembre 2026**, CD Projekt RED déploie une mise à jour **Remastered gratuite** pour les possesseurs du jeu sur PC, PS5 et Xbox Series.",
+    "Ce dossier suit **l'actualité du sorceleur** : contenu du remaster, taille des fichiers, plateformes concernées et l'avenir de la saga entre la suite annoncée et les projets Netflix."
+  ],
+  "cover": "/images/witcher3-remaster-key-art.webp",
+  "coverAlt": "Visuel officiel de The Witcher 3 Remastered, la mise à jour graphique gratuite de CD Projekt RED",
+  "keywords": [
+    "The Witcher 3",
+    "Witcher 3 Remastered",
+    "CD Projekt RED",
+    "Geralt de Riv",
+    "RPG",
+    "Witcher 3 mise à jour"
+  ],
+  "releaseIso": "2026-09-29",
+  "releaseLabel": "29 septembre 2026 (Remastered)",
+  "platforms": [
+    "PC",
+    "PS5",
+    "Xbox Series X|S",
+    "Switch 2"
+  ],
+  "theme": {
+    "accent": "#c1272d",
+    "accent2": "#5a6b4f",
+    "accentSoft": "rgba(193, 39, 45, 0.14)"
+  }
+}

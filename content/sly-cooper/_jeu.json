@@ -1,0 +1,34 @@
+{
+  "name": "Sly Cooper",
+  "shortName": "Sly Cooper",
+  "tagline": "Sony re-dépose la marque du voleur le plus stylé de la PS2",
+  "description": "Toute l'actualité de Sly Cooper : le re-dépôt du trademark par Sony, la nouvelle merchandise officielle et les rumeurs de revival de la franchise de Sucker Punch.",
+  "intro": [
+    "**Sly Cooper**, la mascotte voleuse née sur PlayStation 2, pourrait bien préparer son come-back. Treize ans après *Thieves in Time* (2013) et l'annulation du film en 2016, **Sony a officiellement re-déposé la marque** pour une nouvelle gamme de produits dérivés.",
+    "Ce dossier suit **tous les signaux du retour possible de Sly** : dépôts de trademarks, merchandising officiel, rumeurs de revival chez PlayStation et réactions de Sucker Punch, le studio historique de la saga."
+  ],
+  "cover": "/images/sly-cooper-trademark-2026.jpg",
+  "coverAlt": "Sly Cooper, la mascotte PlayStation dont Sony a re-déposé la marque en septembre 2026",
+  "keywords": [
+    "Sly Cooper",
+    "Sucker Punch",
+    "PlayStation",
+    "Sly Cooper revival",
+    "PS2",
+    "Sly Cooper 5"
+  ],
+  "releaseIso": "2013-02-05",
+  "releaseLabel": "5 février 2013 (Thieves in Time)",
+  "platforms": [
+    "PS5",
+    "PS4",
+    "PS3",
+    "PS Vita",
+    "PS2"
+  ],
+  "theme": {
+    "accent": "#5b7fd4",
+    "accent2": "#8c5b3f",
+    "accentSoft": "rgba(91, 127, 212, 0.16)"
+  }
+}
