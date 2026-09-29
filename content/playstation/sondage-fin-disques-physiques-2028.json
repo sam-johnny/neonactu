@@ -1,0 +1,96 @@
+{
+  "shortTitle": "PS5 : Sony sonde les joueurs sur la fin du disque",
+  "title": "Fin des disques PS en 2028 : Sony sonde les développeurs ET les joueurs, la colère ne retombe pas",
+  "description": "Alors que la fin de la production des disques physiques PlayStation est annoncée pour janvier 2028, Sony envoie un sondage massif aux développeurs puis un questionnaire public aux joueurs — qui l'utilisent pour exprimer leur colère.",
+  "excerpt": "Sony avance \"prudemment\" vers la fin des disques physiques en janvier 2028. Après un sondage XXL envoyé aux studios, PlayStation publie un questionnaire public que les joueurs utilisent massivement pour exprimer leur mécontentement.",
+  "category": "News",
+  "date": "2026-09-27",
+  "updatedAt": "2026-09-27T22:00:00+08:00",
+  "readingTime": 6,
+  "cover": "/images/ps5-fin-disques-2028.jpg",
+  "coverAlt": "Pile de jeux PlayStation en boîtier Blu-ray, symbole du support que Sony veut abandonner en 2028",
+  "keywords": [
+    "PlayStation fin disques",
+    "Sony 2028",
+    "PS5 physique",
+    "sondage développeurs",
+    "jeux physiques"
+  ],
+  "keyPoints": [
+    "Sony a envoyé un sondage massif aux développeurs sur la vente de jeux physiques (24 sept.)",
+    "Un questionnaire public aux joueurs a suivi le 25 septembre",
+    "La communauté l'utilise pour exprimer sa colère, avec des réponses ironiques virales",
+    "La fin des disques PS est annoncée pour janvier 2028, malgré les fortes réactions négatives",
+    "Le CFO Lin Tao parle d'une avancée prudente, consciente des critiques"
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "text": "La polémique n'est pas prête de s'éteindre. Annoncée en juillet 2026, la fin de la production de disques physiques pour les jeux PlayStation à partir de janvier 2028 continue de secouer la communauté. Et visiblement, Sony commence à mesurer l'ampleur du désastre publicitaire : la firme a envoyé un sondage massif aux développeurs, puis un questionnaire public aux joueurs — qui l'ont immédiatement détourné pour crier leur colère."
+    },
+    {
+      "type": "h2",
+      "text": "Un sondage \"parmi les plus gros jamais envoyés\" aux studios"
+    },
+    {
+      "type": "p",
+      "text": "Selon le podcast Broken Silicon, relayé par IGN le 24 septembre, Sony a envoyé aux studios de développement un questionnaire considéré comme l'un des plus volumineux jamais distribués par PlayStation. Il contient notamment des questions sur la manière dont les développeurs vendent leurs jeux en physique — après la décision d'arrêter la production de disques."
+    },
+    {
+      "type": "quote",
+      "text": "C'est l'un des plus gros sondages que les développeurs aient jamais reçus de la part de PlayStation.",
+      "author": "Tom, animateur du podcast Broken Silicon"
+    },
+    {
+      "type": "p",
+      "text": "Pour beaucoup d'observateurs, c'est le signe que Sony hésite. Interrogé en juillet lors d'un Q&A avec les investisseurs, le directeur financier Lin Tao avait déjà admis que la société était consciente des \"fortes opinions\" du public sur le sujet, tout en assurant qu'elle allait \"avancer prudemment\"."
+    },
+    {
+      "type": "h2",
+      "text": "Le sondage public détourné par les joueurs"
+    },
+    {
+      "type": "p",
+      "text": "Deux jours plus tard, le 25 septembre, PlayStation publie un sondage ouvert à tout adulte. Questions sur la satisfaction PS5 : jeux exclusifs, interface, performances, DualSense, bibliothèque… Aucune question ne mentionne directement le support physique — mais les joueurs ont trouvé la parade."
+    },
+    {
+      "type": "p",
+      "text": "Sur X et Reddit, des centaines de joueurs partagent leurs réponses écrites, toujours plus sarcastiques. La plus virale : \"Pour accéder à cette information, veuillez insérer le disque 'mon opinion' dans le lecteur, puis télécharger les informations nécessaires depuis internet.\""
+    },
+    {
+      "type": "quote",
+      "text": "Je ne pense pas qu'ils soient prêts pour les réponses, mais ce sondage prouve qu'ils savent au moins que leur image publique a pris une sacrée raclée."
+    },
+    {
+      "type": "h2",
+      "text": "Pourquoi la communauté ne lâche pas"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Les collectionneurs** : des dizaines de milliers de joueurs achètent encore en boîte pour la revente et l'exposition.",
+        "**La revente** : un marché du occasion estimé à plusieurs centaines de millions de dollars, qui disparaît avec le tout-numérique.",
+        "**Le rural** : dans beaucoup de régions, la fibre n'est pas partout — télécharger un jeu de 150 Go reste un calvaire.",
+        "**Le droit de propriété** : un jeu numérique peut disparaître d'une bibliothèque ; un disque, non."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Reste que Sony n'a pas changé de cap officiellement : janvier 2028 reste la date annoncée. Mais en interrogeant d'abord les studios, puis les joueurs, le constructeur japonais envoie un signal clair — la pression monte, et le sujet devient un enjeu d'image majeur à moins de deux ans de l'échéance."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quand Sony arrête-t-il les disques physiques ?",
+      "a": "Selon l'annonce de juillet 2026, la production de disques pour les nouveaux jeux PlayStation doit s'arrêter en janvier 2028. Aucune date officielle modifiée n'a été communiquée depuis."
+    },
+    {
+      "q": "Pourquoi Sony veut-il arrêter le physique ?",
+      "a": "Des raisons économiques (marges plus élevées sur le numérique, plus de logistique) et stratégiques (contrôle total de la distribution). Le directeur financier Lin Tao a dit avancer \"prudemment\", conscient des fortes réactions négatives."
+    },
+    {
+      "q": "Les joueurs peuvent-ils changer la décision ?",
+      "a": "Le sondage public du 25 septembre 2026 permet aux joueurs d'exprimer leur opinion directement à PlayStation. Aucune annonce de revirement n'a été faite, mais la communication de Sony suggère que la décision n'est pas totalement gravée dans le marbre."
+    }
+  ]
+}

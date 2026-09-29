@@ -1,0 +1,31 @@
+{
+  "name": "PlayStation",
+  "shortName": "PlayStation",
+  "tagline": "La fin du disque, le tout-numérique et les tempêtes autour de l'écosystème PS5",
+  "description": "L'actualité PlayStation : fin annoncée des disques physiques en janvier 2028, sondages aux développeurs, réactions des joueurs et stratégie tout-numérique de Sony.",
+  "intro": [
+    "**PlayStation** est au cœur de la plus grande polémique hardware du moment : Sony a annoncé la fin de la production de disques pour les jeux PS à partir de janvier 2028, et la communauté ne l'entend pas de cette oreille.",
+    "Ce dossier suit **la bataille du physique contre le numérique** : sondages aux développeurs, révolte des collectionneurs, réponses ironiques des joueurs et signaux d'hésitation de Sony."
+  ],
+  "cover": "/images/ps5-fin-disques-2028.jpg",
+  "coverAlt": "Pile de jeux PlayStation sur Blu-ray, symbole de la fin annoncée du disque physique chez Sony en 2028",
+  "keywords": [
+    "PlayStation",
+    "PS5",
+    "fin disques physiques",
+    "Sony 2028",
+    "jeux physiques",
+    "numérique"
+  ],
+  "releaseIso": "2026-07-01",
+  "releaseLabel": "Annonce juillet 2026",
+  "platforms": [
+    "PS5",
+    "PS4"
+  ],
+  "theme": {
+    "accent": "#0070d1",
+    "accent2": "#ffffff",
+    "accentSoft": "rgba(0, 112, 209, 0.14)"
+  }
+}
