@@ -1,0 +1,35 @@
+{
+  "name": "Final Fantasy Resonance",
+  "shortName": "FF Resonance",
+  "tagline": "Le premier Final Fantasy en HD-2D, entre hommage pixel et combat tactique repensé",
+  "description": "Toute l'actualité de Final Fantasy Resonance : démo jouable, Sephiroth en boss, système de Visions et sortie le 22 octobre 2026 sur PS5, Xbox Series, Switch, Switch 2 et PC.",
+  "intro": [
+    "**Final Fantasy Resonance** est un RPG développé et édité par Square Enix. Premier épisode console en tour par tour depuis près d'une décennie, il revisite le premier arc narratif de *Final Fantasy Brave Exvius* dans une présentation **HD-2D** spectaculaire, où les cinématiques 3D sont retranscrites en pixel art haute définition.",
+    "Le jeu mêle un système de combat au tour par tour évolutif (timeline, jauge de stagger, Resonances) au système de **Visions**, qui permet d'équiper les essences cristallisées de héros emblématiques de la saga — dont Cloud et Sephiroth, ce dernier affrontable en tant que boss secret.",
+    "Ce dossier rassemble **toute l'actualité de Final Fantasy Resonance** : démo gratuite, reveals, guides et analyses à trois semaines de sa sortie le **22 octobre 2026** sur PlayStation 5, Xbox Series X|S, Nintendo Switch, Switch 2 et PC."
+  ],
+  "cover": "/images/ff-resonance-demo-sephiroth.jpg",
+  "coverAlt": "Capture officielle de Final Fantasy Resonance — séquence HD-2D avec le boss Sephiroth",
+  "keywords": [
+    "Final Fantasy Resonance",
+    "FF Resonance",
+    "Square Enix",
+    "RPG HD-2D",
+    "Sephiroth",
+    "Brave Exvius"
+  ],
+  "releaseIso": "2026-10-22",
+  "releaseLabel": "22 octobre 2026",
+  "platforms": [
+    "PS5",
+    "Xbox Series",
+    "Switch",
+    "Switch 2",
+    "PC"
+  ],
+  "theme": {
+    "accent": "#4f6df5",
+    "accent2": "#9b59d0",
+    "accentSoft": "rgba(79, 109, 245, 0.14)"
+  }
+}
