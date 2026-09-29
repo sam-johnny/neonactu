@@ -165,7 +165,8 @@ export function articleUrl(article: Article): string {
 }
 
 export function formatDate(iso: string): string {
-  return new Date(iso + "T12:00:00Z").toLocaleDateString("fr-FR", {
+  const normalized = iso.includes("T") ? iso : iso + "T12:00:00Z";
+  return new Date(normalized).toLocaleDateString("fr-FR", {
     day: "numeric",
     month: "long",
     year: "numeric",
