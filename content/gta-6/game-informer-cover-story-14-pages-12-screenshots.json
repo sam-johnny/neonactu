@@ -5,7 +5,7 @@
   "excerpt": "Le silence marketing de Rockstar est rompu par le magazine Game Informer : 14 pages d'interviews exclusives avec les lead designers, 12 screenshots inédits, et les premiers détails sur la météo avancée et la faune de Leonida.",
   "category": "News",
   "date": "2026-09-30",
-  "updatedAt": "2026-09-30T12:10:00+08:00",
+  "updatedAt": "2026-09-30T22:30:00+08:00",
   "readingTime": 8,
   "cover": "/images/gta6-game-informer-cover-story.jpg",
   "coverAlt": "Couverture du magazine Game Informer issue 382 dédiée à Grand Theft Auto VI avec Jason et Lucia",
@@ -39,7 +39,14 @@
     },
     {
       "type": "p",
-      "text": "La révélation centrale du dossier porte sur les **systèmes météorologiques avancés** de GTA 6. Rockstar confirme avoir développé des systèmes conçus pour **simuler les phénomènes météo « les moins ensoleillés » de la Floride** — orages tropicaux, ciels lourds, pluies soudaines — et non un soleil permanent. La météo n'est pas qu'un habillage visuel : elle structure l'identité de Leonida et change la lisibilité du monde en jeu, des poursuites sous l'orage aux plages figées avant un front."
+      "text": "La révélation centrale du dossier porte sur les **systèmes météorologiques avancés** de GTA 6. Conçus pour simuler le climat tropical de la Floride réelle, ils promettent bien plus que le soleil permanent : **des nuages dynamiques** défilent sur Leonida et créent tout un spectre de conditions, du ciel limpide aux journées couvertes. Rockstar confirme des **orages localisés** : le joueur peut se tenir au sec sous le soleil d'un secteur tout en observant une tempête gronder à l'horizon. Surtout, le studio **confirme les tempêtes tropicales et les ouragans saisonniers** — les phénomènes les plus violents de la Floride seront bien présents dans Leonida. Reste inconnu leur fréquence exacte et leur impact sur le gameplay et le récit, mais leur seule présence a de quoi relever considérablement l'immersion."
+    },
+    {
+      "type": "image",
+      "src": "/images/gta6-gi-screenshot-hurricane-leonida.jpg",
+      "alt": "Screenshot exclusif GTA 6 : un orage tropical déverse ses flots sur Leonida",
+      "caption": "Un orage tropical s'abat sur Leonida : Rockstar confirme les tempêtes violentes et les ouragans saisonniers, simulés en nuages dynamiques et pluies localisées.",
+      "credit": "© Rockstar Games / Game Informer — screenshot exclusif (issue 382)"
     },
     {
       "type": "quote",
@@ -52,7 +59,14 @@
     },
     {
       "type": "p",
-      "text": "Deuxième gros morceau : la **faune de Leonida**, décrite comme d'un niveau « stupéfiant ». Rockstar évoque des animaux **natifs et non-natifs** évoluant sur terre, dans les airs et dans les eaux de l'État — une continuité directe avec l'écosystème de Red Dead Redemption 2, transposé dans les wetlands, les plages et les Keys de la Floride. Les 12 screenshots l'illustrent déjà : la faune des **Grassrivers**, ces zones marécageuses inspirées des Everglades, tient une place de choix."
+      "text": "Deuxième gros morceau : la **faune de Leonida**, décrite comme d'un niveau « stupéfiant ». Rockstar annonce **plus de 170 espèces animales** sur terre, dans les airs et dans les mers — dont plusieurs jamais vues dans un jeu du studio. Les animaux emblématiques de la Floride seront au rendez-vous : **flamants roses, lamantins, pélicans et, évidemment, alligators**, aux côtés d'espèces invasives comme l'**iguane vert**. Le studio s'appuie sur son expérience de Red Dead Redemption 2 pour pousser le réalisme : iridescence, bioluminescence, translucidité, types de plumes, nouveaux systèmes de poils et de pelages — et même des **animaux rares traçables**, comme dans le western de 2018."
+    },
+    {
+      "type": "image",
+      "src": "/images/gta6-gi-screenshot-faune-leonida.jpg",
+      "alt": "Screenshot exclusif GTA 6 : la faune sauvage de Leonida dans les zones humides",
+      "caption": "Leonida regorge de vie : plus de 170 espèces animales peupleront les zones humides, côtes et forêtes de l'État — flamants roses, lamantins, pélicans, alligators et iguanes verts compris.",
+      "credit": "© Rockstar Games / Game Informer — screenshot exclusif (issue 382)"
     },
     {
       "type": "h2",
