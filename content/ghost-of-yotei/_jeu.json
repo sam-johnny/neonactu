@@ -1,0 +1,21 @@
+{
+  "name": "Ghost of Yōtei",
+  "shortName": "Ghost of Yōtei",
+  "tagline": "La nouvelle légende de Sucker Punch, enfin complète",
+  "description": "Ghost of Yōtei Complete Edition rassemble le jeu de Sucker Punch, son extension Echoes of Sekigahara, le mode coop Legends et le mode survie Most Wanted avec Jin Sakai, sortie le 1er octobre 2026 sur PS5.",
+  "intro": [
+    "**Ghost of Yōtei** est l'opus de **Sucker Punch** sorti à l'automne 2025 sur PS5, qui suit les traces de Atsu dans le Japon du XVIIe siècle. Sa **Complete Edition** rassemble désormais tout le contenu, sortie le **1er octobre 2026**.",
+    "Ce dossier centralise **toute l'actualité de Ghost of Yōtei** : extensions, modes, mises à jour et guides."
+  ],
+  "cover": "/images/ghost-of-yotei-complete-edition.jpg",
+  "coverAlt": "Ghost of Yōtei Complete Edition — Atsu face à ses ennemis",
+  "keywords": ["Ghost of Yōtei", "Sucker Punch", "PS5", "Complete Edition", "jin sakai"],
+  "releaseIso": "2025-10-02",
+  "releaseLabel": "2 octobre 2025",
+  "platforms": ["PS5"],
+  "theme": {
+    "accent": "#d64541",
+    "accent2": "#1c1c1e",
+    "accentSoft": "rgba(214, 69, 65, 0.16)"
+  }
+}

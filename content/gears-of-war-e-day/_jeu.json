@@ -1,0 +1,21 @@
+{
+  "name": "Gears of War: E-Day",
+  "shortName": "Gears E-Day",
+  "tagline": "Le Jour de l'Émergence, quatorze ans avant Gears of War",
+  "description": "Gears of War: E-Day est le prequel de The Coalition et People Can Fly, disponible le 6 octobre 2026 sur Xbox Series et PC avec le Game Pass, après un early access Premium dès le 1er octobre.",
+  "intro": [
+    "**Gears of War: E-Day** est le prequel développé par **The Coalition** et **People Can Fly**, qui ramène la saga quatorze ans avant le premier épisode, le jour où les Locust ont jailli du sol.",
+    "Disponible le **6 octobre 2026** sur Xbox Series X|S et PC avec **le Game Pass dès le jour un**, le jeu offre un early access de cinq jours aux joueurs Premium dès le **1er octobre 2026**."
+  ],
+  "cover": "/images/gears-of-war-e-day-key-art.jpg",
+  "coverAlt": "Key art de Gears of War: E-Day — Marcus Fenix et Dominic Santiago, armes à la main",
+  "keywords": ["Gears of War", "E-Day", "The Coalition", "Xbox Game Studios", "Game Pass"],
+  "releaseIso": "2026-10-06",
+  "releaseLabel": "6 octobre 2026",
+  "platforms": ["Xbox Series X|S", "PC"],
+  "theme": {
+    "accent": "#c0392b",
+    "accent2": "#4a1512",
+    "accentSoft": "rgba(192, 57, 43, 0.16)"
+  }
+}

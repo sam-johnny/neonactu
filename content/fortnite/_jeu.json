@@ -1,0 +1,21 @@
+{
+  "name": "Fortnite",
+  "shortName": "Fortnite",
+  "tagline": "Le battle royale qui avale la pop culture",
+  "description": "Fortnite est le phénomène d'Epic Games qui mélange battle royale, événements live et collaborations avec les plus grandes licences de la pop culture.",
+  "intro": [
+    "**Fortnite** est le battle royale d'**Epic Games** devenu une plateforme culturelle à part entière, avec ses événements live, ses modes rotatifs et ses collaborations incessantes.",
+    "Ce dossier rassemble **toute l'actualité de Fortnite** : mises à jour, événements comme Fortnitemares, nouvelles collaborations et guides de saison."
+  ],
+  "cover": "/images/fortnitemares-2026-key-art.jpg",
+  "coverAlt": "Key art Fortnitemares 2026 x Five Nights at Freddy's",
+  "keywords": ["Fortnite", "Epic Games", "battle royale", "Fortnitemares", "collaboration"],
+  "releaseIso": "2017-07-25",
+  "releaseLabel": "25 juillet 2017",
+  "platforms": ["PS5", "Xbox Series X|S", "Switch", "Switch 2", "PC", "Mobile"],
+  "theme": {
+    "accent": "#b33dd8",
+    "accent2": "#ff7518",
+    "accentSoft": "rgba(179, 61, 216, 0.16)"
+  }
+}

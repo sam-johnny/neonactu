@@ -1,0 +1,21 @@
+{
+  "name": "Ace Combat 8: Wings of Theve",
+  "shortName": "Ace Combat 8",
+  "tagline": "Le retour du roi des jeux de combat aérien",
+  "description": "Ace Combat 8: Wings of Theve est le nouvel épisode de la saga de Bandai Namco, sorti le 2 octobre 2026 sur PS5, Xbox Series et PC, sept ans après Ace Combat 7.",
+  "intro": [
+    "**Ace Combat 8: Wings of Theve** est le nouvel épisode de la saga de combat aérien de **Bandai Namco**, sorti le **2 octobre 2026** sur PS5, Xbox Series X|S et PC.",
+    "Sept ans après Ace Combat 7, le « Project Aces » signe un retour très attendu par la communauté, salué par la critique dès sa sortie."
+  ],
+  "cover": "/images/ace-combat-8-key-art.jpg",
+  "coverAlt": "Key art officiel d'Ace Combat 8: Wings of Theve — chasseur F-14 sur la piste d'un porte-avions",
+  "keywords": ["Ace Combat 8", "Wings of Theve", "Bandai Namco", "combat aérien", "jeu de vol"],
+  "releaseIso": "2026-10-02",
+  "releaseLabel": "2 octobre 2026",
+  "platforms": ["PS5", "Xbox Series X|S", "PC"],
+  "theme": {
+    "accent": "#3d9be9",
+    "accent2": "#123a5c",
+    "accentSoft": "rgba(61, 155, 233, 0.16)"
+  }
+}
