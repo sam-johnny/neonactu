@@ -1,0 +1,21 @@
+{
+  "name": "Final Fantasy VII: Ever Crisis",
+  "shortName": "Ever Crisis",
+  "tagline": "Toute la compilation FFVII réunie en un seul jeu",
+  "description": "Final Fantasy VII: Ever Crisis est le RPG free-to-play de Square Enix qui adapte l'intégralité de la compilation FFVII. Retrouvez toute son actualité, jusqu'à la fermeture de ses serveurs le 6 octobre 2026.",
+  "intro": [
+    "**Final Fantasy VII: Ever Crisis** est le RPG free-to-play développé par **Square Enix**, sorti en septembre 2023 sur iOS, Android et PC (Steam). Le jeu adapte l'intégralité de la compilation FFVII : le jeu original, Crisis Core, Advent Children et Before Crisis.",
+    "Ce dossier rassemble **toute l'actualité d'Ever Crisis**, de son lancement à la fermeture officielle de ses serveurs annoncée pour le 6 octobre 2026."
+  ],
+  "cover": "/images/ff7-ever-crisis-key-art.jpg",
+  "coverAlt": "Key art de Final Fantasy VII: Ever Crisis — Cloud Strife et les héros de la compilation FFVII",
+  "keywords": ["Final Fantasy VII", "Ever Crisis", "FF7", "Square Enix", "RPG", "mobile"],
+  "releaseIso": "2023-09-07",
+  "releaseLabel": "7 septembre 2023",
+  "platforms": ["iOS", "Android", "PC"],
+  "theme": {
+    "accent": "#2f6fd6",
+    "accent2": "#4fd1c5",
+    "accentSoft": "rgba(47, 111, 214, 0.15)"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Gran Turismo 7",
+  "shortName": "GT7",
+  "tagline": "The Real Driving Simulator",
+  "description": "Gran Turismo 7 est le jeu de course de Polyphony Digital sur PS4 et PS5. Suivez toute l'actualité du simulateur : mises à jour gratuites, nouveaux circuits, nouvelles voitures et esport.",
+  "intro": [
+    "**Gran Turismo 7** est le jeu de course développé par **Polyphony Digital**, disponible sur PS4 et PS5 (compatible PS VR2). Parié sur une approche complète du sport automobile, il rassemble plus de 400 voitures et une quarantaine de circuits.",
+    "Ce dossier rassemble **toute l'actualité de Gran Turismo 7** : mises à jour gratuites, nouveaux circuits, nouvelles voitures, modes de jeu et compétitions esport du Gran Turismo World Series."
+  ],
+  "cover": "/images/gran-turismo-7-spec-iv.jpg",
+  "coverAlt": "Gran Turismo 7 — visuel de la mise à jour Spec IV avec le pont Dunlop de Sportsland SUGO",
+  "keywords": ["Gran Turismo 7", "GT7", "Polyphony Digital", "PlayStation", "simulation de course", "esport"],
+  "releaseIso": "2022-03-04",
+  "releaseLabel": "4 mars 2022",
+  "platforms": ["PS4", "PS5", "PS VR2"],
+  "theme": {
+    "accent": "#0b5ed7",
+    "accent2": "#003087",
+    "accentSoft": "rgba(11, 94, 215, 0.15)"
+  }
+}
