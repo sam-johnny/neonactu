@@ -1,0 +1,21 @@
+{
+  "name": "NBA 2K25",
+  "shortName": "NBA 2K25",
+  "tagline": "La simulation de basket de 2K Sports, retirée de la vente en 2026",
+  "description": "NBA 2K25 est la simulation de basket annuelle de 2K Sports, sortie en septembre 2024. Le jeu sera retiré de la vente le 30 octobre 2026 et ses serveurs fermeront le 31 décembre 2026.",
+  "intro": [
+    "**NBA 2K25** est la simulation de basket annuelle de **2K Sports** (Visual Concepts), sortie en septembre 2024 sur PS4, PS5, Xbox One, Xbox Series X|S, Switch et PC. Avec ses modes MyCAREER, MyTEAM, MyNBA et The W, elle reste la référence du genre sur consoles.",
+    "Après un peu plus de deux ans de service, 2K a annoncé le retrait du jeu de la vente le **30 octobre 2026** puis la fermeture totale de ses serveurs le **31 décembre 2026** — un délai qui alimente la polémique sur la pérennité des jeux achetés plein pot."
+  ],
+  "cover": "/images/nba-2k25-cover.jpg",
+  "coverAlt": "NBA 2K25 — capture photoréaliste in-game d'un joueur des San Antonio Spurs sur le parquet",
+  "keywords": ["NBA 2K25", "2K Sports", "basket", "fermeture serveurs", "délistage", "MyCAREER"],
+  "releaseIso": "2024-09-06",
+  "releaseLabel": "6 septembre 2024",
+  "platforms": ["PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X|S", "Nintendo Switch", "PC"],
+  "theme": {
+    "accent": "#f26522",
+    "accent2": "#1f2a44",
+    "accentSoft": "rgba(242, 101, 34, 0.15)"
+  }
+}

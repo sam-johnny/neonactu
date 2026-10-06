@@ -1,0 +1,21 @@
+{
+  "name": "Star Wars: Galactic Racer",
+  "shortName": "Galactic Racer",
+  "tagline": "Le Burnout de la galaxie, signé par les anciens de Burnout",
+  "description": "Star Wars: Galactic Racer est un jeu de course arcade runs-based développé par Fuse Games et édité par Secret Mode, sorti le 6 octobre 2026 sur PS5, Xbox Series X|S et PC.",
+  "intro": [
+    "**Star Wars: Galactic Racer** est un jeu de course avec des éléments d'aventure, développé par **Fuse Games** — un studio fondé par d'anciens développeurs de Burnout et Need for Speed — et publié par Secret Mode. Après la chute de l'Empire, une ligue de course clandestine s'impose dans la Bordure Extérieure : bienvenue dans la Galactic League.",
+    "Sorti le **6 octobre 2026** sur PlayStation 5, Xbox Series X|S et PC, le jeu a été salué par la critique comme **le meilleur jeu Star Wars depuis Knights of the Old Republic** avec un Metacritic de 88 et 97% de recommandations sur OpenCritic."
+  ],
+  "cover": "/images/galactic-racer-cover.jpg",
+  "coverAlt": "Key art de Star Wars: Galactic Racer — pilote de la Galactic League dans son cockpit, ambiance néons de la Bordure Extérieure",
+  "keywords": ["Star Wars Galactic Racer", "jeu de course", "podracing", "Burnout", "Fuse Games", "Metacritic"],
+  "releaseIso": "2026-10-06",
+  "releaseLabel": "6 octobre 2026",
+  "platforms": ["PlayStation 5", "Xbox Series X|S", "PC"],
+  "theme": {
+    "accent": "#f5c542",
+    "accent2": "#4a9eff",
+    "accentSoft": "rgba(245, 197, 66, 0.15)"
+  }
+}
