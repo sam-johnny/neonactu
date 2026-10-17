@@ -20,7 +20,12 @@
   "blocks": [
     {
       "type": "p",
-      "text": "C'est fait. **Jeudi 15 octobre 2026**, Rockstar Games a publié le **trailer de lancement officiel de Grand Theft Auto VI**, un peu plus d'un mois avant la sortie du jeu. Un trailer d'une durée chirurgicale : **90 secondes exactement**, et chaque image est capturée **intégralement in-game** — pas une seule cinématique pré-calculée."
+      "text": "C'est fait. **Jeudi 15 octobre 2026**, Rockstar Games a publié le **trailer de lancement officiel de Grand Theft Auto VI**, un peu plus d'un mois avant la sortie du jeu. Un trailer d'une durée chirurgicale : **90 secondes exactement**, et chaque image est capturée **intégralement in-game sur PS5 de base** — pas une seule cinématique pré-calculée."
+    },
+    {
+      "type": "youtube",
+      "id": "oFwB6gZLRmc",
+      "title": "GTA 6 (Grand Theft Auto 6) — Official Launch Trailer"
     },
     {
       "type": "h2",

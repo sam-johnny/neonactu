@@ -1,0 +1,98 @@
+{
+  "shortTitle": "Riot ferme League Classic",
+  "title": "Riot ferme League of Legends Classic : le mode rétro s'éteint en janvier 2027, trois mois à peine après son lancement",
+  "description": "Riot Games annonce la fin de League Classic, le mode rétro de League of Legends, qui s'arrêtera fin de la saison 3 en janvier 2027 après un intérêt des joueurs retombé.",
+  "excerpt": "C'est un séisme pour la nostalgie : Riot Games annonce que League Classic, son mode rétro recréant le League of Legends d'antan, fermera ses portes en janvier 2027. Trois mois seulement après son lancement triomphal du 29 juillet 2026, la majorité des joueurs serait retournée au LoL moderne. Retour sur un échec relatif, les mesures d'accompagnement et ce que Riot promet pour la suite.",
+  "category": "News",
+  "date": "2026-10-17",
+  "updatedAt": "2026-10-17",
+  "readingTime": 7,
+  "cover": "/images/lol-classic-fermeture.jpg",
+  "coverAlt": "Key art officiel du mode League Classic, la version rétro de League of Legends © Riot Games — visuel officiel",
+  "keywords": ["League of Legends Classic", "League Classic", "Riot Games", "fermeture", "janvier 2027", "mode rétro", "Meddler", "Pabro"],
+  "keyPoints": [
+    "Riot Games a annoncé le 14 octobre 2026 la fermeture de League Classic à la fin de la saison 3, début janvier 2027",
+    "Le mode rétro n'aura duré qu'environ 5 mois : lancé le 29 juillet 2026 avec le patch 26.15",
+    "Raison officielle : la majorité des joueurs serait retournée aux autres modes de League (« most have gone back to other parts of League »)",
+    "Mesures : files horodées dans 9 régions, custom matches uniquement au Japon et MENA, remboursements du contenu Classic, Battle Pass gratuit",
+    "Riot promet un retour futur de Classic, probablement sous forme de mode événementiel"
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Trois mois à peine après son lancement en grande pompe, **League Classic tire déjà sa révérence**. Dans un dev update publié le **14 octobre 2026**, les Rioters **Meddler et Pabro** ont annoncé que le mode rétro de League of Legends s'arrêterait **à la fin de la saison 3 — début janvier 2027**. Une nouvelle qui met en branle la plus grande communauté de joueurs au monde."
+    },
+    {
+      "type": "h2",
+      "text": "Un carton de lancement… et un retour au calme"
+    },
+    {
+      "type": "p",
+      "text": "Pour rappel, **League Classic** avait débarqué le **29 juillet 2026** (patch 26.15) pour recréer le League of Legends d'antan — celui des saisons passées, des mécaniques oubliées et des champions d'une autre époque. Riot avait surfait sur la vague pendant des années : annonces teasées, showmatch avec dix pros retraités au MSI. Et le lancement avait effectivement fait grimper la hype aux plafonds."
+    },
+    {
+      "type": "p",
+      "text": "Mais l'emballement n'a pas duré. Dans son annonce, Riot est transparent : **« la plupart des joueurs sont retournés vers d'autres parties de League »**. Les files d'attente se sont allongées, les écarts de niveau se creusaient, et le mode peinait à remplir ses matchs dans de nombreuses régions. Sans publier de chiffres, le studio a tranché : Classic n'a pas trouvé son public sur la durée."
+    },
+    {
+      "type": "h2",
+      "text": "Les mesures d'accompagnement jusqu'en janvier"
+    },
+    {
+      "type": "p",
+      "text": "Classic ne disparaît pas du jour au lendemain : le mode restera jouable **jusqu'à la fin de la saison 3, début janvier 2027**, avec un programme de transition précis."
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Files horodées :** dans 9 régions (Corée, LAN, LAS, Taïwan, Vietnam, Turquie, SEA, Océanie, Russie), les queues Classic seront accessibles par fenêtres horaires ; au **Japon et au MENA**, seules les parties personnalisées resteront disponibles dès le patch 26.21",
+        "**Remboursements :** Riot remboursera le contenu spécifique à Classic qui ne sera plus utilisable après la fermeture",
+        "**Battle Pass Act II :** à partir du patch 26.21, le passe Classic passera à une **piste unique gratuite**",
+        "**Boutique épurée :** dès le 26.21, seuls Champions, Runes et Pages de runes y seront vendus",
+        "**Nouveaux champions jusqu'au bout :** Irelia, Karma, Quinn, Aatrox, Caitlyn (26.20), puis Mordekaiser, Yorick, Hecarim et Lucian (26.21), et encore Volibear, Urgot et Udyr (26.23)"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "« On remet Classic dans sa boîte »… mais pas pour toujours"
+    },
+    {
+      "type": "p",
+      "text": "Point important : Riot ne ferme pas définitivement la porte. Le studio assure vouloir **ramener Classic à l'avenir**, « probablement sous forme de **mode événementiel**, avec des ajustements et des ajouts » — et promet un bilan détaillé de ce premier run : ce qui a fonctionné, ce qui aurait pu être « plus classique », et ce qui a freiné l'expérience."
+    },
+    {
+      "type": "quote",
+      "text": "On a vu beaucoup de joueurs s'amuser à revisiter le passé avec Classic. Mais à ce stade, la plupart sont retournés vers d'autres parties de League. — Meddler et Pabro, Riot Games"
+    },
+    {
+      "type": "h2",
+      "text": "Le parallèle avec WoW Classic — et pourquoi ça n'a pas marché"
+    },
+    {
+      "type": "p",
+      "text": "Le parallèle avec **World of Warcraft Classic** s'impose : chez Blizzard, la formule rétro fonctionne depuis des années en parallèle du jeu moderne. Chez Riot, pas. L'explication tient peut-être à la nature même du MOBA : là où WoW Classic propose une aventure figée à savourer, League Classic devait reconstruire un méta en perpétuelle évolution — et recréer le « bon vieux LoL » suppose de choisir QUELLE époque, une épée de Damoclès pour l'équilibre des matchs. Trois mois ont suffi à rendre le verdict."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quand League of Legends Classic ferme-t-il ?",
+      "a": "League Classic restera jouable jusqu'à la fin de la saison 3 de 2026, soit début janvier 2027. Riot n'a pas donné de date précise de fermeture des serveurs, mais a confirmé que le mode « end its current run » à ce moment-là."
+    },
+    {
+      "q": "Riot ferme-t-il League of Legends tout entier ?",
+      "a": "Non, absolument pas. Seul le mode League Classic — la version rétro lancée le 29 juillet 2026 — s'arrête. Le League of Legends moderne continue normalement, avec sa saison 3 et ses mises à jour habituelles."
+    },
+    {
+      "q": "Pourquoi Riot ferme-t-il League Classic ?",
+      "a": "Selon le dev update du 14 octobre 2026, l'intérêt des joueurs a chuté après le lancement : la majorité serait retournée aux autres modes de League, provoquant des files d'attente longues et des écarts de niveau importants dans plusieurs régions. Riot n'a pas publié de statistiques précises."
+    },
+    {
+      "q": "Que devient le contenu acheté dans League Classic ?",
+      "a": "Riot a confirmé qu'il rembourserait le contenu spécifique à Classic qui ne sera plus utilisable après la fermeture. Les détails du programme de remboursement sont précisés dans une annonce dédiée."
+    },
+    {
+      "q": "League Classic reviendra-t-il un jour ?",
+      "a": "C'est ce que promet Riot : le studio assure vouloir ramener Classic « dans le futur, probablement comme un mode événementiel avec des ajustements et des ajouts », après avoir tiré les leçons de ce premier run."
+    }
+  ]
+}

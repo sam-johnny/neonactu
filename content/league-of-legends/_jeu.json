@@ -1,0 +1,21 @@
+{
+  "name": "League of Legends",
+  "shortName": "League of Legends",
+  "tagline": "Le MOBA de Riot Games, phénomène mondial du jeu compétitif depuis 2009",
+  "description": "League of Legends, le MOBA free-to-play de Riot Games : actualités, patches, esport, modes de jeu et coulisses du jeu le plus joué au monde.",
+  "intro": [
+    "**League of Legends** est le MOBA free-to-play de **Riot Games**, sorti en 2009 et devenu le jeu compétitif le plus joué de la planète — avec des dizaines de millions de joueurs actifs et la scène d'esport la plus suivie au monde.",
+    "Ce dossier rassemble **toute l'actualité de League of Legends** : annonces de Riot, nouveaux champions, évolutions de la faille, modes alternatifs comme League Classic, et coulisses de l'écosystème LoL."
+  ],
+  "cover": "/images/lol-classic-fermeture.jpg",
+  "coverAlt": "Key art officiel du mode League Classic, la version rétro de League of Legends © Riot Games — visuel officiel",
+  "keywords": ["League of Legends", "LoL", "Riot Games", "MOBA", "esport", "League Classic"],
+  "releaseIso": "2009-10-27",
+  "releaseLabel": "27 octobre 2009",
+  "platforms": ["PC", "Mac"],
+  "theme": {
+    "accent": "#0ac8b9",
+    "accent2": "#c8aa6e",
+    "accentSoft": "rgba(10, 200, 185, 0.15)"
+  }
+}
