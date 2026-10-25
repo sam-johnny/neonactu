@@ -1,0 +1,34 @@
+{
+  "name": "Arkane Lyon",
+  "shortName": "Arkane Lyon",
+  "tagline": "Le studio français de Dishonored et Deathloop face à la fermeture : Microsoft n'a que jusqu'au 13 novembre pour trouver un repreneur",
+  "description": "Microsoft veut fermer Arkane Lyon, légendaire studio français derrière Dishonored, Deathloop et Marvel's Blade. La loi Florange impose une recherche de repreneur jusqu'au 13 novembre 2026, avec 217 emplois en jeu.",
+  "intro": [
+    "**Arkane Lyon**, l'un des studios les plus respectés de France — créateur de **Dishonored**, **Dishonored 2** et **Deathloop** — est menacé de fermeture par Microsoft. Prévenue le 16 juillet 2026, l'équipe de 217 personnes ne doit son sursis qu'à la **loi Florange**, qui impose trois mois de recherche de repreneur.",
+    "Ce dossier suit **le feuilleton de la survie du studio** : les consultations jusqu'au 13 novembre 2026, l'avenir de **Marvel's Blade** — qui serait pourtant proche de la fin de production — et les pistes de rachat qui circulent dans l'industrie."
+  ],
+  "cover": "/images/arkane-lyon-blade.jpg",
+  "coverAlt": "Key art officiel de Marvel's Blade, le jeu d'Arkane Lyon en développement © Marvel / Arkane Lyon",
+  "keywords": [
+    "Arkane Lyon",
+    "Microsoft",
+    "Xbox",
+    "fermeture studio",
+    "Marvel's Blade",
+    "Dishonored",
+    "Deathloop",
+    "loi Florange"
+  ],
+  "releaseIso": "2026-11-13",
+  "releaseLabel": "Deadline des consultations : 13 novembre 2026",
+  "platforms": [
+    "PC",
+    "PS5",
+    "Xbox Series"
+  ],
+  "theme": {
+    "accent": "#c41e1e",
+    "accent2": "#1a1a1a",
+    "accentSoft": "rgba(196, 30, 30, 0.14)"
+  }
+}

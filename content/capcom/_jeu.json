@@ -1,0 +1,33 @@
+{
+  "name": "Capcom",
+  "shortName": "Capcom",
+  "tagline": "La fuite massive de 11,7 millions de comptes Capcom ID et l'actualité sécurité de l'éditeur japonais",
+  "description": "Capcom a confirmé une fuite de données touchant 11 774 247 comptes Capcom ID : emails, dates de connexion et adresses IP dérobés. Ce dossier suit l'incident, ses conséquences pour les joueurs et la riposte de l'éditeur.",
+  "intro": [
+    "**Capcom** a confirmé le 22 octobre 2026 une violation de données d'une ampleur rare dans le jeu vidéo : **11 774 247 comptes Capcom ID** ont vu leurs informations compromises, dont adresses email et adresses IP.",
+    "Ce dossier rassemble **l'essentiel de l'incident** : le détail des données volées, la chronologie de la réponse de l'éditeur et les précautions à prendre contre les campagnes de phishing qui pourraient suivre."
+  ],
+  "cover": "/images/capcom-breach-annonce.jpg",
+  "coverAlt": "Page officielle d'annonce de Capcom présentant ses excuses après la fuite de données affectant 11,7 millions de comptes Capcom ID © Capcom",
+  "keywords": [
+    "Capcom",
+    "fuite de données",
+    "Capcom ID",
+    "piratage",
+    "cybersécurité",
+    "phishing"
+  ],
+  "releaseIso": "2026-10-22",
+  "releaseLabel": "Incident révélé le 22 octobre 2026",
+  "platforms": [
+    "PC",
+    "PS5",
+    "Xbox Series",
+    "Switch"
+  ],
+  "theme": {
+    "accent": "#ffc90e",
+    "accent2": "#005bac",
+    "accentSoft": "rgba(255, 201, 14, 0.16)"
+  }
+}

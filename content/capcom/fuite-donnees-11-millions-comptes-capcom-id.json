@@ -1,0 +1,115 @@
+{
+  "shortTitle": "Capcom piraté : 11,7 millions de comptes",
+  "title": "Capcom piraté : 11,7 millions de comptes Capcom ID compromis, l'éditeur alerte sur le phishing",
+  "description": "Capcom a confirmé une fuite massive touchant 11 774 247 comptes Capcom ID : emails, dates de connexion et adresses IP dérobés. L'éditeur japonais appelle les joueurs à la vigilance.",
+  "excerpt": "11 774 247 adresses email, dates de création de compte, dernières connexions et adresses IP : Capcom a détaillé l'ampleur exacte de la fuite détectée le 19 octobre. Les mots de passe et données bancaires, eux, sont hors danger.",
+  "category": "News",
+  "date": "2026-10-25",
+  "updatedAt": "2026-10-25",
+  "readingTime": 6,
+  "cover": "/images/capcom-breach-annonce.jpg",
+  "coverAlt": "Annonce officielle de Capcom présentant ses excuses après la fuite de données de 11,7 millions de comptes Capcom ID © Capcom",
+  "keywords": [
+    "Capcom",
+    "fuite de données",
+    "Capcom ID",
+    "piratage",
+    "11,7 millions de comptes",
+    "phishing",
+    "cybersécurité",
+    "Street Fighter 6",
+    "Monster Hunter",
+    "Resident Evil"
+  ],
+  "keyPoints": [
+    "Capcom a confirmé le 22 octobre 2026 une fuite touchant 11 774 247 comptes Capcom ID",
+    "Données volées : adresses email, dates de création et de dernière connexion, nombre de connexions et adresses IP",
+    "43 comptes ont aussi vu leur date de naissance, genre, pays et pseudonyme exposés",
+    "Les attaquants ont changé 196 mots de passe sans autorisation — tous réinitialisés par Capcom",
+    "Les mots de passe clients et les données bancaires n'ont pas été dérobés, assure l'éditeur",
+    "Capcom alerte sur le risque de phishing et demande aux joueurs de ne cliquer sur aucun lien suspect"
+  ],
+  "blocks": [
+    {
+      "type": "p",
+      "text": "C'est l'une des plus grosses fuites de données de l'histoire récente du jeu vidéo. **Capcom** a confirmé le 22 octobre 2026 qu'un tiers non autorisé a accédé à son service de comptes **Capcom ID**, exposant les informations de **11 774 247 comptes** dans le monde."
+    },
+    {
+      "type": "h2",
+      "text": "Quelles données ont été volées ?"
+    },
+    {
+      "type": "p",
+      "text": "Selon le communiqué officiel de Capcom, repris par SecurityWeek, BleepingComputer et PCMag, les enregistrements compromis incluent :"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**11 774 247 adresses email** et identifiants système associés.",
+        "Pour chaque compte : la **date de création**, la **date de dernière connexion**, le **nombre de connexions** et **l'adresse IP** utilisée lors de la dernière session.",
+        "**43 comptes** supplémentairement exposés : date de naissance, genre, pays/région et pseudonyme.",
+        "**196 comptes** dont le mot de passe a été **changé sans autorisation** par les attaquants."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Le point crucial rassure : Capcom affirme que **les mots de passe définis par les clients n'ont pas été dérobés** et que **les informations de cartes bancaires n'ont pas été touchées**. Les 196 mots de passe modifiés ont déjà été réinitialisés par l'éditeur."
+    },
+    {
+      "type": "h2",
+      "text": "La chronologie de la crise"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Dimanche 19 octobre** : Capcom détecte une activité suspecte et confirme un accès non autorisé le jour même.",
+        "**Lundi 20 octobre** : une cellule de crise interne est créée pour contenir l'incident.",
+        "**Mardi 21 octobre** : signalement à la police préfectorale d'Osaka et à la Commission de protection des informations personnelles du Japon.",
+        "**Mercredi 22 octobre** : annonce publique de l'incident et de son ampleur exacte."
+      ]
+    },
+    {
+      "type": "quote",
+      "text": "Nous avons identifié et neutralisé la méthode d'attaque utilisée dans cet incident. Les services Capcom ID et nos jeux restent pleinement accessibles.",
+      "cite": "Communiqué officiel de Capcom, 22 octobre 2026"
+    },
+    {
+      "type": "h2",
+      "text": "Le vrai danger : le phishing"
+    },
+    {
+      "type": "p",
+      "text": "Avec 11,7 millions d'adresses email en circulation, le risque majeur identifié par Capcom est **l'hameçonnage** : les attaquants peuvent désormais envoyer des faux emails « officiels » particulièrement convaincants, usurpant l'identité de Capcom ou de ses partenaires. L'éditeur demande aux joueurs de **ne cliquer sur aucun lien ni pièce jointe** dans un message suspect et a ouvert des canaux d'assistance dédiés, dont une ligne gratuite au Japon et des formulaires en ligne pour les Amériques et l'Europe."
+    },
+    {
+      "type": "h2",
+      "text": "Quels jeux et quels joueurs sont concernés ?"
+    },
+    {
+      "type": "p",
+      "text": "Le compte Capcom ID sert d'identifiant unique pour l'ensemble de l'écosystème de l'éditeur : **Street Fighter 6** et son système de combat en ligne, la série **Monster Hunter** (dont Monster Hunter Wilds), **Resident Evil Requiem**, **Pragmata** ou encore **Onimusha: Way of the Sword**. Capcom précise que **la fuite n'affecte pas la capacité à jouer** : connexions et services multijoueurs fonctionnent normalement."
+    },
+    {
+      "type": "p",
+      "text": "Ce n'est pas la première fois que l'éditeur est visé : en novembre 2020, le groupe **Ragnar Locker** avait revendiqué le vol d'un téraoctet de données internes, alors estimées à 390 000 personnes potentiellement touchées. Six ans plus tard, l'échelle du nouveau braquage numérique est trente fois supérieure."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Mon compte Capcom ID est-il concerné par la fuite ?",
+      "a": "Si vous possédez un compte Capcom ID, votre adresse email figure très probablement parmi les 11 774 247 enregistrements volés. Capcom contacte les utilisateurs concernés et recommande de changer votre mot de passe par précaution, même si l'éditeur assure qu'aucun mot de passe client n'a été dérobé."
+    },
+    {
+      "q": "Mes données bancaires sont-elles en danger ?",
+      "a": "Non selon Capcom : les informations de cartes de crédit n'ont pas été compromises. Seules les adresses email et des métadonnées de connexion (dates, IP) ont fuité, plus des données personnelles limitées pour 43 comptes."
+    },
+    {
+      "q": "Que faire si je reçois un email de Capcom ?",
+      "a": "Soyez extrêmement vigilant : ne cliquez sur aucun lien ni pièce jointe tant que vous n'avez pas vérifié l'expéditeur. Capcom avertit que les attaquants pourraient envoyer de faux emails imitant l'éditeur. En cas de doute, connectez-vous directement sur le site officiel capcom.com plutôt que via un lien reçu par mail."
+    },
+    {
+      "q": "Puis-je encore jouer à Street Fighter 6 ou Monster Hunter ?",
+      "a": "Oui. Capcom confirme que tous ses jeux et services en ligne (Street Fighter 6, Monster Hunter, Resident Evil, etc.) restent accessibles normalement malgré l'incident."
+    }
+  ]
+}
